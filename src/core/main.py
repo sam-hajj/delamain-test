@@ -7,3 +7,4 @@
 2020-01-10T13:07:43 - INITIAL_LOW - Initial setup: main.py
 2020-01-10T13:49:52 - INITIAL_LOW - Initial setup: main.py
 2020-01-12T13:47:35 - INITIAL_LOW - docs: Outline contribution guidelines
+2020-01-29T12:26:57 - INITIAL_LOW - docs: Basic README for core
