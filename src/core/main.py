@@ -10,3 +10,4 @@
 2020-01-29T12:26:57 - INITIAL_LOW - docs: Basic README for core
 2020-01-29T12:56:28 - INITIAL_LOW - refactor: Initial project structure for core
 2020-01-31T14:10:27 - INITIAL_LOW - Initial setup: main.py
+2020-02-03T11:23:43 - INITIAL_LOW - docs: Outline contribution guidelines
