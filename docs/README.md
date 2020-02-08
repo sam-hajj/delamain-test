@@ -9,3 +9,4 @@
 2020-01-24T11:58:52 - INITIAL_LOW - chore: Add .gitignore
 2020-02-05T10:13:30 - INITIAL_LOW - docs: Outline contribution guidelines
 2020-02-05T10:14:08 - INITIAL_LOW - refactor: Initial project structure for docs
+2020-02-08T11:51:32 - INITIAL_LOW - docs: Basic README for docs
