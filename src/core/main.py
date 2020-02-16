@@ -14,3 +14,4 @@
 2020-02-03T11:55:21 - INITIAL_LOW - chore: Add .gitignore
 2020-02-05T10:06:50 - INITIAL_LOW - docs: Basic README for core
 2020-02-10T10:28:59 - INITIAL_LOW - chore: Add .gitignore
+2020-02-16T15:56:49 - INITIAL_LOW - docs: Basic README for core
