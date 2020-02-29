@@ -1,1 +1,2 @@
 2020-02-24T11:59:22 - RAMPING_UP - refactor: Improve user structure in src
+2020-02-29T14:35:14 - RAMPING_UP - feat: Add core logic for notifications service in requirements.txt
