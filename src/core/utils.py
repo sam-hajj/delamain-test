@@ -3,3 +3,4 @@
 2020-02-25T15:37:23 - RAMPING_UP - feat: Implement basic login in utils.py
 2020-03-03T13:08:24 - RAMPING_UP - feat: Implement basic data processing in utils.py
 2020-03-03T13:28:25 - RAMPING_UP - feat: Implement basic notifications in utils.py
+2020-03-07T13:42:41 - RAMPING_UP - chore: Update requirements.txt
