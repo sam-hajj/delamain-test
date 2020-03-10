@@ -10,3 +10,4 @@
 2020-03-04T11:34:54 - RAMPING_UP - feat: Implement basic login in CONTRIBUTING.md
 2020-03-05T08:14:56 - RAMPING_UP - test: Add initial unit tests for CONTRIBUTING.md
 2020-03-05T10:50:05 - RAMPING_UP - feat: Implement basic search in CONTRIBUTING.md
+2020-03-10T12:44:14 - RAMPING_UP - feat: Add core logic for payments service in CONTRIBUTING.md
