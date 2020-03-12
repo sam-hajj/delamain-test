@@ -9,3 +9,4 @@
 2020-03-11T12:28:56 - RAMPING_UP - feat: Add core logic for profile service in test_core.py
 2020-03-11T12:36:22 - RAMPING_UP - docs: Detail setup instructions
 2020-03-11T12:42:49 - RAMPING_UP - feat: Implement basic login in test_core.py
+2020-03-12T11:47:16 - RAMPING_UP - feat: Implement basic notifications in test_core.py
