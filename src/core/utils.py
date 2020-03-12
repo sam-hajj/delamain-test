@@ -4,3 +4,4 @@
 2020-03-03T13:08:24 - RAMPING_UP - feat: Implement basic data processing in utils.py
 2020-03-03T13:28:25 - RAMPING_UP - feat: Implement basic notifications in utils.py
 2020-03-07T13:42:41 - RAMPING_UP - chore: Update requirements.txt
+2020-03-12T11:28:12 - RAMPING_UP - refactor: Improve reporting structure in core
