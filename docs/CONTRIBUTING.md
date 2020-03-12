@@ -13,3 +13,4 @@
 2020-03-10T12:44:14 - RAMPING_UP - feat: Add core logic for payments service in CONTRIBUTING.md
 2020-03-12T11:20:32 - RAMPING_UP - test: Add initial unit tests for CONTRIBUTING.md
 2020-03-12T11:31:41 - RAMPING_UP - chore: Update requirements.txt
+2020-03-12T11:40:12 - RAMPING_UP - feat: Add core logic for caching service in CONTRIBUTING.md
