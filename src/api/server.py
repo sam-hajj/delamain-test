@@ -9,3 +9,4 @@
 2020-03-11T12:31:20 - RAMPING_UP - chore: Update requirements.txt
 2020-03-12T11:18:36 - RAMPING_UP - chore: Update requirements.txt
 2020-03-13T12:08:01 - RAMPING_UP - feat: Implement basic caching in server.py
+2020-03-13T13:34:59 - RAMPING_UP - feat: Add core logic for payments service in server.py
