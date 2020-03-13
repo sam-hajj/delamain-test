@@ -10,3 +10,4 @@
 2020-03-11T12:36:22 - RAMPING_UP - docs: Detail setup instructions
 2020-03-11T12:42:49 - RAMPING_UP - feat: Implement basic login in test_core.py
 2020-03-12T11:47:16 - RAMPING_UP - feat: Implement basic notifications in test_core.py
+2020-03-13T13:35:32 - RAMPING_UP - test: Add initial unit tests for test_core.py
