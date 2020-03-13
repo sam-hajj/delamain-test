@@ -5,3 +5,4 @@
 2020-03-03T13:28:25 - RAMPING_UP - feat: Implement basic notifications in utils.py
 2020-03-07T13:42:41 - RAMPING_UP - chore: Update requirements.txt
 2020-03-12T11:28:12 - RAMPING_UP - refactor: Improve reporting structure in core
+2020-03-13T13:45:35 - RAMPING_UP - feat: Add core logic for login service in utils.py
