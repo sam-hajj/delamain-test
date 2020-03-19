@@ -7,3 +7,4 @@
 2020-02-24T12:49:01 - RAMPING_UP - feat: Implement basic search in models.py
 2020-03-05T10:01:31 - RAMPING_UP - chore: Update requirements.txt
 2020-03-17T13:51:47 - RAMPING_UP - feat: Add core logic for payments service in models.py
+2020-03-19T12:43:56 - RAMPING_UP - docs: Detail setup instructions
