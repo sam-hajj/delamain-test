@@ -11,3 +11,4 @@
 2020-03-13T12:08:01 - RAMPING_UP - feat: Implement basic caching in server.py
 2020-03-13T13:34:59 - RAMPING_UP - feat: Add core logic for payments service in server.py
 2020-03-17T13:44:11 - RAMPING_UP - test: Add initial unit tests for server.py
+2020-03-19T12:09:50 - RAMPING_UP - docs: Detail setup instructions
