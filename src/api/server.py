@@ -13,3 +13,4 @@
 2020-03-17T13:44:11 - RAMPING_UP - test: Add initial unit tests for server.py
 2020-03-19T12:09:50 - RAMPING_UP - docs: Detail setup instructions
 2020-03-20T13:12:14 - RAMPING_UP - refactor: Improve auth structure in api
+2020-03-20T13:47:29 - RAMPING_UP - feat: Implement basic search in server.py
