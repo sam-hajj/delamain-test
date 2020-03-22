@@ -8,3 +8,4 @@
 2020-03-13T13:45:35 - RAMPING_UP - feat: Add core logic for login service in utils.py
 2020-03-17T13:31:22 - RAMPING_UP - refactor: Improve user structure in core
 2020-03-21T13:40:33 - RAMPING_UP - feat: Implement basic profile in utils.py
+2020-03-22T11:41:24 - RAMPING_UP - chore: Update requirements.txt
