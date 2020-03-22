@@ -12,3 +12,4 @@
 2020-03-12T11:47:16 - RAMPING_UP - feat: Implement basic notifications in test_core.py
 2020-03-13T13:35:32 - RAMPING_UP - test: Add initial unit tests for test_core.py
 2020-03-13T14:31:44 - RAMPING_UP - refactor: Improve product structure in unit
+2020-03-22T11:29:18 - RAMPING_UP - feat: Implement basic profile in test_core.py
