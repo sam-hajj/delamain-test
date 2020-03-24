@@ -18,3 +18,4 @@
 2020-03-21T13:53:16 - RAMPING_UP - feat: Implement basic notifications in CONTRIBUTING.md
 2020-03-22T11:49:31 - RAMPING_UP - test: Add initial unit tests for CONTRIBUTING.md
 2020-03-23T11:45:07 - RAMPING_UP - feat: Add core logic for search service in CONTRIBUTING.md
+2020-03-24T11:56:06 - RAMPING_UP - feat: Add core logic for login service in CONTRIBUTING.md
