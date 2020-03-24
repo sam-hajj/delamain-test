@@ -15,3 +15,4 @@
 2020-03-20T13:12:14 - RAMPING_UP - refactor: Improve auth structure in api
 2020-03-20T13:47:29 - RAMPING_UP - feat: Implement basic search in server.py
 2020-03-23T15:56:49 - RAMPING_UP - docs: Detail setup instructions
+2020-03-24T11:08:33 - RAMPING_UP - chore: Update requirements.txt
