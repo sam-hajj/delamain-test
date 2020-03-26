@@ -10,3 +10,4 @@
 2020-03-19T12:43:56 - RAMPING_UP - docs: Detail setup instructions
 2020-03-23T11:27:31 - RAMPING_UP - chore: Update requirements.txt
 2020-03-23T13:04:21 - RAMPING_UP - feat: Implement basic notifications in models.py
+2020-03-26T11:02:57 - RAMPING_UP - refactor: Improve reporting structure in core
