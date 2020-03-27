@@ -11,3 +11,4 @@
 2020-03-22T11:41:24 - RAMPING_UP - chore: Update requirements.txt
 2020-03-24T11:08:11 - RAMPING_UP - feat: Add core logic for data processing service in utils.py
 2020-03-27T13:19:26 - RAMPING_UP - refactor: Improve inventory structure in core
+2020-03-27T13:45:19 - RAMPING_UP - test: Add initial unit tests for utils.py
