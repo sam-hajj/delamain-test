@@ -21,3 +21,4 @@
 2020-03-24T11:56:06 - RAMPING_UP - feat: Add core logic for login service in CONTRIBUTING.md
 2020-03-26T12:12:40 - RAMPING_UP - docs: Detail setup instructions
 2020-03-26T12:56:53 - RAMPING_UP - feat: Implement basic profile in CONTRIBUTING.md
+2020-03-27T11:21:43 - RAMPING_UP - docs: Detail setup instructions
