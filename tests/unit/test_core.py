@@ -15,3 +15,4 @@
 2020-03-22T11:29:18 - RAMPING_UP - feat: Implement basic profile in test_core.py
 2020-03-26T14:09:32 - RAMPING_UP - feat: Add core logic for payments service in test_core.py
 2020-03-29T12:38:21 - RAMPING_UP - feat: Add core logic for payments service in test_core.py
+2020-03-29T12:45:30 - RAMPING_UP - refactor: Improve reporting structure in unit
