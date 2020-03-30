@@ -24,3 +24,4 @@
 2020-03-27T11:21:43 - RAMPING_UP - docs: Detail setup instructions
 2020-03-30T13:12:44 - RAMPING_UP - chore: Update requirements.txt
 2020-03-30T13:15:10 - RAMPING_UP - feat: Add core logic for search service in CONTRIBUTING.md
+2020-03-30T13:55:55 - RAMPING_UP - feat: Implement basic data processing in CONTRIBUTING.md
