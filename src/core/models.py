@@ -15,3 +15,4 @@
 2020-03-29T12:43:10 - RAMPING_UP - refactor: Improve product structure in core
 2020-03-29T14:59:05 - RAMPING_UP - feat: Add core logic for login service in models.py
 2020-03-30T12:10:00 - RAMPING_UP - refactor: Improve product structure in core
+2020-03-30T13:41:35 - RAMPING_UP - test: Add initial unit tests for models.py
