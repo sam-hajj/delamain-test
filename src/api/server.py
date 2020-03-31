@@ -19,3 +19,4 @@
 2020-03-26T12:50:06 - RAMPING_UP - docs: Detail setup instructions
 2020-03-29T12:50:18 - RAMPING_UP - test: Add initial unit tests for server.py
 2020-03-29T12:57:38 - RAMPING_UP - refactor: Improve inventory structure in api
+2020-03-31T13:51:21 - RAMPING_UP - docs: Detail setup instructions
