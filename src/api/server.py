@@ -21,3 +21,4 @@
 2020-03-29T12:57:38 - RAMPING_UP - refactor: Improve inventory structure in api
 2020-03-31T13:51:21 - RAMPING_UP - docs: Detail setup instructions
 2020-03-31T14:10:41 - RAMPING_UP - test: Add initial unit tests for server.py
+2020-04-01T12:00:24 - RAMPING_UP - feat: Add core logic for login service in server.py
