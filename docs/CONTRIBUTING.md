@@ -27,3 +27,4 @@
 2020-03-30T13:55:55 - RAMPING_UP - feat: Implement basic data processing in CONTRIBUTING.md
 2020-03-31T10:02:08 - RAMPING_UP - feat: Add core logic for payments service in CONTRIBUTING.md
 2020-03-31T12:18:41 - RAMPING_UP - feat: Implement basic caching in CONTRIBUTING.md
+2020-04-01T12:11:04 - RAMPING_UP - test: Add initial unit tests for CONTRIBUTING.md
