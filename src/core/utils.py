@@ -13,3 +13,4 @@
 2020-03-27T13:19:26 - RAMPING_UP - refactor: Improve inventory structure in core
 2020-03-27T13:45:19 - RAMPING_UP - test: Add initial unit tests for utils.py
 2020-03-31T12:18:10 - RAMPING_UP - test: Add initial unit tests for utils.py
+2020-04-01T11:26:33 - RAMPING_UP - chore: Update requirements.txt
