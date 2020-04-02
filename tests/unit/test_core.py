@@ -20,3 +20,4 @@
 2020-03-31T12:50:23 - RAMPING_UP - docs: Detail setup instructions
 2020-04-01T13:54:42 - RAMPING_UP - feat: Add core logic for payments service in test_core.py
 2020-04-02T12:39:15 - RAMPING_UP - refactor: Improve inventory structure in unit
+2020-04-02T12:40:50 - RAMPING_UP - feat: Implement basic payments in test_core.py
