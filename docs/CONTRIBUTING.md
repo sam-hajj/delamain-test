@@ -30,3 +30,4 @@
 2020-04-01T12:11:04 - RAMPING_UP - test: Add initial unit tests for CONTRIBUTING.md
 2020-04-02T12:12:21 - RAMPING_UP - chore: Update requirements.txt
 2020-04-02T12:38:19 - RAMPING_UP - docs: Detail setup instructions
+2020-04-02T12:54:22 - RAMPING_UP - feat: Add core logic for login service in CONTRIBUTING.md
