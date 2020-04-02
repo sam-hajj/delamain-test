@@ -15,3 +15,4 @@
 2020-03-31T12:18:10 - RAMPING_UP - test: Add initial unit tests for utils.py
 2020-04-01T11:26:33 - RAMPING_UP - chore: Update requirements.txt
 2020-04-01T12:07:28 - RAMPING_UP - test: Add initial unit tests for utils.py
+2020-04-02T12:08:54 - RAMPING_UP - docs: Detail setup instructions
