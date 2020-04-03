@@ -32,3 +32,4 @@
 2020-04-02T12:38:19 - RAMPING_UP - docs: Detail setup instructions
 2020-04-02T12:54:22 - RAMPING_UP - feat: Add core logic for login service in CONTRIBUTING.md
 2020-04-02T12:57:37 - RAMPING_UP - chore: Update requirements.txt
+2020-04-03T13:58:38 - RAMPING_UP - feat: Add core logic for payments service in CONTRIBUTING.md
