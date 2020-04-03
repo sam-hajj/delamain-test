@@ -21,3 +21,4 @@
 2020-04-02T12:15:54 - RAMPING_UP - test: Add initial unit tests for models.py
 2020-04-03T11:32:35 - RAMPING_UP - docs: Detail setup instructions
 2020-04-03T12:40:19 - RAMPING_UP - feat: Implement basic payments in models.py
+2020-04-03T13:05:03 - RAMPING_UP - feat: Add core logic for search service in models.py
