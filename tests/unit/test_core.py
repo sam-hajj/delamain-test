@@ -22,3 +22,4 @@
 2020-04-02T12:39:15 - RAMPING_UP - refactor: Improve inventory structure in unit
 2020-04-02T12:40:50 - RAMPING_UP - feat: Implement basic payments in test_core.py
 2020-04-03T13:01:43 - RAMPING_UP - refactor: Improve user structure in unit
+2020-04-03T13:42:23 - RAMPING_UP - chore: Update requirements.txt
