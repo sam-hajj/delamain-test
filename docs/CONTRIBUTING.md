@@ -35,3 +35,4 @@
 2020-04-03T13:58:38 - RAMPING_UP - feat: Add core logic for payments service in CONTRIBUTING.md
 2020-04-05T12:44:55 - RAMPING_UP - chore: Update requirements.txt
 2020-04-05T12:55:52 - RAMPING_UP - refactor: Improve user structure in docs
+2020-04-07T12:02:19 - RAMPING_UP - docs: Detail setup instructions
