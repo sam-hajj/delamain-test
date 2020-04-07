@@ -24,3 +24,4 @@
 2020-04-03T13:01:43 - RAMPING_UP - refactor: Improve user structure in unit
 2020-04-03T13:42:23 - RAMPING_UP - chore: Update requirements.txt
 2020-04-03T14:34:32 - RAMPING_UP - feat: Add core logic for caching service in test_core.py
+2020-04-07T13:20:35 - RAMPING_UP - feat: Implement basic caching in test_core.py
