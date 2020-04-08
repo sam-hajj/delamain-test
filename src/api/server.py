@@ -24,3 +24,4 @@
 2020-04-01T12:00:24 - RAMPING_UP - feat: Add core logic for login service in server.py
 2020-04-07T13:19:19 - RAMPING_UP - chore: Update requirements.txt
 2020-04-07T14:25:53 - RAMPING_UP - feat: Implement basic search in server.py
+2020-04-08T15:23:53 - RAMPING_UP - chore: Update requirements.txt
