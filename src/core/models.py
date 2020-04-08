@@ -25,3 +25,4 @@
 2020-04-03T14:59:18 - RAMPING_UP - chore: Update requirements.txt
 2020-04-04T11:18:13 - RAMPING_UP - feat: Implement basic data processing in models.py
 2020-04-07T12:54:54 - RAMPING_UP - docs: Detail setup instructions
+2020-04-08T16:11:09 - RAMPING_UP - chore: Update requirements.txt
