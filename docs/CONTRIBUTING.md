@@ -37,3 +37,4 @@
 2020-04-05T12:55:52 - RAMPING_UP - refactor: Improve user structure in docs
 2020-04-07T12:02:19 - RAMPING_UP - docs: Detail setup instructions
 2020-04-07T13:45:20 - RAMPING_UP - test: Add initial unit tests for CONTRIBUTING.md
+2020-04-09T11:06:29 - RAMPING_UP - refactor: Improve inventory structure in docs
