@@ -26,3 +26,4 @@
 2020-04-07T14:25:53 - RAMPING_UP - feat: Implement basic search in server.py
 2020-04-08T15:23:53 - RAMPING_UP - chore: Update requirements.txt
 2020-04-08T15:54:26 - RAMPING_UP - test: Add initial unit tests for server.py
+2020-04-09T12:27:47 - RAMPING_UP - test: Add initial unit tests for server.py
