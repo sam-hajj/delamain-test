@@ -27,3 +27,4 @@
 2020-04-07T12:54:54 - RAMPING_UP - docs: Detail setup instructions
 2020-04-08T16:11:09 - RAMPING_UP - chore: Update requirements.txt
 2020-04-08T16:39:18 - RAMPING_UP - feat: Implement basic payments in models.py
+2020-04-09T11:25:46 - RAMPING_UP - feat: Add core logic for caching service in models.py
