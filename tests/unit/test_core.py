@@ -27,3 +27,4 @@
 2020-04-07T13:20:35 - RAMPING_UP - feat: Implement basic caching in test_core.py
 2020-04-08T15:58:43 - RAMPING_UP - chore: Update requirements.txt
 2020-04-10T13:27:19 - RAMPING_UP - feat: Add core logic for profile service in test_core.py
+2020-04-10T15:16:14 - RAMPING_UP - feat: Implement basic login in test_core.py
