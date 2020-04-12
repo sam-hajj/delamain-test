@@ -24,3 +24,4 @@
 2020-04-05T12:48:02 - RAMPING_UP - feat: Implement basic notifications in utils.py
 2020-04-08T15:18:37 - RAMPING_UP - test: Add initial unit tests for utils.py
 2020-04-08T15:54:31 - RAMPING_UP - refactor: Improve inventory structure in core
+2020-04-12T12:21:45 - COOLING_DOWN - fix: Address minor issues from backlog (related to utils.py)
