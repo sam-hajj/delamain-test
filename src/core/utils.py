@@ -31,3 +31,4 @@
 2020-04-14T10:26:30 - COOLING_DOWN - chore: Update dependencies
 2020-04-15T09:32:07 - COOLING_DOWN - chore: Update dependencies
 2020-04-15T09:35:56 - COOLING_DOWN - style: Apply linter fixes across core
+2020-04-16T13:08:47 - COOLING_DOWN - refactor: Code cleanup in utils.py
