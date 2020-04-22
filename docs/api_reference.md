@@ -7,3 +7,4 @@
 2020-04-18T14:28:45 - COOLING_DOWN - fix: Address minor issues from backlog (related to api_reference.md)
 2020-04-18T15:18:59 - COOLING_DOWN - chore: Update dependencies
 2020-04-21T12:33:18 - COOLING_DOWN - test: Refactor tests for product for clarity
+2020-04-22T14:26:37 - COOLING_DOWN - refactor: Code cleanup in api_reference.md
