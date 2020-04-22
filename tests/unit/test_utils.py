@@ -6,3 +6,4 @@
 2020-04-17T13:31:52 - COOLING_DOWN - refactor: Code cleanup in test_utils.py
 2020-04-17T13:36:18 - COOLING_DOWN - style: Apply linter fixes across unit
 2020-04-17T14:43:41 - COOLING_DOWN - chore: Update dependencies
+2020-04-22T14:41:57 - COOLING_DOWN - docs: Add usage examples for search
