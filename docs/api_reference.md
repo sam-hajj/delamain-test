@@ -9,3 +9,4 @@
 2020-04-21T12:33:18 - COOLING_DOWN - test: Refactor tests for product for clarity
 2020-04-22T14:26:37 - COOLING_DOWN - refactor: Code cleanup in api_reference.md
 2020-04-26T11:17:51 - COOLING_DOWN - docs: Add usage examples for profile
+2020-04-26T11:55:35 - COOLING_DOWN - docs: Add usage examples for payments
