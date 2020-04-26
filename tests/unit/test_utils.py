@@ -8,3 +8,4 @@
 2020-04-17T14:43:41 - COOLING_DOWN - chore: Update dependencies
 2020-04-22T14:41:57 - COOLING_DOWN - docs: Add usage examples for search
 2020-04-25T10:05:13 - COOLING_DOWN - fix: Address minor issues from backlog (related to test_utils.py)
+2020-04-26T11:31:19 - COOLING_DOWN - test: Refactor tests for product for clarity
