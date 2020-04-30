@@ -10,3 +10,4 @@
 2020-04-25T10:05:13 - COOLING_DOWN - fix: Address minor issues from backlog (related to test_utils.py)
 2020-04-26T11:31:19 - COOLING_DOWN - test: Refactor tests for product for clarity
 2020-04-29T12:49:22 - COOLING_DOWN - style: Apply linter fixes across unit
+2020-04-30T14:15:40 - COOLING_DOWN - docs: Add usage examples for profile
