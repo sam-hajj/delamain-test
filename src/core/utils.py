@@ -38,3 +38,4 @@
 2020-04-21T13:33:20 - COOLING_DOWN - chore: Update dependencies
 2020-04-27T13:25:46 - COOLING_DOWN - test: Refactor tests for user for clarity
 2020-04-29T12:30:35 - COOLING_DOWN - chore: Update dependencies
+2020-04-30T13:06:08 - COOLING_DOWN - test: Refactor tests for auth for clarity
