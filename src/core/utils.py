@@ -40,3 +40,4 @@
 2020-04-29T12:30:35 - COOLING_DOWN - chore: Update dependencies
 2020-04-30T13:06:08 - COOLING_DOWN - test: Refactor tests for auth for clarity
 2020-05-01T13:06:53 - COOLING_DOWN - fix: Address minor issues from backlog (related to utils.py)
+2020-05-05T14:06:42 - COOLING_DOWN - fix: Address minor issues from backlog (related to utils.py)
