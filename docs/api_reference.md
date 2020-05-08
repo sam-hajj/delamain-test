@@ -17,3 +17,4 @@
 2020-04-29T10:03:25 - COOLING_DOWN - test: Refactor tests for reporting for clarity
 2020-04-30T14:15:27 - COOLING_DOWN - style: Apply linter fixes across docs
 2020-05-05T14:02:57 - COOLING_DOWN - chore: Update dependencies
+2020-05-08T14:09:45 - COOLING_DOWN - refactor: Code cleanup in api_reference.md
