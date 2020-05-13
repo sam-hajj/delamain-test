@@ -20,3 +20,4 @@
 2020-05-08T14:09:45 - COOLING_DOWN - refactor: Code cleanup in api_reference.md
 2020-05-08T14:24:46 - COOLING_DOWN - chore: Update dependencies
 2020-05-11T11:48:11 - COOLING_DOWN - docs: Add usage examples for login
+2020-05-13T10:43:05 - COOLING_DOWN - style: Apply linter fixes across docs
