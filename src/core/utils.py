@@ -45,3 +45,4 @@
 2020-05-08T13:30:54 - COOLING_DOWN - refactor: Code cleanup in utils.py
 2020-05-08T14:23:57 - COOLING_DOWN - refactor: Code cleanup in utils.py
 2020-05-08T14:43:07 - COOLING_DOWN - docs: Add usage examples for caching
+2020-05-13T11:31:19 - COOLING_DOWN - test: Refactor tests for product for clarity
