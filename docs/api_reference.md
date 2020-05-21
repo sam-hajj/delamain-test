@@ -26,3 +26,4 @@
 2020-05-16T13:24:24 - COOLING_DOWN - style: Apply linter fixes across docs
 2020-05-16T13:39:38 - COOLING_DOWN - refactor: Code cleanup in api_reference.md
 2020-05-19T13:09:54 - COOLING_DOWN - style: Apply linter fixes across docs
+2020-05-21T12:52:50 - COOLING_DOWN - fix: Address minor issues from backlog (related to api_reference.md)
