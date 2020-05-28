@@ -50,3 +50,4 @@
 2020-05-16T13:53:05 - COOLING_DOWN - fix: Address minor issues from backlog (related to utils.py)
 2020-05-21T12:46:55 - COOLING_DOWN - fix: Address minor issues from backlog (related to utils.py)
 2020-05-26T14:49:58 - COOLING_DOWN - style: Apply linter fixes across core
+2020-05-28T11:11:56 - COOLING_DOWN - refactor: Code cleanup in utils.py
