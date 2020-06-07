@@ -23,3 +23,4 @@
 2020-06-02T15:51:03 - COOLING_DOWN - style: Apply linter fixes across unit
 2020-06-03T12:07:02 - COOLING_DOWN - docs: Add usage examples for profile
 2020-06-06T13:16:43 - COOLING_DOWN - refactor: Code cleanup in test_utils.py
+2020-06-07T15:07:04 - COOLING_DOWN - test: Refactor tests for inventory for clarity
