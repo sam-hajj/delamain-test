@@ -26,3 +26,4 @@
 2020-06-07T15:07:04 - COOLING_DOWN - test: Refactor tests for inventory for clarity
 2020-06-10T11:10:56 - COOLING_DOWN - style: Apply linter fixes across unit
 2020-06-11T13:39:07 - COOLING_DOWN - test: Refactor tests for auth for clarity
+2020-06-15T15:45:54 - COOLING_DOWN - test: Refactor tests for reporting for clarity
