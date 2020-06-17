@@ -30,3 +30,4 @@
 2020-04-09T11:25:46 - RAMPING_UP - feat: Add core logic for caching service in models.py
 2020-04-10T13:17:39 - RAMPING_UP - feat: Add core logic for profile service in models.py
 2020-04-10T13:45:30 - RAMPING_UP - test: Add initial unit tests for models.py
+2020-06-17T11:35:43 - RAMPING_UP - test: Add initial unit tests for models.py
