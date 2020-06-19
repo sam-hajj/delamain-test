@@ -30,3 +30,4 @@
 2020-04-10T15:16:14 - RAMPING_UP - feat: Implement basic login in test_core.py
 2020-06-17T11:38:59 - RAMPING_UP - docs: Detail setup instructions
 2020-06-17T11:56:57 - RAMPING_UP - feat: Add core logic for login service in test_core.py
+2020-06-19T12:45:47 - RAMPING_UP - docs: Detail setup instructions
