@@ -32,3 +32,4 @@
 2020-06-17T11:56:57 - RAMPING_UP - feat: Add core logic for login service in test_core.py
 2020-06-19T12:45:47 - RAMPING_UP - docs: Detail setup instructions
 2020-06-22T12:22:15 - RAMPING_UP - feat: Add core logic for payments service in test_core.py
+2020-06-22T12:55:54 - RAMPING_UP - test: Add initial unit tests for test_core.py
