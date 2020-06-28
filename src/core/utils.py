@@ -59,3 +59,4 @@
 2020-06-18T13:27:15 - RAMPING_UP - feat: Add core logic for login service in utils.py
 2020-06-23T12:05:19 - RAMPING_UP - refactor: Improve reporting structure in core
 2020-06-28T09:22:07 - RAMPING_UP - chore: Update requirements.txt
+2020-06-28T11:37:37 - RAMPING_UP - docs: Detail setup instructions
