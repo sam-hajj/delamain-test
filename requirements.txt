@@ -22,3 +22,4 @@
 2020-06-17T11:23:57 - RAMPING_UP - feat: Implement basic caching in requirements.txt
 2020-06-19T12:54:27 - RAMPING_UP - feat: Add core logic for notifications service in requirements.txt
 2020-06-25T16:20:51 - RAMPING_UP - refactor: Improve reporting structure in src
+2020-06-28T11:53:52 - RAMPING_UP - docs: Detail setup instructions
