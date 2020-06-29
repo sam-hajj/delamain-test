@@ -39,3 +39,4 @@
 2020-06-26T14:39:46 - RAMPING_UP - feat: Implement basic caching in test_core.py
 2020-06-26T14:42:07 - RAMPING_UP - feat: Add core logic for data processing service in test_core.py
 2020-06-29T10:18:06 - RAMPING_UP - feat: Implement basic caching in test_core.py
+2020-06-29T10:23:43 - RAMPING_UP - chore: Update requirements.txt
