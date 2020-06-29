@@ -33,3 +33,4 @@
 2020-06-25T15:42:38 - RAMPING_UP - test: Add initial unit tests for server.py
 2020-06-25T15:44:50 - RAMPING_UP - test: Add initial unit tests for server.py
 2020-06-26T14:19:50 - RAMPING_UP - feat: Add core logic for notifications service in server.py
+2020-06-29T10:35:42 - RAMPING_UP - feat: Add core logic for payments service in server.py
