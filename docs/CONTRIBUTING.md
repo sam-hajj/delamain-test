@@ -40,3 +40,4 @@
 2020-04-09T11:06:29 - RAMPING_UP - refactor: Improve inventory structure in docs
 2020-06-19T13:21:45 - RAMPING_UP - chore: Update requirements.txt
 2020-06-26T14:15:54 - RAMPING_UP - feat: Implement basic notifications in CONTRIBUTING.md
+2020-07-01T12:28:14 - RAMPING_UP - docs: Detail setup instructions
