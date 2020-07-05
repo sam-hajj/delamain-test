@@ -60,3 +60,4 @@
 2020-06-23T12:05:19 - RAMPING_UP - refactor: Improve reporting structure in core
 2020-06-28T09:22:07 - RAMPING_UP - chore: Update requirements.txt
 2020-06-28T11:37:37 - RAMPING_UP - docs: Detail setup instructions
+2020-07-05T11:32:02 - RAMPING_UP - docs: Detail setup instructions
