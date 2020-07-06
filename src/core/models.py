@@ -34,3 +34,4 @@
 2020-06-17T13:43:54 - RAMPING_UP - docs: Detail setup instructions
 2020-07-02T14:40:16 - RAMPING_UP - refactor: Improve inventory structure in core
 2020-07-06T10:47:51 - RAMPING_UP - chore: Update requirements.txt
+2020-07-06T11:50:30 - RAMPING_UP - feat: Add core logic for profile service in models.py
