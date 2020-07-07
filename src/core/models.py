@@ -36,3 +36,4 @@
 2020-07-06T10:47:51 - RAMPING_UP - chore: Update requirements.txt
 2020-07-06T11:50:30 - RAMPING_UP - feat: Add core logic for profile service in models.py
 2020-07-07T08:36:10 - RAMPING_UP - docs: Detail setup instructions
+2020-07-07T10:21:23 - RAMPING_UP - refactor: Improve product structure in core
