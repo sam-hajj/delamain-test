@@ -38,3 +38,4 @@
 2020-07-07T08:36:10 - RAMPING_UP - docs: Detail setup instructions
 2020-07-07T10:21:23 - RAMPING_UP - refactor: Improve product structure in core
 2020-07-07T10:50:45 - RAMPING_UP - docs: Detail setup instructions
+2020-07-07T10:52:28 - RAMPING_UP - chore: Update requirements.txt
