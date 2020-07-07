@@ -42,3 +42,4 @@
 2020-06-26T14:15:54 - RAMPING_UP - feat: Implement basic notifications in CONTRIBUTING.md
 2020-07-01T12:28:14 - RAMPING_UP - docs: Detail setup instructions
 2020-07-05T10:58:42 - RAMPING_UP - refactor: Improve auth structure in docs
+2020-07-07T10:26:09 - RAMPING_UP - test: Add initial unit tests for CONTRIBUTING.md
