@@ -45,3 +45,4 @@
 2020-07-05T11:34:35 - RAMPING_UP - chore: Update requirements.txt
 2020-07-07T11:47:51 - RAMPING_UP - chore: Update requirements.txt
 2020-07-08T13:11:42 - RAMPING_UP - feat: Implement basic login in test_core.py
+2020-07-08T13:31:46 - RAMPING_UP - refactor: Improve reporting structure in unit
