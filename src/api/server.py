@@ -38,3 +38,4 @@
 2020-07-02T14:50:40 - RAMPING_UP - docs: Detail setup instructions
 2020-07-06T12:15:59 - RAMPING_UP - docs: Detail setup instructions
 2020-07-08T12:44:38 - RAMPING_UP - feat: Implement basic data processing in server.py
+2020-07-08T13:27:05 - RAMPING_UP - refactor: Improve inventory structure in api
