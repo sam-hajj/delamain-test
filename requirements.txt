@@ -30,3 +30,4 @@
 2020-07-06T12:41:51 - RAMPING_UP - test: Add initial unit tests for requirements.txt
 2020-07-08T13:04:28 - RAMPING_UP - feat: Add core logic for search service in requirements.txt
 2020-07-14T14:10:36 - RAMPING_UP - refactor: Improve reporting structure in src
+2020-07-17T15:13:34 - RAMPING_UP - refactor: Improve order structure in src
