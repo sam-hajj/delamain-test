@@ -48,3 +48,4 @@
 2020-07-08T13:31:46 - RAMPING_UP - refactor: Improve reporting structure in unit
 2020-07-17T14:45:24 - RAMPING_UP - chore: Update requirements.txt
 2020-07-18T11:12:21 - RAMPING_UP - feat: Implement basic notifications in test_core.py
+2020-07-18T11:12:42 - RAMPING_UP - refactor: Improve inventory structure in unit
