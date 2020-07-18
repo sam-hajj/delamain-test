@@ -47,3 +47,4 @@
 2020-07-11T09:36:39 - RAMPING_UP - test: Add initial unit tests for CONTRIBUTING.md
 2020-07-11T09:37:59 - RAMPING_UP - test: Add initial unit tests for CONTRIBUTING.md
 2020-07-17T12:26:49 - RAMPING_UP - feat: Implement basic profile in CONTRIBUTING.md
+2020-07-18T10:03:19 - RAMPING_UP - feat: Implement basic login in CONTRIBUTING.md
