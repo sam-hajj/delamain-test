@@ -43,3 +43,4 @@
 2020-07-14T15:14:20 - RAMPING_UP - test: Add initial unit tests for server.py
 2020-07-17T12:50:45 - RAMPING_UP - feat: Add core logic for caching service in server.py
 2020-07-20T14:37:14 - RAMPING_UP - test: Add initial unit tests for server.py
+2020-07-20T15:28:39 - RAMPING_UP - docs: Detail setup instructions
