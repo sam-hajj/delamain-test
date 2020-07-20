@@ -49,3 +49,4 @@
 2020-07-17T14:45:24 - RAMPING_UP - chore: Update requirements.txt
 2020-07-18T11:12:21 - RAMPING_UP - feat: Implement basic notifications in test_core.py
 2020-07-18T11:12:42 - RAMPING_UP - refactor: Improve inventory structure in unit
+2020-07-20T15:02:18 - RAMPING_UP - test: Add initial unit tests for test_core.py
