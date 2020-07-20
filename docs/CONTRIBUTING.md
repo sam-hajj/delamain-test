@@ -50,3 +50,4 @@
 2020-07-18T10:03:19 - RAMPING_UP - feat: Implement basic login in CONTRIBUTING.md
 2020-07-18T11:12:27 - RAMPING_UP - refactor: Improve order structure in docs
 2020-07-20T15:39:24 - RAMPING_UP - refactor: Improve product structure in docs
+2020-07-20T15:47:27 - RAMPING_UP - docs: Detail setup instructions
