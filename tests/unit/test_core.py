@@ -52,3 +52,4 @@
 2020-07-20T15:02:18 - RAMPING_UP - test: Add initial unit tests for test_core.py
 2020-07-20T15:49:52 - RAMPING_UP - feat: Add core logic for caching service in test_core.py
 2020-07-21T14:07:14 - RAMPING_UP - feat: Implement basic caching in test_core.py
+2020-07-21T14:45:42 - RAMPING_UP - chore: Update requirements.txt
