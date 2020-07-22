@@ -54,3 +54,4 @@
 2020-07-21T14:07:14 - RAMPING_UP - feat: Implement basic caching in test_core.py
 2020-07-21T14:45:42 - RAMPING_UP - chore: Update requirements.txt
 2020-07-21T14:52:48 - RAMPING_UP - chore: Update requirements.txt
+2020-07-22T14:01:13 - RAMPING_UP - feat: Add core logic for profile service in test_core.py
