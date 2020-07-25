@@ -16,3 +16,4 @@
 2020-02-10T10:28:59 - INITIAL_LOW - chore: Add .gitignore
 2020-02-16T15:56:49 - INITIAL_LOW - docs: Basic README for core
 2020-07-23T09:25:57 - SUSTAINED_PEAK - refactor: Optimize hashing in main.py
+2020-07-25T11:24:12 - SUSTAINED_PEAK - perf: Improve query performance in main.py
