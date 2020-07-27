@@ -17,3 +17,4 @@
 2020-02-16T15:56:49 - INITIAL_LOW - docs: Basic README for core
 2020-07-23T09:25:57 - SUSTAINED_PEAK - refactor: Optimize hashing in main.py
 2020-07-25T11:24:12 - SUSTAINED_PEAK - perf: Improve query performance in main.py
+2020-07-27T13:13:15 - SUSTAINED_PEAK - test: Increase coverage for user tests
