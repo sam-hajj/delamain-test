@@ -57,3 +57,4 @@
 2020-08-10T11:21:24 - SUSTAINED_PEAK - feat: Implement search endpoint in models.py
 2020-08-10T12:07:19 - SUSTAINED_PEAK - refactor: Optimize pathfinding in models.py
 2020-08-10T12:23:33 - SUSTAINED_PEAK - refactor: Optimize hashing in models.py
+2020-08-12T12:13:38 - SUSTAINED_PEAK - test: Increase coverage for auth tests
