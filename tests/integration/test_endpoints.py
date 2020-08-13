@@ -9,3 +9,4 @@
 2020-08-10T12:16:30 - SUSTAINED_PEAK - feat: Implement data processing endpoint in test_endpoints.py
 2020-08-10T12:19:36 - SUSTAINED_PEAK - feat!: Major feature integration: data processing affecting integration
 2020-08-13T15:36:39 - SUSTAINED_PEAK - refactor: Optimize hashing in test_endpoints.py
+2020-08-13T15:44:02 - SUSTAINED_PEAK - feat: Implement profile endpoint in test_endpoints.py
