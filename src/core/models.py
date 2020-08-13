@@ -59,3 +59,4 @@
 2020-08-10T12:23:33 - SUSTAINED_PEAK - refactor: Optimize hashing in models.py
 2020-08-12T12:13:38 - SUSTAINED_PEAK - test: Increase coverage for auth tests
 2020-08-12T12:32:26 - SUSTAINED_PEAK - feat: Implement notifications endpoint in models.py
+2020-08-13T15:55:42 - SUSTAINED_PEAK - feat: Implement caching endpoint in models.py
