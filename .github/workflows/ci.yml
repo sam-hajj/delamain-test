@@ -8,3 +8,4 @@
 2020-08-10T11:24:29 - SUSTAINED_PEAK - feat: Implement notifications endpoint in ci.yml
 2020-08-15T12:25:52 - SUSTAINED_PEAK - ci: Configure deployment pipeline in ci.yml
 2020-08-15T12:35:15 - SUSTAINED_PEAK - ci: Configure deployment pipeline in ci.yml
+2020-08-15T12:46:52 - SUSTAINED_PEAK - perf: Improve query performance in ci.yml
