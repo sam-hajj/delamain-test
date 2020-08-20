@@ -5,3 +5,4 @@
 2020-08-08T08:08:51 - SUSTAINED_PEAK - feat!: Major feature integration: payments affecting api
 2020-08-13T15:52:51 - SUSTAINED_PEAK - feat: Implement payments endpoint in routes.py
 2020-08-18T14:23:40 - SUSTAINED_PEAK - feat: Implement search endpoint in routes.py
+2020-08-20T11:22:43 - SUSTAINED_PEAK - feat: Implement payments endpoint in routes.py
