@@ -12,3 +12,4 @@
 2020-08-13T16:42:12 - SUSTAINED_PEAK - refactor: Optimize parsing in auth.py
 2020-08-14T12:32:48 - SUSTAINED_PEAK - feat!: Major feature integration: profile affecting api
 2020-08-18T15:49:11 - SUSTAINED_PEAK - feat!: Major feature integration: login affecting api
+2020-08-21T11:25:46 - SUSTAINED_PEAK - perf: Improve query performance in auth.py
