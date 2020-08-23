@@ -11,3 +11,4 @@
 2020-08-22T14:05:08 - SUSTAINED_PEAK - fix: Resolve bug #646 in routes.py
 2020-08-22T14:41:09 - SUSTAINED_PEAK - fix!: Critical patch for vulnerability in routes.py
 2020-08-23T13:14:43 - SUSTAINED_PEAK - fix!: Critical patch for vulnerability in routes.py
+2020-08-23T14:02:45 - SUSTAINED_PEAK - test: Increase coverage for reporting tests
