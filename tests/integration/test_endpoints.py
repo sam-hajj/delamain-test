@@ -20,3 +20,4 @@
 2020-08-23T13:53:26 - SUSTAINED_PEAK - feat!: Major feature integration: data processing affecting integration
 2020-08-23T14:29:08 - SUSTAINED_PEAK - perf: Improve query performance in test_endpoints.py
 2020-08-24T11:15:04 - SUSTAINED_PEAK - perf: Improve query performance in test_endpoints.py
+2020-08-24T12:02:24 - SUSTAINED_PEAK - fix!: Critical patch for vulnerability in test_endpoints.py
