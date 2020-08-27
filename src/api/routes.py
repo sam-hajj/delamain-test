@@ -12,3 +12,4 @@
 2020-08-22T14:41:09 - SUSTAINED_PEAK - fix!: Critical patch for vulnerability in routes.py
 2020-08-23T13:14:43 - SUSTAINED_PEAK - fix!: Critical patch for vulnerability in routes.py
 2020-08-23T14:02:45 - SUSTAINED_PEAK - test: Increase coverage for reporting tests
+2020-08-27T10:53:56 - SUSTAINED_PEAK - feat: Implement payments endpoint in routes.py
