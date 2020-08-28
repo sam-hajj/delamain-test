@@ -21,3 +21,4 @@
 2020-08-23T14:29:08 - SUSTAINED_PEAK - perf: Improve query performance in test_endpoints.py
 2020-08-24T11:15:04 - SUSTAINED_PEAK - perf: Improve query performance in test_endpoints.py
 2020-08-24T12:02:24 - SUSTAINED_PEAK - fix!: Critical patch for vulnerability in test_endpoints.py
+2020-08-28T16:08:40 - SUSTAINED_PEAK - fix: Resolve bug #921 in test_endpoints.py
