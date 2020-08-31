@@ -24,3 +24,4 @@
 2020-08-28T16:08:40 - SUSTAINED_PEAK - fix: Resolve bug #921 in test_endpoints.py
 2020-08-28T16:28:14 - SUSTAINED_PEAK - perf: Improve query performance in test_endpoints.py
 2020-08-28T16:28:52 - SUSTAINED_PEAK - ci: Configure deployment pipeline in test_endpoints.py
+2020-08-31T13:21:46 - SUSTAINED_PEAK - feat: Implement search endpoint in test_endpoints.py
