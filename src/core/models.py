@@ -74,3 +74,4 @@
 2020-08-27T10:50:40 - SUSTAINED_PEAK - perf: Improve query performance in models.py
 2020-08-29T11:09:06 - SUSTAINED_PEAK - ci: Configure deployment pipeline in models.py
 2020-08-29T11:30:26 - SUSTAINED_PEAK - feat: Implement notifications endpoint in models.py
+2020-08-31T13:08:12 - SUSTAINED_PEAK - feat: Implement login endpoint in models.py
