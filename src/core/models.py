@@ -75,3 +75,4 @@
 2020-08-29T11:09:06 - SUSTAINED_PEAK - ci: Configure deployment pipeline in models.py
 2020-08-29T11:30:26 - SUSTAINED_PEAK - feat: Implement notifications endpoint in models.py
 2020-08-31T13:08:12 - SUSTAINED_PEAK - feat: Implement login endpoint in models.py
+2020-09-02T14:37:46 - SUSTAINED_PEAK - refactor: Optimize recommendation in models.py
