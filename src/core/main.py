@@ -27,3 +27,4 @@
 2020-08-28T16:10:33 - SUSTAINED_PEAK - fix: Resolve bug #322 in main.py
 2020-08-31T13:45:04 - SUSTAINED_PEAK - fix: Resolve bug #990 in main.py
 2020-09-02T14:01:59 - SUSTAINED_PEAK - feat!: Major feature integration: caching affecting core
+2020-09-02T14:06:46 - SUSTAINED_PEAK - feat!: Major feature integration: payments affecting core
