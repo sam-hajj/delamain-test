@@ -29,3 +29,4 @@
 2020-09-04T12:37:59 - SUSTAINED_PEAK - fix: Resolve bug #27 in auth.py
 2020-09-04T14:30:40 - SUSTAINED_PEAK - fix!: Critical patch for vulnerability in auth.py
 2020-09-07T12:27:56 - SUSTAINED_PEAK - ci: Configure deployment pipeline in auth.py
+2020-09-07T12:37:51 - SUSTAINED_PEAK - test: Increase coverage for inventory tests
