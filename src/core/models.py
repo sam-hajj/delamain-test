@@ -78,3 +78,4 @@
 2020-09-02T14:37:46 - SUSTAINED_PEAK - refactor: Optimize recommendation in models.py
 2020-09-02T14:59:15 - SUSTAINED_PEAK - feat!: Major feature integration: login affecting core
 2020-09-03T12:41:11 - SUSTAINED_PEAK - test: Increase coverage for auth tests
+2020-09-07T12:05:13 - SUSTAINED_PEAK - ci: Configure deployment pipeline in models.py
