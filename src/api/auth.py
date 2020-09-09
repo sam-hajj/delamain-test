@@ -31,3 +31,4 @@
 2020-09-07T12:27:56 - SUSTAINED_PEAK - ci: Configure deployment pipeline in auth.py
 2020-09-07T12:37:51 - SUSTAINED_PEAK - test: Increase coverage for inventory tests
 2020-09-09T13:26:29 - SUSTAINED_PEAK - feat!: Major feature integration: caching affecting api
+2020-09-09T13:45:49 - SUSTAINED_PEAK - test: Increase coverage for user tests
