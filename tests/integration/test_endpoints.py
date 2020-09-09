@@ -29,3 +29,4 @@
 2020-09-03T12:56:52 - SUSTAINED_PEAK - perf: Improve query performance in test_endpoints.py
 2020-09-06T13:38:03 - SUSTAINED_PEAK - fix: Resolve bug #991 in test_endpoints.py
 2020-09-09T13:38:57 - SUSTAINED_PEAK - ci: Configure deployment pipeline in test_endpoints.py
+2020-09-09T13:50:16 - SUSTAINED_PEAK - fix!: Critical patch for vulnerability in test_endpoints.py
