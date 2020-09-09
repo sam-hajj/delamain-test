@@ -30,3 +30,4 @@
 2020-09-02T14:06:46 - SUSTAINED_PEAK - feat!: Major feature integration: payments affecting core
 2020-09-03T12:22:28 - SUSTAINED_PEAK - test: Increase coverage for user tests
 2020-09-07T13:29:04 - SUSTAINED_PEAK - perf: Improve query performance in main.py
+2020-09-09T13:23:02 - SUSTAINED_PEAK - feat!: Major feature integration: caching affecting core
