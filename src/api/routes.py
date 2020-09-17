@@ -21,3 +21,4 @@
 2020-09-09T13:53:30 - SUSTAINED_PEAK - perf: Improve query performance in routes.py
 2020-09-11T15:14:18 - SUSTAINED_PEAK - fix!: Critical patch for vulnerability in routes.py
 2020-09-11T15:18:27 - SUSTAINED_PEAK - feat: Implement search endpoint in routes.py
+2020-09-17T11:26:24 - SUSTAINED_PEAK - feat: Implement payments endpoint in routes.py
