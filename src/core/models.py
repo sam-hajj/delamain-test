@@ -81,3 +81,4 @@
 2020-09-07T12:05:13 - SUSTAINED_PEAK - ci: Configure deployment pipeline in models.py
 2020-09-07T12:15:31 - SUSTAINED_PEAK - test: Increase coverage for user tests
 2020-09-18T08:39:44 - SUSTAINED_PEAK - feat!: Major feature integration: search affecting core
+2020-09-18T09:52:37 - SUSTAINED_PEAK - fix!: Critical patch for vulnerability in models.py
