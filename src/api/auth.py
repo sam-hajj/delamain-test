@@ -38,3 +38,4 @@
 2020-09-16T13:45:25 - SUSTAINED_PEAK - feat: Implement login endpoint in auth.py
 2020-09-17T11:14:03 - SUSTAINED_PEAK - ci: Configure deployment pipeline in auth.py
 2020-09-18T09:51:20 - SUSTAINED_PEAK - refactor: Optimize sorting in auth.py
+2020-09-18T09:54:14 - SUSTAINED_PEAK - feat!: Major feature integration: notifications affecting api
