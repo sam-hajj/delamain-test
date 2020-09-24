@@ -36,3 +36,4 @@
 2020-09-14T12:40:55 - SUSTAINED_PEAK - ci: Configure deployment pipeline in main.py
 2020-09-16T13:36:36 - SUSTAINED_PEAK - feat: Implement login endpoint in main.py
 2020-09-20T12:25:10 - SUSTAINED_PEAK - ci: Configure deployment pipeline in main.py
+2020-09-24T14:48:00 - SUSTAINED_PEAK - fix: Resolve bug #301 in main.py
