@@ -43,3 +43,4 @@
 2020-09-23T11:42:50 - SUSTAINED_PEAK - ci: Configure deployment pipeline in auth.py
 2020-09-26T13:41:12 - SUSTAINED_PEAK - test: Increase coverage for reporting tests
 2020-09-28T10:56:02 - SUSTAINED_PEAK - feat: Implement caching endpoint in auth.py
+2020-09-28T10:56:36 - SUSTAINED_PEAK - fix: Resolve bug #781 in auth.py
