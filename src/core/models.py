@@ -92,3 +92,4 @@
 2020-09-29T10:59:41 - SUSTAINED_PEAK - ci: Configure deployment pipeline in models.py
 2020-09-30T14:15:21 - SUSTAINED_PEAK - test: Increase coverage for product tests
 2020-09-30T14:31:23 - SUSTAINED_PEAK - fix!: Critical patch for vulnerability in models.py
+2020-10-01T13:33:09 - SUSTAINED_PEAK - feat: Implement login endpoint in models.py
