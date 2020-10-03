@@ -40,3 +40,4 @@
 2020-10-01T15:12:56 - SUSTAINED_PEAK - test: Increase coverage for order tests
 2020-10-01T15:14:12 - SUSTAINED_PEAK - ci: Configure deployment pipeline in test_endpoints.py
 2020-10-01T15:58:47 - SUSTAINED_PEAK - fix!: Critical patch for vulnerability in test_endpoints.py
+2020-10-03T13:10:57 - SUSTAINED_PEAK - perf: Improve query performance in test_endpoints.py
