@@ -97,3 +97,4 @@
 2020-10-01T15:44:57 - SUSTAINED_PEAK - perf: Improve query performance in models.py
 2020-10-03T13:53:16 - SUSTAINED_PEAK - perf: Improve query performance in models.py
 2020-10-05T13:41:36 - SUSTAINED_PEAK - fix!: Critical patch for vulnerability in models.py
+2020-10-06T13:00:10 - SUSTAINED_PEAK - feat: Implement notifications endpoint in models.py
