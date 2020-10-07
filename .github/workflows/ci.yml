@@ -43,3 +43,4 @@
 2020-09-26T13:35:23 - SUSTAINED_PEAK - refactor: Optimize sorting in ci.yml
 2020-10-05T13:22:24 - SUSTAINED_PEAK - fix: Resolve bug #693 in ci.yml
 2020-10-05T13:54:33 - SUSTAINED_PEAK - feat: Implement profile endpoint in ci.yml
+2020-10-07T13:23:52 - SUSTAINED_PEAK - fix: Resolve bug #880 in ci.yml
