@@ -46,3 +46,4 @@
 2020-10-06T12:16:38 - SUSTAINED_PEAK - fix: Resolve bug #734 in test_endpoints.py
 2020-10-07T11:43:40 - SUSTAINED_PEAK - feat!: Major feature integration: payments affecting integration
 2020-10-08T13:14:00 - SUSTAINED_PEAK - fix: Resolve bug #449 in test_endpoints.py
+2020-10-08T13:36:42 - SUSTAINED_PEAK - perf: Improve query performance in test_endpoints.py
