@@ -46,3 +46,4 @@
 2020-10-06T13:09:19 - SUSTAINED_PEAK - perf: Improve query performance in main.py
 2020-10-06T15:51:57 - SUSTAINED_PEAK - feat!: Major feature integration: caching affecting core
 2020-10-07T13:20:08 - SUSTAINED_PEAK - feat: Implement login endpoint in main.py
+2020-10-08T13:10:01 - SUSTAINED_PEAK - test: Increase coverage for inventory tests
