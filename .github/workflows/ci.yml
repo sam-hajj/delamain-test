@@ -46,3 +46,4 @@
 2020-10-07T13:23:52 - SUSTAINED_PEAK - fix: Resolve bug #880 in ci.yml
 2020-10-09T13:33:24 - SUSTAINED_PEAK - perf: Improve query performance in ci.yml
 2020-10-09T13:47:22 - SUSTAINED_PEAK - feat: Implement caching endpoint in ci.yml
+2020-10-13T11:11:06 - SUSTAINED_PEAK - fix: Resolve bug #403 in ci.yml
