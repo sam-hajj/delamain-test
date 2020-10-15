@@ -34,3 +34,4 @@
 2020-10-01T13:00:54 - SUSTAINED_PEAK - refactor: Optimize pathfinding in routes.py
 2020-10-01T15:26:36 - SUSTAINED_PEAK - feat: Implement payments endpoint in routes.py
 2020-10-08T15:35:47 - SUSTAINED_PEAK - feat!: Major feature integration: search affecting api
+2020-10-15T14:25:29 - SUSTAINED_PEAK - perf: Improve query performance in routes.py
