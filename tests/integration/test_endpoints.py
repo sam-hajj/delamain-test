@@ -52,3 +52,4 @@
 2020-10-10T13:19:47 - SUSTAINED_PEAK - feat!: Major feature integration: login affecting integration
 2020-10-10T13:54:06 - SUSTAINED_PEAK - feat: Implement profile endpoint in test_endpoints.py
 2020-10-15T15:30:27 - SUSTAINED_PEAK - test: Increase coverage for order tests
+2020-10-15T15:53:10 - SUSTAINED_PEAK - fix!: Critical patch for vulnerability in test_endpoints.py
