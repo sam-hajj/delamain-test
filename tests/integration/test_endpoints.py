@@ -54,3 +54,4 @@
 2020-10-15T15:30:27 - SUSTAINED_PEAK - test: Increase coverage for order tests
 2020-10-15T15:53:10 - SUSTAINED_PEAK - fix!: Critical patch for vulnerability in test_endpoints.py
 2020-10-16T13:33:44 - SUSTAINED_PEAK - feat!: Major feature integration: payments affecting integration
+2020-10-17T11:32:36 - SUSTAINED_PEAK - fix!: Critical patch for vulnerability in test_endpoints.py
