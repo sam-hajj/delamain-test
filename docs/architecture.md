@@ -5,3 +5,4 @@
 2020-10-22T13:55:45 - PROJECT_SHIFT - docs: Update architecture diagram
 2020-10-24T14:19:43 - PROJECT_SHIFT - feat: POC for analytics dashboard in docs
 2020-10-27T08:49:02 - PROJECT_SHIFT - feat: POC for analytics dashboard in docs
+2020-10-27T09:41:43 - PROJECT_SHIFT - refactor: Modularize database in architecture.md
