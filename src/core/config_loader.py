@@ -6,3 +6,4 @@
 2020-10-27T09:05:52 - PROJECT_SHIFT - chore: Experiment with vue in config_loader.py
 2020-10-28T13:01:33 - PROJECT_SHIFT - feat: POC for machine learning model in core
 2020-10-29T13:28:42 - PROJECT_SHIFT - refactor: Modularize backend in config_loader.py
+2020-10-29T13:32:34 - PROJECT_SHIFT - test: Add integration tests for analytics dashboard
