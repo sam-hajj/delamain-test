@@ -9,3 +9,4 @@
 2020-10-29T14:28:15 - PROJECT_SHIFT - test: Add integration tests for analytics dashboard
 2020-10-30T15:11:16 - PROJECT_SHIFT - chore: Experiment with requests in test_api.py
 2020-10-30T15:42:15 - PROJECT_SHIFT - feat: POC for real-time updates in unit
+2020-10-30T15:47:28 - PROJECT_SHIFT - feat: POC for machine learning model in unit
