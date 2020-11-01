@@ -12,3 +12,4 @@
 2020-10-30T15:47:28 - PROJECT_SHIFT - feat: POC for machine learning model in unit
 2020-10-30T15:58:49 - PROJECT_SHIFT - chore: Experiment with numpy in test_api.py
 2020-10-30T17:40:19 - PROJECT_SHIFT - chore: Experiment with numpy in test_api.py
+2020-11-01T14:29:03 - PROJECT_SHIFT - chore: Experiment with fastapi in test_api.py
