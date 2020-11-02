@@ -14,3 +14,4 @@
 2020-10-30T17:40:19 - PROJECT_SHIFT - chore: Experiment with numpy in test_api.py
 2020-11-01T14:29:03 - PROJECT_SHIFT - chore: Experiment with fastapi in test_api.py
 2020-11-01T14:41:49 - PROJECT_SHIFT - chore: Experiment with fastapi in test_api.py
+2020-11-02T14:06:10 - PROJECT_SHIFT - test: Add integration tests for analytics dashboard
