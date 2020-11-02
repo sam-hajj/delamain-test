@@ -6,3 +6,4 @@
 2020-10-29T13:23:41 - PROJECT_SHIFT - refactor: Modularize messaging queue in schemas.py
 2020-10-29T13:51:49 - PROJECT_SHIFT - docs: Update architecture diagram
 2020-11-01T14:04:49 - PROJECT_SHIFT - refactor: Modularize UI in schemas.py
+2020-11-02T13:22:46 - PROJECT_SHIFT - refactor: Modularize messaging queue in schemas.py
