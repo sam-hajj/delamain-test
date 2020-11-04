@@ -16,3 +16,4 @@
 2020-11-01T14:41:49 - PROJECT_SHIFT - chore: Experiment with fastapi in test_api.py
 2020-11-02T14:06:10 - PROJECT_SHIFT - test: Add integration tests for analytics dashboard
 2020-11-03T10:36:07 - PROJECT_SHIFT - feat: POC for analytics dashboard in unit
+2020-11-04T16:01:59 - PROJECT_SHIFT - chore: Experiment with pandas in test_api.py
