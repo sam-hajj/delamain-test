@@ -10,3 +10,4 @@
 2020-11-02T15:42:02 - PROJECT_SHIFT - refactor: Modularize database in config_loader.py
 2020-11-03T10:51:22 - PROJECT_SHIFT - chore: Experiment with fastapi in config_loader.py
 2020-11-04T16:34:43 - PROJECT_SHIFT - refactor: Adapt reporting for new requirements in config_loader.py
+2020-11-04T16:53:30 - PROJECT_SHIFT - refactor: Modularize backend in config_loader.py
