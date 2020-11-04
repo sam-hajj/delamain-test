@@ -9,3 +9,4 @@
 2020-11-02T13:22:46 - PROJECT_SHIFT - refactor: Modularize messaging queue in schemas.py
 2020-11-03T09:03:41 - PROJECT_SHIFT - feat: POC for real-time updates in api
 2020-11-03T10:44:50 - PROJECT_SHIFT - docs: Update architecture diagram
+2020-11-04T18:45:31 - PROJECT_SHIFT - docs: Update architecture diagram
