@@ -11,3 +11,4 @@
 2020-11-03T10:44:50 - PROJECT_SHIFT - docs: Update architecture diagram
 2020-11-04T18:45:31 - PROJECT_SHIFT - docs: Update architecture diagram
 2020-11-06T13:19:13 - PROJECT_SHIFT - test: Add integration tests for A/B testing framework
+2020-11-06T13:23:14 - PROJECT_SHIFT - feat: POC for analytics dashboard in api
