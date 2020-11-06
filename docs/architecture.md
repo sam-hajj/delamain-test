@@ -11,3 +11,4 @@
 2020-11-02T15:54:25 - PROJECT_SHIFT - feat: POC for A/B testing framework in docs
 2020-11-02T17:07:49 - PROJECT_SHIFT - test: Add integration tests for real-time updates
 2020-11-04T16:18:27 - PROJECT_SHIFT - test: Add integration tests for analytics dashboard
+2020-11-06T13:12:00 - PROJECT_SHIFT - chore: Experiment with numpy in architecture.md
