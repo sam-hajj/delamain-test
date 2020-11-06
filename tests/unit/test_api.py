@@ -20,3 +20,4 @@
 2020-11-04T16:16:26 - PROJECT_SHIFT - refactor: Adapt order for new requirements in test_api.py
 2020-11-05T15:31:43 - PROJECT_SHIFT - test: Add integration tests for analytics dashboard
 2020-11-06T13:45:11 - PROJECT_SHIFT - refactor: Adapt order for new requirements in test_api.py
+2020-11-06T13:59:27 - PROJECT_SHIFT - chore: Experiment with django in test_api.py
