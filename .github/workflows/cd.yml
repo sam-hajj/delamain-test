@@ -8,3 +8,4 @@
 2020-10-29T13:46:46 - PROJECT_SHIFT - refactor: Adapt inventory for new requirements in cd.yml
 2020-11-04T16:08:18 - PROJECT_SHIFT - docs: Update architecture diagram
 2020-11-05T15:35:01 - PROJECT_SHIFT - test: Add integration tests for real-time updates
+2020-11-06T13:06:36 - PROJECT_SHIFT - chore: Experiment with numpy in cd.yml
