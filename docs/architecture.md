@@ -14,3 +14,4 @@
 2020-11-06T13:12:00 - PROJECT_SHIFT - chore: Experiment with numpy in architecture.md
 2020-11-06T13:26:03 - PROJECT_SHIFT - refactor: Modularize database in architecture.md
 2020-11-06T13:58:35 - PROJECT_SHIFT - refactor: Modularize backend in architecture.md
+2020-11-07T09:15:04 - PROJECT_SHIFT - refactor: Adapt reporting for new requirements in architecture.md
