@@ -16,3 +16,4 @@
 2020-11-06T13:58:35 - PROJECT_SHIFT - refactor: Modularize backend in architecture.md
 2020-11-07T09:15:04 - PROJECT_SHIFT - refactor: Adapt reporting for new requirements in architecture.md
 2020-11-07T09:18:42 - PROJECT_SHIFT - refactor: Adapt auth for new requirements in architecture.md
+2020-11-07T09:25:00 - PROJECT_SHIFT - test: Add integration tests for A/B testing framework
