@@ -14,3 +14,4 @@
 2020-11-06T13:23:14 - PROJECT_SHIFT - feat: POC for analytics dashboard in api
 2020-11-06T13:30:57 - PROJECT_SHIFT - refactor: Modularize UI in schemas.py
 2020-11-08T13:15:38 - PROJECT_SHIFT - docs: Update architecture diagram
+2020-11-08T13:49:20 - PROJECT_SHIFT - docs: Update architecture diagram
