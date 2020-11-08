@@ -12,3 +12,4 @@
 2020-11-04T16:34:43 - PROJECT_SHIFT - refactor: Adapt reporting for new requirements in config_loader.py
 2020-11-04T16:53:30 - PROJECT_SHIFT - refactor: Modularize backend in config_loader.py
 2020-11-07T07:39:16 - PROJECT_SHIFT - refactor: Adapt auth for new requirements in config_loader.py
+2020-11-08T13:04:30 - PROJECT_SHIFT - refactor: Modularize API gateway in config_loader.py
