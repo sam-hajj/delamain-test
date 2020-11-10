@@ -22,3 +22,4 @@
 2020-11-06T13:45:11 - PROJECT_SHIFT - refactor: Adapt order for new requirements in test_api.py
 2020-11-06T13:59:27 - PROJECT_SHIFT - chore: Experiment with django in test_api.py
 2020-11-07T09:50:02 - PROJECT_SHIFT - chore: Experiment with django in test_api.py
+2020-11-10T13:48:45 - PROJECT_SHIFT - test: Add integration tests for machine learning model
