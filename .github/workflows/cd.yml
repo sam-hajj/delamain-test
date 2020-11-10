@@ -10,3 +10,4 @@
 2020-11-05T15:35:01 - PROJECT_SHIFT - test: Add integration tests for real-time updates
 2020-11-06T13:06:36 - PROJECT_SHIFT - chore: Experiment with numpy in cd.yml
 2020-11-10T11:23:28 - PROJECT_SHIFT - test: Add integration tests for A/B testing framework
+2020-11-10T13:08:54 - PROJECT_SHIFT - feat: POC for machine learning model in workflows
