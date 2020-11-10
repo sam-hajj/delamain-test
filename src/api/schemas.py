@@ -15,3 +15,4 @@
 2020-11-06T13:30:57 - PROJECT_SHIFT - refactor: Modularize UI in schemas.py
 2020-11-08T13:15:38 - PROJECT_SHIFT - docs: Update architecture diagram
 2020-11-08T13:49:20 - PROJECT_SHIFT - docs: Update architecture diagram
+2020-11-10T13:22:58 - PROJECT_SHIFT - chore: Experiment with vue in schemas.py
