@@ -14,3 +14,4 @@
 2020-11-07T07:39:16 - PROJECT_SHIFT - refactor: Adapt auth for new requirements in config_loader.py
 2020-11-08T13:04:30 - PROJECT_SHIFT - refactor: Modularize API gateway in config_loader.py
 2020-11-08T14:49:36 - PROJECT_SHIFT - refactor: Adapt order for new requirements in config_loader.py
+2020-11-10T13:01:48 - PROJECT_SHIFT - test: Add integration tests for machine learning model
