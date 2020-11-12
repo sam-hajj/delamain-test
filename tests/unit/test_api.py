@@ -23,3 +23,4 @@
 2020-11-06T13:59:27 - PROJECT_SHIFT - chore: Experiment with django in test_api.py
 2020-11-07T09:50:02 - PROJECT_SHIFT - chore: Experiment with django in test_api.py
 2020-11-10T13:48:45 - PROJECT_SHIFT - test: Add integration tests for machine learning model
+2020-11-12T15:02:36 - PROJECT_SHIFT - feat: POC for machine learning model in unit
