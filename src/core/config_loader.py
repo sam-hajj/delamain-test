@@ -15,3 +15,4 @@
 2020-11-08T13:04:30 - PROJECT_SHIFT - refactor: Modularize API gateway in config_loader.py
 2020-11-08T14:49:36 - PROJECT_SHIFT - refactor: Adapt order for new requirements in config_loader.py
 2020-11-10T13:01:48 - PROJECT_SHIFT - test: Add integration tests for machine learning model
+2020-11-12T17:02:45 - PROJECT_SHIFT - docs: Update architecture diagram
