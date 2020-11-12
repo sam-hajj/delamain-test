@@ -19,3 +19,4 @@
 2020-11-07T09:25:00 - PROJECT_SHIFT - test: Add integration tests for A/B testing framework
 2020-11-08T13:24:03 - PROJECT_SHIFT - refactor: Adapt reporting for new requirements in architecture.md
 2020-11-11T15:58:20 - PROJECT_SHIFT - chore: Experiment with react in architecture.md
+2020-11-12T15:45:05 - PROJECT_SHIFT - refactor: Adapt reporting for new requirements in architecture.md
