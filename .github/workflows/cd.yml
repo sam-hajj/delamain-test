@@ -16,3 +16,4 @@
 2020-11-11T15:18:35 - PROJECT_SHIFT - refactor: Modularize API gateway in cd.yml
 2020-11-11T15:58:31 - PROJECT_SHIFT - test: Add integration tests for analytics dashboard
 2020-11-11T16:29:03 - PROJECT_SHIFT - feat: POC for real-time updates in workflows
+2020-11-13T15:29:01 - PROJECT_SHIFT - feat: POC for real-time updates in workflows
