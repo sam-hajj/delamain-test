@@ -25,3 +25,4 @@
 2020-11-10T13:48:45 - PROJECT_SHIFT - test: Add integration tests for machine learning model
 2020-11-12T15:02:36 - PROJECT_SHIFT - feat: POC for machine learning model in unit
 2020-11-12T15:44:39 - PROJECT_SHIFT - docs: Update architecture diagram
+2020-11-13T15:35:39 - PROJECT_SHIFT - test: Add integration tests for real-time updates
