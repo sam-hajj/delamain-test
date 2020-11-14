@@ -19,3 +19,4 @@
 2020-11-12T15:46:44 - PROJECT_SHIFT - refactor: Adapt auth for new requirements in schemas.py
 2020-11-13T15:50:36 - PROJECT_SHIFT - feat: POC for real-time updates in api
 2020-11-14T12:07:56 - PROJECT_SHIFT - docs: Update architecture diagram
+2020-11-14T14:49:23 - PROJECT_SHIFT - refactor: Modularize API gateway in schemas.py
