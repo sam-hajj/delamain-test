@@ -14,3 +14,4 @@
 2020-11-07T09:06:11 - PROJECT_SHIFT - feat: POC for A/B testing framework in src
 2020-11-08T13:23:04 - PROJECT_SHIFT - test: Add integration tests for real-time updates
 2020-11-13T15:32:17 - PROJECT_SHIFT - refactor: Adapt inventory for new requirements in docker-compose.yml
+2020-11-14T12:31:18 - PROJECT_SHIFT - feat: POC for analytics dashboard in src
