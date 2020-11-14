@@ -21,3 +21,4 @@
 2020-11-11T15:58:20 - PROJECT_SHIFT - chore: Experiment with react in architecture.md
 2020-11-12T15:45:05 - PROJECT_SHIFT - refactor: Adapt reporting for new requirements in architecture.md
 2020-11-13T15:30:05 - PROJECT_SHIFT - refactor: Modularize backend in architecture.md
+2020-11-14T12:48:05 - PROJECT_SHIFT - docs: Update architecture diagram
