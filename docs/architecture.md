@@ -22,3 +22,4 @@
 2020-11-12T15:45:05 - PROJECT_SHIFT - refactor: Adapt reporting for new requirements in architecture.md
 2020-11-13T15:30:05 - PROJECT_SHIFT - refactor: Modularize backend in architecture.md
 2020-11-14T12:48:05 - PROJECT_SHIFT - docs: Update architecture diagram
+2020-11-17T12:26:49 - PROJECT_SHIFT - feat: POC for machine learning model in docs
