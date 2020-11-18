@@ -24,3 +24,4 @@
 2020-11-14T12:48:05 - PROJECT_SHIFT - docs: Update architecture diagram
 2020-11-17T12:26:49 - PROJECT_SHIFT - feat: POC for machine learning model in docs
 2020-11-18T10:38:14 - PROJECT_SHIFT - chore: Experiment with pandas in architecture.md
+2020-11-18T11:20:21 - PROJECT_SHIFT - refactor: Modularize messaging queue in architecture.md
