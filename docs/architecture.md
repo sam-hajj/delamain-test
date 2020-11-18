@@ -25,3 +25,4 @@
 2020-11-17T12:26:49 - PROJECT_SHIFT - feat: POC for machine learning model in docs
 2020-11-18T10:38:14 - PROJECT_SHIFT - chore: Experiment with pandas in architecture.md
 2020-11-18T11:20:21 - PROJECT_SHIFT - refactor: Modularize messaging queue in architecture.md
+2020-11-18T11:40:06 - PROJECT_SHIFT - feat: POC for A/B testing framework in docs
