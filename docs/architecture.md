@@ -28,3 +28,4 @@
 2020-11-18T11:40:06 - PROJECT_SHIFT - feat: POC for A/B testing framework in docs
 2020-11-20T11:50:57 - PROJECT_SHIFT - docs: Update architecture diagram
 2020-11-23T14:25:20 - PROJECT_SHIFT - test: Add integration tests for A/B testing framework
+2020-11-23T14:55:48 - PROJECT_SHIFT - refactor: Adapt auth for new requirements in architecture.md
