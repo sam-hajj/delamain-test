@@ -24,3 +24,4 @@
 2020-11-18T11:22:03 - PROJECT_SHIFT - test: Add integration tests for analytics dashboard
 2020-11-18T11:36:22 - PROJECT_SHIFT - feat: POC for A/B testing framework in api
 2020-11-20T13:52:27 - PROJECT_SHIFT - chore: Experiment with fastapi in schemas.py
+2020-11-23T14:04:15 - PROJECT_SHIFT - chore: Experiment with requests in schemas.py
