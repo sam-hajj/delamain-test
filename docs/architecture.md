@@ -31,3 +31,4 @@
 2020-11-23T14:55:48 - PROJECT_SHIFT - refactor: Adapt auth for new requirements in architecture.md
 2020-11-24T13:09:54 - PROJECT_SHIFT - refactor: Modularize messaging queue in architecture.md
 2020-11-24T13:31:42 - PROJECT_SHIFT - refactor: Modularize UI in architecture.md
+2020-11-24T14:47:27 - PROJECT_SHIFT - refactor: Adapt reporting for new requirements in architecture.md
