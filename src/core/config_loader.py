@@ -18,3 +18,4 @@
 2020-11-12T17:02:45 - PROJECT_SHIFT - docs: Update architecture diagram
 2020-11-13T16:56:19 - PROJECT_SHIFT - chore: Experiment with requests in config_loader.py
 2020-11-20T13:09:31 - PROJECT_SHIFT - feat: POC for real-time updates in core
+2020-11-30T13:09:04 - PROJECT_SHIFT - feat: POC for real-time updates in core
