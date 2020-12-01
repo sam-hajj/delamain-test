@@ -35,3 +35,4 @@
 2020-11-29T13:59:59 - PROJECT_SHIFT - refactor: Modularize UI in architecture.md
 2020-11-30T13:52:59 - PROJECT_SHIFT - refactor: Adapt order for new requirements in architecture.md
 2020-12-01T11:57:22 - PROJECT_SHIFT - docs: Update architecture diagram
+2020-12-01T11:57:52 - PROJECT_SHIFT - test: Add integration tests for A/B testing framework
