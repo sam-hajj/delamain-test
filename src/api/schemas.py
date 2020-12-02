@@ -26,3 +26,4 @@
 2020-11-20T13:52:27 - PROJECT_SHIFT - chore: Experiment with fastapi in schemas.py
 2020-11-23T14:04:15 - PROJECT_SHIFT - chore: Experiment with requests in schemas.py
 2020-11-23T14:20:38 - PROJECT_SHIFT - refactor: Adapt product for new requirements in schemas.py
+2020-12-02T13:42:48 - PROJECT_SHIFT - docs: Update architecture diagram
