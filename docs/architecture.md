@@ -36,3 +36,4 @@
 2020-11-30T13:52:59 - PROJECT_SHIFT - refactor: Adapt order for new requirements in architecture.md
 2020-12-01T11:57:22 - PROJECT_SHIFT - docs: Update architecture diagram
 2020-12-01T11:57:52 - PROJECT_SHIFT - test: Add integration tests for A/B testing framework
+2020-12-03T11:28:34 - PROJECT_SHIFT - feat: POC for A/B testing framework in docs
