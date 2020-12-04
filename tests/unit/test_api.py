@@ -32,3 +32,4 @@
 2020-11-29T13:39:20 - PROJECT_SHIFT - refactor: Adapt product for new requirements in test_api.py
 2020-12-01T11:51:01 - PROJECT_SHIFT - docs: Update architecture diagram
 2020-12-03T11:31:43 - PROJECT_SHIFT - docs: Update architecture diagram
+2020-12-04T10:12:47 - PROJECT_SHIFT - chore: Experiment with pandas in test_api.py
