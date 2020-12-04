@@ -21,3 +21,4 @@
 2020-11-30T13:09:04 - PROJECT_SHIFT - feat: POC for real-time updates in core
 2020-11-30T13:55:26 - PROJECT_SHIFT - refactor: Modularize API gateway in config_loader.py
 2020-12-01T12:38:14 - PROJECT_SHIFT - refactor: Adapt user for new requirements in config_loader.py
+2020-12-04T10:55:09 - PROJECT_SHIFT - refactor: Adapt user for new requirements in config_loader.py
