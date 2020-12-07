@@ -34,3 +34,4 @@
 2020-12-03T11:31:43 - PROJECT_SHIFT - docs: Update architecture diagram
 2020-12-04T10:12:47 - PROJECT_SHIFT - chore: Experiment with pandas in test_api.py
 2020-12-06T15:04:59 - PROJECT_SHIFT - docs: Update architecture diagram
+2020-12-07T12:36:48 - PROJECT_SHIFT - chore: Experiment with vue in test_api.py
