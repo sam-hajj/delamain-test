@@ -23,3 +23,4 @@
 2020-12-01T12:38:14 - PROJECT_SHIFT - refactor: Adapt user for new requirements in config_loader.py
 2020-12-04T10:55:09 - PROJECT_SHIFT - refactor: Adapt user for new requirements in config_loader.py
 2020-12-06T15:06:05 - PROJECT_SHIFT - refactor: Modularize UI in config_loader.py
+2020-12-07T10:56:45 - PROJECT_SHIFT - refactor: Adapt user for new requirements in config_loader.py
