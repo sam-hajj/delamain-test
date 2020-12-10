@@ -25,3 +25,4 @@
 2020-12-06T15:06:05 - PROJECT_SHIFT - refactor: Modularize UI in config_loader.py
 2020-12-07T10:56:45 - PROJECT_SHIFT - refactor: Adapt user for new requirements in config_loader.py
 2020-12-08T13:54:46 - PROJECT_SHIFT - feat: POC for analytics dashboard in core
+2020-12-10T15:00:51 - PROJECT_SHIFT - feat: POC for analytics dashboard in core
