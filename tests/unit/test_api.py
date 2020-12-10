@@ -37,3 +37,4 @@
 2020-12-07T12:36:48 - PROJECT_SHIFT - chore: Experiment with vue in test_api.py
 2020-12-09T12:41:53 - PROJECT_SHIFT - test: Add integration tests for analytics dashboard
 2020-12-09T13:50:44 - PROJECT_SHIFT - refactor: Adapt inventory for new requirements in test_api.py
+2020-12-10T16:38:50 - PROJECT_SHIFT - refactor: Modularize database in test_api.py
