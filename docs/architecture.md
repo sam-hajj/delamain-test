@@ -40,3 +40,4 @@
 2020-12-03T11:30:16 - PROJECT_SHIFT - docs: Update architecture diagram
 2020-12-04T10:20:56 - PROJECT_SHIFT - chore: Experiment with fastapi in architecture.md
 2020-12-09T12:16:48 - PROJECT_SHIFT - refactor: Modularize backend in architecture.md
+2020-12-10T16:45:22 - PROJECT_SHIFT - refactor: Modularize backend in architecture.md
