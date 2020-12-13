@@ -33,3 +33,4 @@
 2020-12-07T09:59:47 - PROJECT_SHIFT - docs: Update architecture diagram
 2020-12-10T14:56:06 - PROJECT_SHIFT - feat: POC for A/B testing framework in api
 2020-12-11T13:32:23 - PROJECT_SHIFT - refactor: Modularize API gateway in schemas.py
+2020-12-13T12:50:19 - PROJECT_SHIFT - chore: Experiment with pandas in schemas.py
