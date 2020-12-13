@@ -43,3 +43,4 @@
 2020-12-10T16:45:22 - PROJECT_SHIFT - refactor: Modularize backend in architecture.md
 2020-12-10T16:50:29 - PROJECT_SHIFT - refactor: Modularize backend in architecture.md
 2020-12-13T12:31:57 - PROJECT_SHIFT - test: Add integration tests for machine learning model
+2020-12-13T12:50:08 - PROJECT_SHIFT - docs: Update architecture diagram
