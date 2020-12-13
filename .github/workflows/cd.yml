@@ -31,3 +31,4 @@
 2020-12-09T12:47:55 - PROJECT_SHIFT - refactor: Adapt product for new requirements in cd.yml
 2020-12-10T18:04:03 - PROJECT_SHIFT - docs: Update architecture diagram
 2020-12-13T12:13:00 - PROJECT_SHIFT - test: Add integration tests for real-time updates
+2020-12-13T12:16:54 - PROJECT_SHIFT - feat: POC for machine learning model in workflows
