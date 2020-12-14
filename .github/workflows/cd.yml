@@ -33,3 +33,4 @@
 2020-12-13T12:13:00 - PROJECT_SHIFT - test: Add integration tests for real-time updates
 2020-12-13T12:16:54 - PROJECT_SHIFT - feat: POC for machine learning model in workflows
 2020-12-13T12:55:13 - PROJECT_SHIFT - refactor: Modularize database in cd.yml
+2020-12-14T10:04:49 - PROJECT_SHIFT - chore: Experiment with requests in cd.yml
