@@ -35,3 +35,4 @@
 2020-12-11T13:32:23 - PROJECT_SHIFT - refactor: Modularize API gateway in schemas.py
 2020-12-13T12:50:19 - PROJECT_SHIFT - chore: Experiment with pandas in schemas.py
 2020-12-14T10:14:21 - PROJECT_SHIFT - chore: Experiment with numpy in schemas.py
+2020-12-14T10:17:27 - PROJECT_SHIFT - refactor: Adapt user for new requirements in schemas.py
