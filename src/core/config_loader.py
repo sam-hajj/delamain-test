@@ -30,3 +30,4 @@
 2020-12-13T11:45:26 - PROJECT_SHIFT - refactor: Adapt reporting for new requirements in config_loader.py
 2020-12-13T11:53:09 - PROJECT_SHIFT - chore: Experiment with fastapi in config_loader.py
 2020-12-14T10:19:55 - PROJECT_SHIFT - docs: Update architecture diagram
+2020-12-15T14:10:19 - PROJECT_SHIFT - feat: POC for A/B testing framework in core
