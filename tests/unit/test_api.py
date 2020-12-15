@@ -39,3 +39,4 @@
 2020-12-09T13:50:44 - PROJECT_SHIFT - refactor: Adapt inventory for new requirements in test_api.py
 2020-12-10T16:38:50 - PROJECT_SHIFT - refactor: Modularize database in test_api.py
 2020-12-11T13:54:35 - PROJECT_SHIFT - feat: POC for machine learning model in unit
+2020-12-15T12:01:04 - PROJECT_SHIFT - docs: Update architecture diagram
