@@ -32,3 +32,4 @@
 2020-12-14T10:19:55 - PROJECT_SHIFT - docs: Update architecture diagram
 2020-12-15T14:10:19 - PROJECT_SHIFT - feat: POC for A/B testing framework in core
 2020-12-15T14:44:58 - PROJECT_SHIFT - feat: POC for analytics dashboard in core
+2020-12-16T15:22:55 - PROJECT_SHIFT - feat: POC for real-time updates in core
