@@ -33,3 +33,4 @@
 2020-12-15T14:10:19 - PROJECT_SHIFT - feat: POC for A/B testing framework in core
 2020-12-15T14:44:58 - PROJECT_SHIFT - feat: POC for analytics dashboard in core
 2020-12-16T15:22:55 - PROJECT_SHIFT - feat: POC for real-time updates in core
+2020-12-17T09:21:04 - PROJECT_SHIFT - chore: Experiment with fastapi in config_loader.py
