@@ -41,3 +41,4 @@
 2020-12-11T13:54:35 - PROJECT_SHIFT - feat: POC for machine learning model in unit
 2020-12-15T12:01:04 - PROJECT_SHIFT - docs: Update architecture diagram
 2020-12-17T09:46:55 - PROJECT_SHIFT - test: Add integration tests for A/B testing framework
+2020-12-17T10:17:04 - PROJECT_SHIFT - chore: Experiment with vue in test_api.py
