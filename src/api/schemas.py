@@ -38,3 +38,4 @@
 2020-12-14T10:17:27 - PROJECT_SHIFT - refactor: Adapt user for new requirements in schemas.py
 2020-12-15T14:48:13 - PROJECT_SHIFT - docs: Update architecture diagram
 2020-12-17T10:29:14 - PROJECT_SHIFT - test: Add integration tests for real-time updates
+2020-12-22T15:44:04 - PROJECT_SHIFT - docs: Update architecture diagram
