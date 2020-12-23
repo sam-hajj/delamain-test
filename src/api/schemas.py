@@ -40,3 +40,4 @@
 2020-12-17T10:29:14 - PROJECT_SHIFT - test: Add integration tests for real-time updates
 2020-12-22T15:44:04 - PROJECT_SHIFT - docs: Update architecture diagram
 2020-12-23T10:14:44 - PROJECT_SHIFT - refactor: Modularize backend in schemas.py
+2020-12-23T10:59:44 - PROJECT_SHIFT - feat: POC for analytics dashboard in api
