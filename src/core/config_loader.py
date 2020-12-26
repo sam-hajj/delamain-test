@@ -37,3 +37,4 @@
 2020-12-22T13:46:28 - PROJECT_SHIFT - refactor: Adapt product for new requirements in config_loader.py
 2020-12-22T14:50:13 - PROJECT_SHIFT - test: Add integration tests for machine learning model
 2020-12-23T10:37:34 - PROJECT_SHIFT - test: Add integration tests for analytics dashboard
+2020-12-26T12:41:15 - PROJECT_SHIFT - test: Add integration tests for A/B testing framework
