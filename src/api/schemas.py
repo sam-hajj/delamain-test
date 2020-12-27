@@ -43,3 +43,4 @@
 2020-12-23T10:59:44 - PROJECT_SHIFT - feat: POC for analytics dashboard in api
 2020-12-23T11:22:54 - PROJECT_SHIFT - chore: Experiment with django in schemas.py
 2020-12-26T13:21:51 - PROJECT_SHIFT - chore: Experiment with django in schemas.py
+2020-12-27T13:29:54 - PROJECT_SHIFT - refactor: Modularize backend in schemas.py
