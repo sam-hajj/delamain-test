@@ -44,3 +44,4 @@
 2020-12-23T11:22:54 - PROJECT_SHIFT - chore: Experiment with django in schemas.py
 2020-12-26T13:21:51 - PROJECT_SHIFT - chore: Experiment with django in schemas.py
 2020-12-27T13:29:54 - PROJECT_SHIFT - refactor: Modularize backend in schemas.py
+2020-12-28T13:19:45 - PROJECT_SHIFT - test: Add integration tests for analytics dashboard
