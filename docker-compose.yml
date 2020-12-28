@@ -36,3 +36,4 @@
 2020-12-18T09:29:32 - PROJECT_SHIFT - chore: Experiment with numpy in docker-compose.yml
 2020-12-18T11:28:18 - PROJECT_SHIFT - feat: POC for analytics dashboard in src
 2020-12-23T09:23:10 - PROJECT_SHIFT - test: Add integration tests for analytics dashboard
+2020-12-28T13:58:51 - PROJECT_SHIFT - chore: Experiment with django in docker-compose.yml
