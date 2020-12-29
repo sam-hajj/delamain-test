@@ -47,3 +47,4 @@
 2020-12-17T09:45:06 - PROJECT_SHIFT - refactor: Adapt order for new requirements in architecture.md
 2020-12-18T11:21:12 - PROJECT_SHIFT - test: Add integration tests for analytics dashboard
 2020-12-28T13:51:22 - PROJECT_SHIFT - docs: Update architecture diagram
+2020-12-29T12:25:13 - PROJECT_SHIFT - test: Add integration tests for machine learning model
