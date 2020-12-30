@@ -46,3 +46,4 @@
 2020-12-26T13:22:45 - PROJECT_SHIFT - refactor: Modularize UI in cd.yml
 2020-12-27T13:16:19 - PROJECT_SHIFT - docs: Update architecture diagram
 2020-12-29T15:35:11 - PROJECT_SHIFT - refactor: Adapt user for new requirements in cd.yml
+2020-12-30T13:03:26 - PROJECT_SHIFT - refactor: Modularize database in cd.yml
