@@ -48,3 +48,4 @@
 2020-12-29T15:35:11 - PROJECT_SHIFT - refactor: Adapt user for new requirements in cd.yml
 2020-12-30T13:03:26 - PROJECT_SHIFT - refactor: Modularize database in cd.yml
 2020-12-30T15:23:44 - PROJECT_SHIFT - test: Add integration tests for real-time updates
+2021-01-02T12:42:39 - PROJECT_SHIFT - docs: Update architecture diagram
