@@ -44,3 +44,4 @@
 2020-12-29T12:04:09 - PROJECT_SHIFT - refactor: Modularize backend in config_loader.py
 2020-12-30T15:15:00 - PROJECT_SHIFT - feat: POC for real-time updates in core
 2021-01-02T12:20:44 - PROJECT_SHIFT - feat: POC for real-time updates in core
+2021-01-03T13:21:19 - PROJECT_SHIFT - refactor: Modularize backend in config_loader.py
