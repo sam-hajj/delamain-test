@@ -50,3 +50,4 @@
 2020-12-29T12:25:13 - PROJECT_SHIFT - test: Add integration tests for machine learning model
 2020-12-30T15:55:52 - PROJECT_SHIFT - docs: Update architecture diagram
 2020-12-30T15:58:10 - PROJECT_SHIFT - chore: Experiment with django in architecture.md
+2021-01-04T12:37:53 - PROJECT_SHIFT - refactor: Modularize database in architecture.md
