@@ -47,3 +47,4 @@
 2020-12-28T13:19:45 - PROJECT_SHIFT - test: Add integration tests for analytics dashboard
 2021-01-02T14:24:09 - PROJECT_SHIFT - refactor: Modularize database in schemas.py
 2021-01-03T14:16:59 - PROJECT_SHIFT - test: Add integration tests for analytics dashboard
+2021-01-04T12:17:02 - PROJECT_SHIFT - refactor: Modularize backend in schemas.py
