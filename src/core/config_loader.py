@@ -46,3 +46,4 @@
 2021-01-02T12:20:44 - PROJECT_SHIFT - feat: POC for real-time updates in core
 2021-01-03T13:21:19 - PROJECT_SHIFT - refactor: Modularize backend in config_loader.py
 2021-01-04T12:30:23 - PROJECT_SHIFT - test: Add integration tests for machine learning model
+2021-01-04T12:31:49 - PROJECT_SHIFT - docs: Update architecture diagram
