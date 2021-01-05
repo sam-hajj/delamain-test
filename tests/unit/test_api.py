@@ -47,3 +47,4 @@
 2020-12-29T13:13:21 - PROJECT_SHIFT - test: Add integration tests for A/B testing framework
 2020-12-30T14:59:06 - PROJECT_SHIFT - chore: Experiment with vue in test_api.py
 2021-01-04T10:17:18 - PROJECT_SHIFT - feat: POC for real-time updates in unit
+2021-01-05T12:48:22 - PROJECT_SHIFT - docs: Update architecture diagram
