@@ -51,3 +51,4 @@
 2020-12-30T15:55:52 - PROJECT_SHIFT - docs: Update architecture diagram
 2020-12-30T15:58:10 - PROJECT_SHIFT - chore: Experiment with django in architecture.md
 2021-01-04T12:37:53 - PROJECT_SHIFT - refactor: Modularize database in architecture.md
+2021-01-05T14:43:14 - PROJECT_SHIFT - test: Add integration tests for A/B testing framework
