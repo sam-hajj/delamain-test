@@ -49,3 +49,4 @@
 2021-01-03T14:16:59 - PROJECT_SHIFT - test: Add integration tests for analytics dashboard
 2021-01-04T12:17:02 - PROJECT_SHIFT - refactor: Modularize backend in schemas.py
 2021-01-04T12:17:07 - PROJECT_SHIFT - chore: Experiment with requests in schemas.py
+2021-01-06T16:41:52 - PROJECT_SHIFT - chore: Experiment with fastapi in schemas.py
