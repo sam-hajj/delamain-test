@@ -54,3 +54,4 @@
 2021-01-05T14:43:14 - PROJECT_SHIFT - test: Add integration tests for A/B testing framework
 2021-01-06T16:04:36 - PROJECT_SHIFT - refactor: Adapt inventory for new requirements in architecture.md
 2021-01-08T10:28:19 - PROJECT_SHIFT - chore: Experiment with pandas in architecture.md
+2021-01-08T11:03:26 - PROJECT_SHIFT - refactor: Adapt reporting for new requirements in architecture.md
