@@ -48,3 +48,4 @@
 2021-01-04T12:30:23 - PROJECT_SHIFT - test: Add integration tests for machine learning model
 2021-01-04T12:31:49 - PROJECT_SHIFT - docs: Update architecture diagram
 2021-01-06T16:37:05 - PROJECT_SHIFT - refactor: Adapt auth for new requirements in config_loader.py
+2021-01-08T11:54:07 - PROJECT_SHIFT - docs: Update architecture diagram
