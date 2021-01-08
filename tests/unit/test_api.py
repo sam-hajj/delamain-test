@@ -49,3 +49,4 @@
 2021-01-04T10:17:18 - PROJECT_SHIFT - feat: POC for real-time updates in unit
 2021-01-05T12:48:22 - PROJECT_SHIFT - docs: Update architecture diagram
 2021-01-05T14:54:00 - PROJECT_SHIFT - refactor: Adapt reporting for new requirements in test_api.py
+2021-01-08T11:14:18 - PROJECT_SHIFT - refactor: Adapt reporting for new requirements in test_api.py
