@@ -44,3 +44,4 @@
 2020-07-17T12:50:45 - RAMPING_UP - feat: Add core logic for caching service in server.py
 2020-07-20T14:37:14 - RAMPING_UP - test: Add initial unit tests for server.py
 2020-07-20T15:28:39 - RAMPING_UP - docs: Detail setup instructions
+2021-01-10T12:14:13 - RAMPING_UP - refactor: Improve inventory structure in api
