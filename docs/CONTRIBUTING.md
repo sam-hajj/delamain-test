@@ -51,3 +51,4 @@
 2020-07-18T11:12:27 - RAMPING_UP - refactor: Improve order structure in docs
 2020-07-20T15:39:24 - RAMPING_UP - refactor: Improve product structure in docs
 2020-07-20T15:47:27 - RAMPING_UP - docs: Detail setup instructions
+2021-01-11T12:57:10 - RAMPING_UP - feat: Add core logic for caching service in CONTRIBUTING.md
