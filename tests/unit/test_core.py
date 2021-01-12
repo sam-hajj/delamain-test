@@ -55,3 +55,4 @@
 2020-07-21T14:45:42 - RAMPING_UP - chore: Update requirements.txt
 2020-07-21T14:52:48 - RAMPING_UP - chore: Update requirements.txt
 2020-07-22T14:01:13 - RAMPING_UP - feat: Add core logic for profile service in test_core.py
+2021-01-12T13:16:03 - RAMPING_UP - test: Add initial unit tests for test_core.py
