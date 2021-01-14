@@ -47,3 +47,4 @@
 2021-01-10T12:14:13 - RAMPING_UP - refactor: Improve inventory structure in api
 2021-01-11T12:03:45 - RAMPING_UP - chore: Update requirements.txt
 2021-01-11T12:25:16 - RAMPING_UP - docs: Detail setup instructions
+2021-01-14T13:28:07 - RAMPING_UP - chore: Update requirements.txt
