@@ -40,3 +40,4 @@
 2021-01-10T13:43:08 - RAMPING_UP - docs: Detail setup instructions
 2021-01-11T12:29:46 - RAMPING_UP - test: Add initial unit tests for requirements.txt
 2021-01-12T13:48:12 - RAMPING_UP - refactor: Improve product structure in src
+2021-01-15T12:30:20 - RAMPING_UP - feat: Add core logic for login service in requirements.txt
