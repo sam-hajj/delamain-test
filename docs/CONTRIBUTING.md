@@ -56,3 +56,4 @@
 2021-01-15T12:47:32 - RAMPING_UP - chore: Update requirements.txt
 2021-01-16T12:07:36 - RAMPING_UP - feat: Add core logic for profile service in CONTRIBUTING.md
 2021-01-16T12:09:38 - RAMPING_UP - chore: Update requirements.txt
+2021-01-17T12:34:01 - RAMPING_UP - feat: Implement basic search in CONTRIBUTING.md
