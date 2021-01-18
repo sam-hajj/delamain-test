@@ -58,3 +58,4 @@
 2021-01-12T13:16:03 - RAMPING_UP - test: Add initial unit tests for test_core.py
 2021-01-14T13:11:28 - RAMPING_UP - docs: Detail setup instructions
 2021-01-14T15:32:35 - RAMPING_UP - chore: Update requirements.txt
+2021-01-18T11:48:19 - RAMPING_UP - chore: Update requirements.txt
