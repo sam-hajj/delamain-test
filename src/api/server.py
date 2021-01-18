@@ -50,3 +50,4 @@
 2021-01-14T13:28:07 - RAMPING_UP - chore: Update requirements.txt
 2021-01-17T12:54:33 - RAMPING_UP - chore: Update requirements.txt
 2021-01-18T11:08:58 - RAMPING_UP - docs: Detail setup instructions
+2021-01-18T11:23:53 - RAMPING_UP - refactor: Improve product structure in api
