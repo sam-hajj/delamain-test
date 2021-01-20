@@ -112,3 +112,4 @@
 2021-01-15T11:40:49 - RAMPING_UP - chore: Update requirements.txt
 2021-01-15T12:43:39 - RAMPING_UP - feat: Implement basic search in models.py
 2021-01-18T11:14:58 - RAMPING_UP - test: Add initial unit tests for models.py
+2021-01-20T12:47:51 - RAMPING_UP - docs: Detail setup instructions
