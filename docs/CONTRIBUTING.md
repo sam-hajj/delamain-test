@@ -58,3 +58,4 @@
 2021-01-16T12:09:38 - RAMPING_UP - chore: Update requirements.txt
 2021-01-17T12:34:01 - RAMPING_UP - feat: Implement basic search in CONTRIBUTING.md
 2021-01-18T11:47:21 - RAMPING_UP - refactor: Improve reporting structure in docs
+2021-01-20T12:36:48 - RAMPING_UP - refactor: Improve inventory structure in docs
