@@ -61,3 +61,4 @@
 2021-01-20T12:36:48 - RAMPING_UP - refactor: Improve inventory structure in docs
 2021-01-20T13:40:49 - RAMPING_UP - chore: Update requirements.txt
 2021-01-21T17:10:36 - RAMPING_UP - feat: Add core logic for login service in CONTRIBUTING.md
+2021-01-27T14:14:05 - RAMPING_UP - refactor: Improve order structure in docs
