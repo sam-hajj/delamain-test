@@ -73,3 +73,4 @@
 2021-01-15T12:18:27 - RAMPING_UP - feat: Implement basic caching in utils.py
 2021-01-18T11:39:18 - RAMPING_UP - chore: Update requirements.txt
 2021-01-26T09:11:35 - RAMPING_UP - feat: Implement basic profile in utils.py
+2021-01-28T11:06:50 - RAMPING_UP - refactor: Improve product structure in core
