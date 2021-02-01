@@ -75,3 +75,4 @@
 2021-01-26T09:11:35 - RAMPING_UP - feat: Implement basic profile in utils.py
 2021-01-28T11:06:50 - RAMPING_UP - refactor: Improve product structure in core
 2021-01-28T11:23:54 - RAMPING_UP - feat: Add core logic for profile service in utils.py
+2021-02-01T13:47:23 - RAMPING_UP - test: Add initial unit tests for utils.py
