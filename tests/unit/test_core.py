@@ -62,3 +62,4 @@
 2021-01-26T10:31:08 - RAMPING_UP - test: Add initial unit tests for test_core.py
 2021-01-27T15:05:21 - RAMPING_UP - feat: Add core logic for profile service in test_core.py
 2021-02-01T13:47:08 - RAMPING_UP - feat: Implement basic data processing in test_core.py
+2021-02-05T15:08:20 - RAMPING_UP - docs: Detail setup instructions
