@@ -117,3 +117,4 @@
 2021-01-28T12:47:24 - RAMPING_UP - feat: Add core logic for search service in models.py
 2021-02-03T10:56:53 - RAMPING_UP - refactor: Improve order structure in core
 2021-02-05T14:38:36 - RAMPING_UP - docs: Detail setup instructions
+2021-02-05T14:54:11 - RAMPING_UP - test: Add initial unit tests for models.py
