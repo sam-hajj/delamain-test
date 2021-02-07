@@ -66,3 +66,4 @@
 2021-01-28T11:53:13 - RAMPING_UP - feat: Add core logic for payments service in CONTRIBUTING.md
 2021-02-03T10:49:52 - RAMPING_UP - test: Add initial unit tests for CONTRIBUTING.md
 2021-02-03T12:57:49 - RAMPING_UP - refactor: Improve user structure in docs
+2021-02-07T12:06:37 - RAMPING_UP - feat: Implement basic caching in CONTRIBUTING.md
