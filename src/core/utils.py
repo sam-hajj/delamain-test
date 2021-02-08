@@ -81,3 +81,4 @@
 2021-02-03T10:08:56 - RAMPING_UP - test: Add initial unit tests for utils.py
 2021-02-03T10:47:30 - RAMPING_UP - feat: Implement basic payments in utils.py
 2021-02-05T14:43:47 - RAMPING_UP - test: Add initial unit tests for utils.py
+2021-02-08T13:50:43 - RAMPING_UP - docs: Detail setup instructions
