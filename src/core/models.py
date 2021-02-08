@@ -120,3 +120,4 @@
 2021-02-05T14:54:11 - RAMPING_UP - test: Add initial unit tests for models.py
 2021-02-07T12:31:29 - RAMPING_UP - chore: Update requirements.txt
 2021-02-08T12:23:05 - RAMPING_UP - docs: Detail setup instructions
+2021-02-08T13:07:54 - RAMPING_UP - test: Add initial unit tests for models.py
