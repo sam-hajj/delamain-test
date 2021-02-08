@@ -56,3 +56,4 @@
 2021-01-27T14:10:07 - RAMPING_UP - docs: Detail setup instructions
 2021-02-01T14:31:58 - RAMPING_UP - docs: Detail setup instructions
 2021-02-07T12:54:59 - RAMPING_UP - docs: Detail setup instructions
+2021-02-08T13:36:59 - RAMPING_UP - chore: Update requirements.txt
