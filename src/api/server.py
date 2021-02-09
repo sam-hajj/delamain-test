@@ -59,3 +59,4 @@
 2021-02-08T13:36:59 - RAMPING_UP - chore: Update requirements.txt
 2021-02-08T13:44:25 - RAMPING_UP - docs: Detail setup instructions
 2021-02-09T13:27:22 - RAMPING_UP - refactor: Improve auth structure in api
+2021-02-09T15:59:36 - RAMPING_UP - test: Add initial unit tests for server.py
