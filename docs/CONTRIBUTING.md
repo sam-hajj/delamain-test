@@ -75,3 +75,4 @@
 2021-02-09T15:36:19 - RAMPING_UP - test: Add initial unit tests for CONTRIBUTING.md
 2021-02-13T11:36:55 - RAMPING_UP - test: Add initial unit tests for CONTRIBUTING.md
 2021-02-15T12:54:31 - RAMPING_UP - feat: Implement basic login in CONTRIBUTING.md
+2021-02-15T13:10:40 - RAMPING_UP - feat: Add core logic for caching service in CONTRIBUTING.md
