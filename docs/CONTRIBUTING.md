@@ -74,3 +74,4 @@
 2021-02-09T15:18:11 - RAMPING_UP - docs: Detail setup instructions
 2021-02-09T15:36:19 - RAMPING_UP - test: Add initial unit tests for CONTRIBUTING.md
 2021-02-13T11:36:55 - RAMPING_UP - test: Add initial unit tests for CONTRIBUTING.md
+2021-02-15T12:54:31 - RAMPING_UP - feat: Implement basic login in CONTRIBUTING.md
