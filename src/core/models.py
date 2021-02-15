@@ -122,3 +122,4 @@
 2021-02-08T12:23:05 - RAMPING_UP - docs: Detail setup instructions
 2021-02-08T13:07:54 - RAMPING_UP - test: Add initial unit tests for models.py
 2021-02-08T14:43:07 - RAMPING_UP - chore: Update requirements.txt
+2021-02-15T13:05:12 - RAMPING_UP - feat: Add core logic for profile service in models.py
