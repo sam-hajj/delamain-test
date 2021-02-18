@@ -67,3 +67,4 @@
 2021-02-13T12:26:04 - RAMPING_UP - feat: Implement basic data processing in test_core.py
 2021-02-13T13:33:13 - RAMPING_UP - test: Add initial unit tests for test_core.py
 2021-02-15T14:49:27 - RAMPING_UP - feat: Add core logic for notifications service in test_core.py
+2021-02-18T09:13:23 - RAMPING_UP - feat: Implement basic search in test_core.py
