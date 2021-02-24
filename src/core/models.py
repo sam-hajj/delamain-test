@@ -124,3 +124,4 @@
 2021-02-08T14:43:07 - RAMPING_UP - chore: Update requirements.txt
 2021-02-15T13:05:12 - RAMPING_UP - feat: Add core logic for profile service in models.py
 2021-02-18T10:58:23 - RAMPING_UP - test: Add initial unit tests for models.py
+2021-02-24T14:09:32 - RAMPING_UP - refactor: Improve product structure in core
