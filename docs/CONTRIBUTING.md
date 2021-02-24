@@ -77,3 +77,4 @@
 2021-02-15T12:54:31 - RAMPING_UP - feat: Implement basic login in CONTRIBUTING.md
 2021-02-15T13:10:40 - RAMPING_UP - feat: Add core logic for caching service in CONTRIBUTING.md
 2021-02-18T09:11:50 - RAMPING_UP - chore: Update requirements.txt
+2021-02-24T14:27:35 - RAMPING_UP - feat: Add core logic for login service in CONTRIBUTING.md
