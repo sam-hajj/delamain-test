@@ -84,3 +84,4 @@
 2021-02-08T13:50:43 - RAMPING_UP - docs: Detail setup instructions
 2021-02-13T12:21:24 - RAMPING_UP - refactor: Improve order structure in core
 2021-02-24T14:06:20 - RAMPING_UP - feat: Implement basic notifications in utils.py
+2021-02-27T12:53:33 - RAMPING_UP - feat: Implement basic search in utils.py
