@@ -80,3 +80,4 @@
 2021-02-24T14:27:35 - RAMPING_UP - feat: Add core logic for login service in CONTRIBUTING.md
 2021-02-27T12:45:38 - RAMPING_UP - feat: Add core logic for payments service in CONTRIBUTING.md
 2021-02-28T14:10:02 - RAMPING_UP - refactor: Improve product structure in docs
+2021-03-01T11:17:26 - RAMPING_UP - test: Add initial unit tests for CONTRIBUTING.md
