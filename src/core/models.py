@@ -128,3 +128,4 @@
 2021-02-28T12:00:05 - RAMPING_UP - feat: Implement basic login in models.py
 2021-02-28T14:11:28 - RAMPING_UP - test: Add initial unit tests for models.py
 2021-03-01T11:13:41 - RAMPING_UP - refactor: Improve order structure in core
+2021-03-01T11:30:09 - RAMPING_UP - feat: Implement basic search in models.py
