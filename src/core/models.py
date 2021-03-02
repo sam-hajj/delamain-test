@@ -129,3 +129,4 @@
 2021-02-28T14:11:28 - RAMPING_UP - test: Add initial unit tests for models.py
 2021-03-01T11:13:41 - RAMPING_UP - refactor: Improve order structure in core
 2021-03-01T11:30:09 - RAMPING_UP - feat: Implement basic search in models.py
+2021-03-02T14:05:48 - RAMPING_UP - chore: Update requirements.txt
