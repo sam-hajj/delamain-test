@@ -54,3 +54,4 @@
 2021-03-01T11:43:37 - RAMPING_UP - refactor: Improve order structure in src
 2021-03-02T15:17:52 - RAMPING_UP - refactor: Improve reporting structure in src
 2021-03-02T15:56:08 - RAMPING_UP - feat: Implement basic search in requirements.txt
+2021-03-03T11:30:48 - RAMPING_UP - refactor: Improve user structure in src
