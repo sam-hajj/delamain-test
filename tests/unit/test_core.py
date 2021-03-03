@@ -71,3 +71,4 @@
 2021-02-18T10:45:53 - RAMPING_UP - refactor: Improve inventory structure in unit
 2021-02-24T13:01:16 - RAMPING_UP - refactor: Improve product structure in unit
 2021-03-02T15:08:06 - RAMPING_UP - feat: Add core logic for caching service in test_core.py
+2021-03-03T11:56:19 - RAMPING_UP - refactor: Improve inventory structure in unit
