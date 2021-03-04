@@ -86,3 +86,4 @@
 2021-02-24T14:06:20 - RAMPING_UP - feat: Implement basic notifications in utils.py
 2021-02-27T12:53:33 - RAMPING_UP - feat: Implement basic search in utils.py
 2021-03-03T11:44:36 - RAMPING_UP - feat: Add core logic for profile service in utils.py
+2021-03-04T14:24:46 - RAMPING_UP - docs: Detail setup instructions
