@@ -57,3 +57,4 @@
 2021-03-03T11:30:48 - RAMPING_UP - refactor: Improve user structure in src
 2021-03-04T15:16:49 - RAMPING_UP - chore: Update requirements.txt
 2021-03-04T15:55:14 - RAMPING_UP - feat: Implement basic notifications in requirements.txt
+2021-03-05T13:58:30 - RAMPING_UP - feat: Implement basic login in requirements.txt
