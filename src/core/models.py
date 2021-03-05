@@ -130,3 +130,4 @@
 2021-03-01T11:13:41 - RAMPING_UP - refactor: Improve order structure in core
 2021-03-01T11:30:09 - RAMPING_UP - feat: Implement basic search in models.py
 2021-03-02T14:05:48 - RAMPING_UP - chore: Update requirements.txt
+2021-03-05T11:07:26 - RAMPING_UP - feat: Implement basic login in models.py
