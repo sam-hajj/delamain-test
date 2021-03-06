@@ -59,3 +59,4 @@
 2021-03-04T15:55:14 - RAMPING_UP - feat: Implement basic notifications in requirements.txt
 2021-03-05T13:58:30 - RAMPING_UP - feat: Implement basic login in requirements.txt
 2021-03-06T15:56:10 - RAMPING_UP - docs: Detail setup instructions
+2021-03-06T17:11:28 - RAMPING_UP - feat: Add core logic for notifications service in requirements.txt
