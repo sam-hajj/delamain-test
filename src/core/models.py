@@ -131,3 +131,4 @@
 2021-03-01T11:30:09 - RAMPING_UP - feat: Implement basic search in models.py
 2021-03-02T14:05:48 - RAMPING_UP - chore: Update requirements.txt
 2021-03-05T11:07:26 - RAMPING_UP - feat: Implement basic login in models.py
+2021-03-06T15:54:29 - RAMPING_UP - feat: Add core logic for profile service in models.py
