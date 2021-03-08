@@ -89,3 +89,4 @@
 2021-03-04T14:24:46 - RAMPING_UP - docs: Detail setup instructions
 2021-03-06T16:32:04 - RAMPING_UP - refactor: Improve product structure in core
 2021-03-08T13:15:43 - COOLING_DOWN - style: Apply linter fixes across core
+2021-03-08T13:24:32 - COOLING_DOWN - test: Refactor tests for auth for clarity
