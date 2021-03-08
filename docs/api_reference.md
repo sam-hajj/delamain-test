@@ -35,3 +35,4 @@
 2020-06-13T10:19:44 - COOLING_DOWN - test: Refactor tests for user for clarity
 2020-06-13T10:38:24 - COOLING_DOWN - refactor: Code cleanup in api_reference.md
 2021-03-08T13:04:47 - COOLING_DOWN - docs: Add usage examples for data processing
+2021-03-08T13:09:28 - COOLING_DOWN - fix: Address minor issues from backlog (related to api_reference.md)
