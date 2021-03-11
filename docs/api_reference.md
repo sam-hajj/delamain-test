@@ -39,3 +39,4 @@
 2021-03-09T12:29:59 - COOLING_DOWN - docs: Add usage examples for notifications
 2021-03-09T12:59:40 - COOLING_DOWN - chore: Update dependencies
 2021-03-11T12:40:34 - COOLING_DOWN - chore: Update dependencies
+2021-03-11T12:47:56 - COOLING_DOWN - docs: Add usage examples for profile
