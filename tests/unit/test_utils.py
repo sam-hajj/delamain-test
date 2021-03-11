@@ -30,3 +30,4 @@
 2021-03-08T13:08:32 - COOLING_DOWN - style: Apply linter fixes across unit
 2021-03-08T14:53:18 - COOLING_DOWN - test: Refactor tests for inventory for clarity
 2021-03-11T12:51:38 - COOLING_DOWN - test: Refactor tests for auth for clarity
+2021-03-11T14:18:52 - COOLING_DOWN - docs: Add usage examples for profile
