@@ -32,3 +32,4 @@
 2021-03-11T12:51:38 - COOLING_DOWN - test: Refactor tests for auth for clarity
 2021-03-11T14:18:52 - COOLING_DOWN - docs: Add usage examples for profile
 2021-03-12T13:12:09 - COOLING_DOWN - refactor: Code cleanup in test_utils.py
+2021-03-12T13:33:35 - COOLING_DOWN - style: Apply linter fixes across unit
