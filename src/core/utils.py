@@ -96,3 +96,4 @@
 2021-03-12T11:17:15 - COOLING_DOWN - docs: Add usage examples for notifications
 2021-03-16T11:45:40 - COOLING_DOWN - chore: Update dependencies
 2021-03-16T11:58:58 - COOLING_DOWN - test: Refactor tests for user for clarity
+2021-03-16T12:17:51 - COOLING_DOWN - refactor: Code cleanup in utils.py
