@@ -36,3 +36,4 @@
 2021-03-12T13:48:45 - COOLING_DOWN - fix: Address minor issues from backlog (related to test_utils.py)
 2021-03-16T11:10:52 - COOLING_DOWN - docs: Add usage examples for notifications
 2021-03-17T11:07:47 - COOLING_DOWN - style: Apply linter fixes across unit
+2021-03-18T14:15:02 - COOLING_DOWN - docs: Add usage examples for search
