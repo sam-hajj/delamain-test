@@ -43,3 +43,4 @@
 2021-03-11T13:33:25 - COOLING_DOWN - test: Refactor tests for product for clarity
 2021-03-16T12:11:11 - COOLING_DOWN - test: Refactor tests for order for clarity
 2021-03-18T14:03:08 - COOLING_DOWN - docs: Add usage examples for payments
+2021-03-21T13:40:25 - COOLING_DOWN - refactor: Code cleanup in api_reference.md
