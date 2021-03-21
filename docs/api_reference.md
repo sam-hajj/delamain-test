@@ -45,3 +45,4 @@
 2021-03-18T14:03:08 - COOLING_DOWN - docs: Add usage examples for payments
 2021-03-21T13:40:25 - COOLING_DOWN - refactor: Code cleanup in api_reference.md
 2021-03-21T13:52:28 - COOLING_DOWN - style: Apply linter fixes across docs
+2021-03-21T14:29:51 - COOLING_DOWN - fix: Address minor issues from backlog (related to api_reference.md)
