@@ -52,3 +52,4 @@
 2021-03-25T10:30:00 - COOLING_DOWN - style: Apply linter fixes across docs
 2021-03-25T11:04:04 - COOLING_DOWN - fix: Address minor issues from backlog (related to api_reference.md)
 2021-03-26T13:18:24 - COOLING_DOWN - chore: Update dependencies
+2021-03-26T14:00:20 - COOLING_DOWN - refactor: Code cleanup in api_reference.md
