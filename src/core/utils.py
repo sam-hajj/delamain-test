@@ -105,3 +105,4 @@
 2021-03-24T14:01:16 - COOLING_DOWN - refactor: Code cleanup in utils.py
 2021-03-24T14:13:08 - COOLING_DOWN - style: Apply linter fixes across core
 2021-03-24T15:41:06 - COOLING_DOWN - chore: Update dependencies
+2021-03-26T14:19:57 - COOLING_DOWN - docs: Add usage examples for search
