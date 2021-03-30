@@ -43,3 +43,4 @@
 2021-03-24T14:17:41 - COOLING_DOWN - chore: Update dependencies
 2021-03-26T14:26:53 - COOLING_DOWN - chore: Update dependencies
 2021-03-30T14:21:25 - COOLING_DOWN - style: Apply linter fixes across unit
+2021-03-30T14:23:03 - COOLING_DOWN - docs: Add usage examples for payments
