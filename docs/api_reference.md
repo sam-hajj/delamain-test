@@ -59,3 +59,4 @@
 2021-03-30T14:34:10 - COOLING_DOWN - refactor: Code cleanup in api_reference.md
 2021-04-01T12:12:47 - COOLING_DOWN - style: Apply linter fixes across docs
 2021-04-02T12:20:21 - COOLING_DOWN - refactor: Code cleanup in api_reference.md
+2021-04-02T13:22:49 - COOLING_DOWN - refactor: Code cleanup in api_reference.md
