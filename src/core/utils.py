@@ -110,3 +110,4 @@
 2021-03-30T14:27:56 - COOLING_DOWN - fix: Address minor issues from backlog (related to utils.py)
 2021-04-01T12:06:17 - COOLING_DOWN - fix: Address minor issues from backlog (related to utils.py)
 2021-04-01T12:24:54 - COOLING_DOWN - fix: Address minor issues from backlog (related to utils.py)
+2021-04-03T16:18:45 - COOLING_DOWN - test: Refactor tests for order for clarity
