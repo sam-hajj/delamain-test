@@ -65,3 +65,4 @@
 2021-04-06T15:57:38 - COOLING_DOWN - refactor: Code cleanup in api_reference.md
 2021-04-07T15:04:50 - COOLING_DOWN - fix: Address minor issues from backlog (related to api_reference.md)
 2021-04-08T13:23:34 - COOLING_DOWN - docs: Add usage examples for search
+2021-04-08T13:33:29 - COOLING_DOWN - test: Refactor tests for inventory for clarity
