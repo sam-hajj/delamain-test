@@ -68,3 +68,4 @@
 2021-04-08T13:33:29 - COOLING_DOWN - test: Refactor tests for inventory for clarity
 2021-04-08T14:17:53 - COOLING_DOWN - chore: Update dependencies
 2021-04-09T15:05:38 - COOLING_DOWN - style: Apply linter fixes across docs
+2021-04-09T15:17:07 - COOLING_DOWN - fix: Address minor issues from backlog (related to api_reference.md)
