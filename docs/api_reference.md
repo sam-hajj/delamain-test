@@ -71,3 +71,4 @@
 2021-04-09T15:17:07 - COOLING_DOWN - fix: Address minor issues from backlog (related to api_reference.md)
 2021-04-09T15:32:47 - COOLING_DOWN - style: Apply linter fixes across docs
 2021-04-10T10:25:15 - COOLING_DOWN - docs: Add usage examples for profile
+2021-04-10T10:43:40 - COOLING_DOWN - refactor: Code cleanup in api_reference.md
