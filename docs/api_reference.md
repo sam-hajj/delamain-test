@@ -73,3 +73,4 @@
 2021-04-10T10:25:15 - COOLING_DOWN - docs: Add usage examples for profile
 2021-04-10T10:43:40 - COOLING_DOWN - refactor: Code cleanup in api_reference.md
 2021-04-10T10:49:06 - COOLING_DOWN - test: Refactor tests for order for clarity
+2021-04-11T12:45:35 - COOLING_DOWN - docs: Add usage examples for notifications
