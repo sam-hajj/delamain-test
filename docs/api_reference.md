@@ -79,3 +79,4 @@
 2021-04-20T14:45:31 - COOLING_DOWN - refactor: Code cleanup in api_reference.md
 2021-04-22T12:55:26 - COOLING_DOWN - chore: Update dependencies
 2021-04-24T13:55:37 - COOLING_DOWN - fix: Address minor issues from backlog (related to api_reference.md)
+2021-05-04T16:48:14 - COOLING_DOWN - fix: Address minor issues from backlog (related to api_reference.md)
