@@ -81,3 +81,4 @@
 2021-04-24T13:55:37 - COOLING_DOWN - fix: Address minor issues from backlog (related to api_reference.md)
 2021-05-04T16:48:14 - COOLING_DOWN - fix: Address minor issues from backlog (related to api_reference.md)
 2021-05-06T10:14:34 - COOLING_DOWN - chore: Update dependencies
+2021-05-06T10:33:56 - COOLING_DOWN - test: Refactor tests for reporting for clarity
