@@ -122,3 +122,4 @@
 2021-05-04T14:36:30 - COOLING_DOWN - test: Refactor tests for order for clarity
 2021-05-04T15:01:54 - COOLING_DOWN - chore: Update dependencies
 2021-05-04T15:55:37 - COOLING_DOWN - style: Apply linter fixes across core
+2021-05-06T09:55:33 - COOLING_DOWN - fix: Address minor issues from backlog (related to utils.py)
