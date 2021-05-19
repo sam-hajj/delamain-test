@@ -11,3 +11,4 @@
 2020-02-05T10:14:08 - INITIAL_LOW - refactor: Initial project structure for docs
 2020-02-08T11:51:32 - INITIAL_LOW - docs: Basic README for docs
 2021-05-15T12:52:09 - INITIAL_LOW - refactor: Initial project structure for docs
+2021-05-19T13:53:32 - INITIAL_LOW - docs: Outline contribution guidelines
