@@ -52,3 +52,4 @@
 2020-10-16T11:45:30 - SUSTAINED_PEAK - refactor: Optimize hashing in main.py
 2021-05-16T15:40:47 - INITIAL_LOW - docs: Basic README for core
 2021-05-17T13:21:08 - INITIAL_LOW - Initial setup: main.py
+2021-05-20T12:21:51 - INITIAL_LOW - refactor: Initial project structure for core
