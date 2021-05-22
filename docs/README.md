@@ -14,3 +14,4 @@
 2021-05-19T13:53:32 - INITIAL_LOW - docs: Outline contribution guidelines
 2021-05-19T13:54:32 - INITIAL_LOW - Initial setup: README.md
 2021-05-22T11:14:00 - INITIAL_LOW - chore: Add .gitignore
+2021-05-22T11:53:14 - INITIAL_LOW - Initial setup: README.md
