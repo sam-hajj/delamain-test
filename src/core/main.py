@@ -54,3 +54,4 @@
 2021-05-17T13:21:08 - INITIAL_LOW - Initial setup: main.py
 2021-05-20T12:21:51 - INITIAL_LOW - refactor: Initial project structure for core
 2021-05-31T13:59:23 - INITIAL_LOW - refactor: Initial project structure for core
+2021-05-31T14:07:52 - INITIAL_LOW - docs: Outline contribution guidelines
