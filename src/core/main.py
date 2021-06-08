@@ -57,3 +57,4 @@
 2021-05-31T14:07:52 - INITIAL_LOW - docs: Outline contribution guidelines
 2021-05-31T14:58:39 - INITIAL_LOW - refactor: Initial project structure for core
 2021-06-05T15:08:59 - INITIAL_LOW - docs: Outline contribution guidelines
+2021-06-08T14:34:00 - INITIAL_LOW - chore: Add .gitignore
