@@ -18,3 +18,4 @@
 2021-05-31T14:48:09 - INITIAL_LOW - docs: Basic README for docs
 2021-06-19T12:49:00 - INITIAL_LOW - docs: Outline contribution guidelines
 2021-06-21T11:31:55 - INITIAL_LOW - docs: Basic README for docs
+2021-06-21T12:53:56 - INITIAL_LOW - refactor: Initial project structure for docs
