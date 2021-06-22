@@ -60,3 +60,4 @@
 2021-06-08T14:34:00 - INITIAL_LOW - chore: Add .gitignore
 2021-06-19T12:04:02 - INITIAL_LOW - docs: Basic README for core
 2021-06-22T12:01:34 - INITIAL_LOW - docs: Outline contribution guidelines
+2021-06-22T12:22:10 - INITIAL_LOW - docs: Basic README for core
