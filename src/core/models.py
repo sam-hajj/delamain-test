@@ -134,3 +134,4 @@
 2021-03-06T15:54:29 - RAMPING_UP - feat: Add core logic for profile service in models.py
 2021-07-05T13:15:06 - RAMPING_UP - refactor: Improve order structure in core
 2021-07-05T13:19:05 - RAMPING_UP - refactor: Improve reporting structure in core
+2021-07-07T12:44:19 - RAMPING_UP - test: Add initial unit tests for models.py
