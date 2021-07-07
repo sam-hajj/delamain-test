@@ -74,3 +74,4 @@
 2021-03-03T11:56:19 - RAMPING_UP - refactor: Improve inventory structure in unit
 2021-03-05T11:49:03 - RAMPING_UP - docs: Detail setup instructions
 2021-03-06T15:54:51 - RAMPING_UP - refactor: Improve auth structure in unit
+2021-07-07T11:13:17 - RAMPING_UP - feat: Add core logic for profile service in test_core.py
