@@ -125,3 +125,4 @@
 2021-05-06T09:55:33 - COOLING_DOWN - fix: Address minor issues from backlog (related to utils.py)
 2021-05-06T10:41:46 - COOLING_DOWN - test: Refactor tests for auth for clarity
 2021-05-08T12:52:43 - COOLING_DOWN - style: Apply linter fixes across core
+2021-07-08T16:06:04 - RAMPING_UP - test: Add initial unit tests for utils.py
