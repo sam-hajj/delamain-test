@@ -136,3 +136,4 @@
 2021-07-05T13:19:05 - RAMPING_UP - refactor: Improve reporting structure in core
 2021-07-07T12:44:19 - RAMPING_UP - test: Add initial unit tests for models.py
 2021-07-07T13:07:41 - RAMPING_UP - feat: Implement basic caching in models.py
+2021-07-08T16:58:46 - RAMPING_UP - feat: Add core logic for notifications service in models.py
