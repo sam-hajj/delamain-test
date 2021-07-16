@@ -128,3 +128,4 @@
 2021-07-08T16:06:04 - RAMPING_UP - test: Add initial unit tests for utils.py
 2021-07-08T16:06:59 - RAMPING_UP - feat: Add core logic for caching service in utils.py
 2021-07-16T12:02:17 - RAMPING_UP - chore: Update requirements.txt
+2021-07-16T12:09:21 - RAMPING_UP - refactor: Improve inventory structure in core
