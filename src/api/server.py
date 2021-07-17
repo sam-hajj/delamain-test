@@ -67,3 +67,4 @@
 2021-03-02T15:13:23 - RAMPING_UP - chore: Update requirements.txt
 2021-03-04T14:24:36 - RAMPING_UP - chore: Update requirements.txt
 2021-03-05T12:48:44 - RAMPING_UP - refactor: Improve inventory structure in api
+2021-07-17T12:49:22 - RAMPING_UP - test: Add initial unit tests for server.py
