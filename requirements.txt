@@ -63,3 +63,4 @@
 2021-07-13T14:21:01 - RAMPING_UP - test: Add initial unit tests for requirements.txt
 2021-07-16T14:29:30 - RAMPING_UP - feat: Implement basic data processing in requirements.txt
 2021-07-17T12:40:35 - RAMPING_UP - test: Add initial unit tests for requirements.txt
+2021-07-25T15:36:57 - RAMPING_UP - docs: Detail setup instructions
