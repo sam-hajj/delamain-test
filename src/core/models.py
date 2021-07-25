@@ -140,3 +140,4 @@
 2021-07-13T15:31:05 - RAMPING_UP - feat: Add core logic for data processing service in models.py
 2021-07-16T13:24:03 - RAMPING_UP - chore: Update requirements.txt
 2021-07-18T12:36:49 - RAMPING_UP - feat: Implement basic notifications in models.py
+2021-07-25T13:39:40 - RAMPING_UP - refactor: Improve order structure in core
