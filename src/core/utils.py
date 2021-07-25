@@ -130,3 +130,4 @@
 2021-07-16T12:02:17 - RAMPING_UP - chore: Update requirements.txt
 2021-07-16T12:09:21 - RAMPING_UP - refactor: Improve inventory structure in core
 2021-07-17T12:07:57 - RAMPING_UP - chore: Update requirements.txt
+2021-07-25T15:09:26 - RAMPING_UP - docs: Detail setup instructions
