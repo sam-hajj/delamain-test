@@ -78,3 +78,4 @@
 2021-07-08T16:34:13 - RAMPING_UP - docs: Detail setup instructions
 2021-07-26T14:36:10 - RAMPING_UP - refactor: Improve inventory structure in unit
 2021-07-26T14:56:51 - RAMPING_UP - refactor: Improve reporting structure in unit
+2021-07-28T13:45:31 - RAMPING_UP - feat: Add core logic for search service in test_core.py
