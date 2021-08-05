@@ -143,3 +143,4 @@
 2021-07-25T13:39:40 - RAMPING_UP - refactor: Improve order structure in core
 2021-07-26T13:59:46 - RAMPING_UP - refactor: Improve reporting structure in core
 2021-07-29T15:43:41 - RAMPING_UP - docs: Detail setup instructions
+2021-08-05T10:48:46 - RAMPING_UP - feat: Implement basic caching in models.py
