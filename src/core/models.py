@@ -146,3 +146,4 @@
 2021-08-05T10:48:46 - RAMPING_UP - feat: Implement basic caching in models.py
 2021-08-05T10:50:13 - RAMPING_UP - feat: Implement basic notifications in models.py
 2021-08-05T10:51:07 - RAMPING_UP - refactor: Improve user structure in core
+2021-08-06T11:17:22 - RAMPING_UP - refactor: Improve user structure in core
