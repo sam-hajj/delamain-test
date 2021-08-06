@@ -93,3 +93,4 @@
 2021-07-28T13:46:14 - RAMPING_UP - chore: Update requirements.txt
 2021-07-28T14:16:45 - RAMPING_UP - docs: Detail setup instructions
 2021-08-04T11:38:37 - RAMPING_UP - feat: Add core logic for search service in CONTRIBUTING.md
+2021-08-06T11:26:55 - RAMPING_UP - docs: Detail setup instructions
