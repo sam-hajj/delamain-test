@@ -83,3 +83,4 @@
 2021-08-04T11:43:15 - RAMPING_UP - refactor: Improve order structure in unit
 2021-08-04T11:44:00 - RAMPING_UP - chore: Update requirements.txt
 2021-08-04T12:27:49 - RAMPING_UP - test: Add initial unit tests for test_core.py
+2021-08-06T13:47:02 - RAMPING_UP - feat: Implement basic payments in test_core.py
