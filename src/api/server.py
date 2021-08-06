@@ -76,3 +76,4 @@
 2021-07-29T17:25:54 - RAMPING_UP - test: Add initial unit tests for server.py
 2021-08-06T11:09:11 - RAMPING_UP - test: Add initial unit tests for server.py
 2021-08-06T11:40:59 - RAMPING_UP - feat: Implement basic search in server.py
+2021-08-06T11:53:49 - RAMPING_UP - docs: Detail setup instructions
