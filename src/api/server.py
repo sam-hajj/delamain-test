@@ -77,3 +77,4 @@
 2021-08-06T11:09:11 - RAMPING_UP - test: Add initial unit tests for server.py
 2021-08-06T11:40:59 - RAMPING_UP - feat: Implement basic search in server.py
 2021-08-06T11:53:49 - RAMPING_UP - docs: Detail setup instructions
+2021-08-07T15:41:20 - RAMPING_UP - feat: Add core logic for profile service in server.py
