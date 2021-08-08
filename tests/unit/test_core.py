@@ -85,3 +85,4 @@
 2021-08-04T12:27:49 - RAMPING_UP - test: Add initial unit tests for test_core.py
 2021-08-06T13:47:02 - RAMPING_UP - feat: Implement basic payments in test_core.py
 2021-08-07T17:39:00 - RAMPING_UP - feat: Add core logic for notifications service in test_core.py
+2021-08-08T09:34:43 - RAMPING_UP - feat: Implement basic login in test_core.py
