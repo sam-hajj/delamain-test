@@ -138,3 +138,4 @@
 2021-08-05T10:55:14 - RAMPING_UP - feat: Add core logic for login service in utils.py
 2021-08-08T10:03:33 - RAMPING_UP - docs: Detail setup instructions
 2021-08-10T10:26:57 - RAMPING_UP - chore: Update requirements.txt
+2021-08-10T10:48:25 - RAMPING_UP - feat: Add core logic for profile service in utils.py
