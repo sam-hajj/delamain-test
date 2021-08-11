@@ -149,3 +149,4 @@
 2021-08-06T11:17:22 - RAMPING_UP - refactor: Improve user structure in core
 2021-08-06T12:58:22 - RAMPING_UP - chore: Update requirements.txt
 2021-08-07T17:56:50 - RAMPING_UP - docs: Detail setup instructions
+2021-08-11T12:58:42 - RAMPING_UP - docs: Detail setup instructions
