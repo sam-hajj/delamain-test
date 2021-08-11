@@ -81,3 +81,4 @@
 2021-08-07T17:03:10 - RAMPING_UP - docs: Detail setup instructions
 2021-08-08T10:11:17 - RAMPING_UP - docs: Detail setup instructions
 2021-08-10T10:53:28 - RAMPING_UP - chore: Update requirements.txt
+2021-08-11T12:53:57 - RAMPING_UP - test: Add initial unit tests for server.py
