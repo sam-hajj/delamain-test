@@ -68,3 +68,4 @@
 2021-07-27T15:10:10 - RAMPING_UP - chore: Update requirements.txt
 2021-08-09T10:22:21 - RAMPING_UP - refactor: Improve user structure in src
 2021-08-09T10:41:47 - RAMPING_UP - chore: Update requirements.txt
+2021-08-12T13:22:24 - RAMPING_UP - test: Add initial unit tests for requirements.txt
