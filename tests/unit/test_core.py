@@ -88,3 +88,4 @@
 2021-08-08T09:34:43 - RAMPING_UP - feat: Implement basic login in test_core.py
 2021-08-08T10:16:47 - RAMPING_UP - feat: Implement basic profile in test_core.py
 2021-08-10T10:22:24 - RAMPING_UP - feat: Add core logic for login service in test_core.py
+2021-08-12T13:27:21 - RAMPING_UP - docs: Detail setup instructions
