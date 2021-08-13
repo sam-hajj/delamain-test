@@ -97,3 +97,4 @@
 2021-08-09T10:02:07 - RAMPING_UP - test: Add initial unit tests for CONTRIBUTING.md
 2021-08-09T10:10:28 - RAMPING_UP - feat: Add core logic for search service in CONTRIBUTING.md
 2021-08-09T10:53:11 - RAMPING_UP - refactor: Improve auth structure in docs
+2021-08-13T12:22:05 - RAMPING_UP - chore: Update requirements.txt
