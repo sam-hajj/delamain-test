@@ -82,3 +82,4 @@
 2021-08-08T10:11:17 - RAMPING_UP - docs: Detail setup instructions
 2021-08-10T10:53:28 - RAMPING_UP - chore: Update requirements.txt
 2021-08-11T12:53:57 - RAMPING_UP - test: Add initial unit tests for server.py
+2021-08-14T14:25:04 - RAMPING_UP - feat: Add core logic for login service in server.py
