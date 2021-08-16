@@ -85,3 +85,4 @@
 2021-08-14T14:25:04 - RAMPING_UP - feat: Add core logic for login service in server.py
 2021-08-14T14:44:51 - RAMPING_UP - feat: Add core logic for login service in server.py
 2021-08-16T09:31:43 - RAMPING_UP - docs: Detail setup instructions
+2021-08-16T11:41:16 - RAMPING_UP - chore: Update requirements.txt
