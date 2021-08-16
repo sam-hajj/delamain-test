@@ -84,3 +84,4 @@
 2021-08-11T12:53:57 - RAMPING_UP - test: Add initial unit tests for server.py
 2021-08-14T14:25:04 - RAMPING_UP - feat: Add core logic for login service in server.py
 2021-08-14T14:44:51 - RAMPING_UP - feat: Add core logic for login service in server.py
+2021-08-16T09:31:43 - RAMPING_UP - docs: Detail setup instructions
