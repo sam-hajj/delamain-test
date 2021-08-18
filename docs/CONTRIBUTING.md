@@ -99,3 +99,4 @@
 2021-08-09T10:53:11 - RAMPING_UP - refactor: Improve auth structure in docs
 2021-08-13T12:22:05 - RAMPING_UP - chore: Update requirements.txt
 2021-08-13T12:27:22 - RAMPING_UP - feat: Implement basic profile in CONTRIBUTING.md
+2021-08-18T13:08:18 - RAMPING_UP - docs: Detail setup instructions
