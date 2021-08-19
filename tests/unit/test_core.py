@@ -92,3 +92,4 @@
 2021-08-13T12:08:22 - RAMPING_UP - refactor: Improve user structure in unit
 2021-08-16T10:37:40 - RAMPING_UP - test: Add initial unit tests for test_core.py
 2021-08-16T10:51:06 - RAMPING_UP - feat: Add core logic for login service in test_core.py
+2021-08-19T10:09:49 - RAMPING_UP - docs: Detail setup instructions
