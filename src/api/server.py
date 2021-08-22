@@ -88,3 +88,4 @@
 2021-08-16T11:41:16 - RAMPING_UP - chore: Update requirements.txt
 2021-08-18T13:41:42 - RAMPING_UP - feat: Add core logic for notifications service in server.py
 2021-08-18T13:52:46 - RAMPING_UP - feat: Implement basic search in server.py
+2021-08-22T10:39:57 - RAMPING_UP - feat: Add core logic for profile service in server.py
