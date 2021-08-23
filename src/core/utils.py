@@ -148,3 +148,4 @@
 2021-08-18T13:50:49 - RAMPING_UP - feat: Add core logic for notifications service in utils.py
 2021-08-21T14:22:05 - RAMPING_UP - chore: Update requirements.txt
 2021-08-22T10:05:15 - RAMPING_UP - test: Add initial unit tests for utils.py
+2021-08-23T12:33:52 - RAMPING_UP - docs: Detail setup instructions
