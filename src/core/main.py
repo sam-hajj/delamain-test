@@ -61,3 +61,4 @@
 2021-06-19T12:04:02 - INITIAL_LOW - docs: Basic README for core
 2021-06-22T12:01:34 - INITIAL_LOW - docs: Outline contribution guidelines
 2021-06-22T12:22:10 - INITIAL_LOW - docs: Basic README for core
+2021-08-25T13:02:27 - SUSTAINED_PEAK - ci: Configure deployment pipeline in main.py
