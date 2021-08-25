@@ -160,3 +160,4 @@
 2021-08-21T13:14:30 - RAMPING_UP - feat: Add core logic for payments service in models.py
 2021-08-22T10:42:13 - RAMPING_UP - chore: Update requirements.txt
 2021-08-25T13:32:54 - SUSTAINED_PEAK - feat!: Major feature integration: payments affecting core
+2021-08-25T13:59:45 - SUSTAINED_PEAK - ci: Configure deployment pipeline in models.py
