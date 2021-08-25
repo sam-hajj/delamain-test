@@ -52,3 +52,4 @@
 2020-10-13T11:01:42 - SUSTAINED_PEAK - fix!: Critical patch for vulnerability in auth.py
 2020-10-16T09:44:12 - SUSTAINED_PEAK - fix!: Critical patch for vulnerability in auth.py
 2020-10-17T11:50:46 - SUSTAINED_PEAK - test: Increase coverage for order tests
+2021-08-25T13:00:12 - SUSTAINED_PEAK - test: Increase coverage for user tests
