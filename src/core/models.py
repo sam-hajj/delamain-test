@@ -165,3 +165,4 @@
 2021-08-26T15:35:17 - SUSTAINED_PEAK - test: Increase coverage for inventory tests
 2021-08-27T13:10:35 - SUSTAINED_PEAK - ci: Configure deployment pipeline in models.py
 2021-08-27T13:54:47 - SUSTAINED_PEAK - ci: Configure deployment pipeline in models.py
+2021-08-28T10:24:57 - SUSTAINED_PEAK - perf: Improve query performance in models.py
