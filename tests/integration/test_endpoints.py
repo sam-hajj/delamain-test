@@ -57,3 +57,4 @@
 2020-10-17T11:32:36 - SUSTAINED_PEAK - fix!: Critical patch for vulnerability in test_endpoints.py
 2021-08-26T15:11:03 - SUSTAINED_PEAK - fix!: Critical patch for vulnerability in test_endpoints.py
 2021-08-27T13:06:24 - SUSTAINED_PEAK - fix!: Critical patch for vulnerability in test_endpoints.py
+2021-08-28T12:33:40 - SUSTAINED_PEAK - test: Increase coverage for user tests
