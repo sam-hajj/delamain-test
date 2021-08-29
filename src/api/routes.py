@@ -44,3 +44,4 @@
 2021-08-25T13:26:49 - SUSTAINED_PEAK - test: Increase coverage for user tests
 2021-08-27T13:45:30 - SUSTAINED_PEAK - feat!: Major feature integration: data processing affecting api
 2021-08-27T13:52:17 - SUSTAINED_PEAK - test: Increase coverage for auth tests
+2021-08-29T09:19:50 - SUSTAINED_PEAK - fix!: Critical patch for vulnerability in routes.py
