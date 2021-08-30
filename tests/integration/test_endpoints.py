@@ -60,3 +60,4 @@
 2021-08-28T12:33:40 - SUSTAINED_PEAK - test: Increase coverage for user tests
 2021-08-29T09:22:36 - SUSTAINED_PEAK - refactor: Optimize sorting in test_endpoints.py
 2021-08-29T09:32:23 - SUSTAINED_PEAK - fix!: Critical patch for vulnerability in test_endpoints.py
+2021-08-30T14:31:42 - SUSTAINED_PEAK - perf: Improve query performance in test_endpoints.py
