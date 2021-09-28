@@ -23,3 +23,4 @@
 2021-06-30T10:51:50 - INITIAL_LOW - refactor: Initial project structure for docs
 2021-09-22T13:49:24 - INITIAL_LOW - refactor: Initial project structure for docs
 2021-09-23T11:09:25 - INITIAL_LOW - docs: Basic README for docs
+2021-09-28T11:51:13 - INITIAL_LOW - chore: Add .gitignore
