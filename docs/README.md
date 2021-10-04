@@ -25,3 +25,4 @@
 2021-09-23T11:09:25 - INITIAL_LOW - docs: Basic README for docs
 2021-09-28T11:51:13 - INITIAL_LOW - chore: Add .gitignore
 2021-10-04T13:33:27 - INITIAL_LOW - docs: Outline contribution guidelines
+2021-10-04T13:36:11 - INITIAL_LOW - Initial setup: README.md
