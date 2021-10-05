@@ -73,3 +73,4 @@
 2021-08-29T09:04:31 - SUSTAINED_PEAK - ci: Configure deployment pipeline in main.py
 2021-09-13T11:23:26 - INITIAL_LOW - docs: Outline contribution guidelines
 2021-10-04T14:20:55 - INITIAL_LOW - chore: Add .gitignore
+2021-10-05T14:06:07 - INITIAL_LOW - docs: Basic README for core
