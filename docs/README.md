@@ -30,3 +30,4 @@
 2021-10-05T14:45:57 - INITIAL_LOW - Initial setup: README.md
 2021-10-12T14:08:02 - INITIAL_LOW - refactor: Initial project structure for docs
 2021-10-12T14:48:51 - INITIAL_LOW - docs: Outline contribution guidelines
+2021-10-16T12:45:44 - INITIAL_LOW - docs: Basic README for docs
