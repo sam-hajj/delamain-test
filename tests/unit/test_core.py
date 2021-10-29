@@ -93,3 +93,4 @@
 2021-08-16T10:37:40 - RAMPING_UP - test: Add initial unit tests for test_core.py
 2021-08-16T10:51:06 - RAMPING_UP - feat: Add core logic for login service in test_core.py
 2021-08-19T10:09:49 - RAMPING_UP - docs: Detail setup instructions
+2021-10-29T11:51:01 - RAMPING_UP - chore: Update requirements.txt
