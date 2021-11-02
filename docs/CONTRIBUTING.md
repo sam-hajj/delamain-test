@@ -103,3 +103,4 @@
 2021-08-18T15:01:45 - RAMPING_UP - feat: Implement basic caching in CONTRIBUTING.md
 2021-11-01T15:45:45 - RAMPING_UP - feat: Implement basic profile in CONTRIBUTING.md
 2021-11-02T12:47:26 - RAMPING_UP - docs: Detail setup instructions
+2021-11-02T14:43:45 - RAMPING_UP - refactor: Improve order structure in docs
