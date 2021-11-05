@@ -170,3 +170,4 @@
 2021-11-01T15:39:44 - RAMPING_UP - chore: Update requirements.txt
 2021-11-02T12:28:20 - RAMPING_UP - chore: Update requirements.txt
 2021-11-04T09:25:51 - RAMPING_UP - refactor: Improve product structure in core
+2021-11-05T15:29:54 - RAMPING_UP - feat: Add core logic for caching service in models.py
