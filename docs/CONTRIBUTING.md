@@ -106,3 +106,4 @@
 2021-11-02T14:43:45 - RAMPING_UP - refactor: Improve order structure in docs
 2021-11-05T14:06:34 - RAMPING_UP - test: Add initial unit tests for CONTRIBUTING.md
 2021-11-08T11:29:31 - RAMPING_UP - docs: Detail setup instructions
+2021-11-08T11:45:29 - RAMPING_UP - refactor: Improve user structure in docs
