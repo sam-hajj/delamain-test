@@ -93,3 +93,4 @@
 2021-10-30T11:19:13 - RAMPING_UP - feat: Add core logic for login service in server.py
 2021-11-07T09:43:32 - RAMPING_UP - feat: Add core logic for login service in server.py
 2021-11-08T11:19:21 - RAMPING_UP - feat: Add core logic for profile service in server.py
+2021-11-09T13:40:09 - RAMPING_UP - refactor: Improve auth structure in api
