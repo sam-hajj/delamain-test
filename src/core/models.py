@@ -173,3 +173,4 @@
 2021-11-05T15:29:54 - RAMPING_UP - feat: Add core logic for caching service in models.py
 2021-11-09T13:46:51 - RAMPING_UP - chore: Update requirements.txt
 2021-11-09T13:47:10 - RAMPING_UP - feat: Add core logic for login service in models.py
+2021-11-10T11:20:41 - RAMPING_UP - test: Add initial unit tests for models.py
