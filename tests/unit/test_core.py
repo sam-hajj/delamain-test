@@ -99,3 +99,4 @@
 2021-11-02T12:32:04 - RAMPING_UP - test: Add initial unit tests for test_core.py
 2021-11-02T14:45:30 - RAMPING_UP - refactor: Improve product structure in unit
 2021-11-05T14:58:38 - RAMPING_UP - refactor: Improve inventory structure in unit
+2021-11-10T11:28:02 - RAMPING_UP - docs: Detail setup instructions
