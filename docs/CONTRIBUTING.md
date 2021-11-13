@@ -107,3 +107,4 @@
 2021-11-05T14:06:34 - RAMPING_UP - test: Add initial unit tests for CONTRIBUTING.md
 2021-11-08T11:29:31 - RAMPING_UP - docs: Detail setup instructions
 2021-11-08T11:45:29 - RAMPING_UP - refactor: Improve user structure in docs
+2021-11-13T13:23:33 - RAMPING_UP - feat: Implement basic login in CONTRIBUTING.md
