@@ -177,3 +177,4 @@
 2021-11-10T11:54:56 - RAMPING_UP - refactor: Improve reporting structure in core
 2021-11-15T10:12:39 - RAMPING_UP - feat: Implement basic payments in models.py
 2021-11-15T10:46:35 - RAMPING_UP - refactor: Improve product structure in core
+2021-11-17T15:48:09 - RAMPING_UP - docs: Detail setup instructions
