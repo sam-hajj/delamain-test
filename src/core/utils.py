@@ -157,3 +157,4 @@
 2021-11-07T09:17:42 - RAMPING_UP - test: Add initial unit tests for utils.py
 2021-11-16T09:05:12 - RAMPING_UP - docs: Detail setup instructions
 2021-11-17T14:31:48 - RAMPING_UP - chore: Update requirements.txt
+2021-11-17T15:30:15 - RAMPING_UP - refactor: Improve inventory structure in core
