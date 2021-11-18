@@ -84,3 +84,4 @@
 2021-11-09T13:08:55 - RAMPING_UP - feat: Add core logic for notifications service in requirements.txt
 2021-11-10T11:23:22 - RAMPING_UP - chore: Update requirements.txt
 2021-11-10T11:47:17 - RAMPING_UP - chore: Update requirements.txt
+2021-11-18T12:15:57 - RAMPING_UP - refactor: Improve user structure in src
