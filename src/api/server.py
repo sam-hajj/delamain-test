@@ -98,3 +98,4 @@
 2021-11-16T09:25:46 - RAMPING_UP - refactor: Improve reporting structure in api
 2021-11-16T10:19:24 - RAMPING_UP - docs: Detail setup instructions
 2021-11-18T12:47:13 - RAMPING_UP - feat: Add core logic for profile service in server.py
+2021-11-19T15:14:30 - RAMPING_UP - test: Add initial unit tests for server.py
