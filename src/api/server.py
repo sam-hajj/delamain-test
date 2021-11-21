@@ -99,3 +99,4 @@
 2021-11-16T10:19:24 - RAMPING_UP - docs: Detail setup instructions
 2021-11-18T12:47:13 - RAMPING_UP - feat: Add core logic for profile service in server.py
 2021-11-19T15:14:30 - RAMPING_UP - test: Add initial unit tests for server.py
+2021-11-21T09:15:15 - RAMPING_UP - chore: Update requirements.txt
