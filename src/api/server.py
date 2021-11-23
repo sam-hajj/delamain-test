@@ -100,3 +100,4 @@
 2021-11-18T12:47:13 - RAMPING_UP - feat: Add core logic for profile service in server.py
 2021-11-19T15:14:30 - RAMPING_UP - test: Add initial unit tests for server.py
 2021-11-21T09:15:15 - RAMPING_UP - chore: Update requirements.txt
+2021-11-23T10:44:36 - RAMPING_UP - feat: Implement basic payments in server.py
