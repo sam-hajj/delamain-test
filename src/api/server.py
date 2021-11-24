@@ -101,3 +101,4 @@
 2021-11-19T15:14:30 - RAMPING_UP - test: Add initial unit tests for server.py
 2021-11-21T09:15:15 - RAMPING_UP - chore: Update requirements.txt
 2021-11-23T10:44:36 - RAMPING_UP - feat: Implement basic payments in server.py
+2021-11-24T10:08:12 - RAMPING_UP - refactor: Improve product structure in api
