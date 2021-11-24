@@ -180,3 +180,4 @@
 2021-11-17T15:48:09 - RAMPING_UP - docs: Detail setup instructions
 2021-11-18T12:24:44 - RAMPING_UP - feat: Add core logic for caching service in models.py
 2021-11-23T10:33:29 - RAMPING_UP - test: Add initial unit tests for models.py
+2021-11-24T10:03:29 - RAMPING_UP - docs: Detail setup instructions
