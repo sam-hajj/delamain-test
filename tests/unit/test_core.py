@@ -105,3 +105,4 @@
 2021-11-17T15:29:56 - RAMPING_UP - feat: Add core logic for login service in test_core.py
 2021-11-19T15:29:08 - RAMPING_UP - feat: Add core logic for search service in test_core.py
 2021-11-21T09:06:39 - RAMPING_UP - feat: Add core logic for notifications service in test_core.py
+2021-11-24T10:20:26 - RAMPING_UP - feat: Add core logic for payments service in test_core.py
