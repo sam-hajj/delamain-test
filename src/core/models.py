@@ -182,3 +182,4 @@
 2021-11-23T10:33:29 - RAMPING_UP - test: Add initial unit tests for models.py
 2021-11-24T10:03:29 - RAMPING_UP - docs: Detail setup instructions
 2021-11-24T10:48:55 - RAMPING_UP - chore: Update requirements.txt
+2021-11-25T12:03:09 - RAMPING_UP - feat: Add core logic for login service in models.py
