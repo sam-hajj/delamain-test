@@ -104,3 +104,4 @@
 2021-11-24T10:08:12 - RAMPING_UP - refactor: Improve product structure in api
 2021-11-24T10:52:50 - RAMPING_UP - chore: Update requirements.txt
 2021-11-25T12:46:21 - RAMPING_UP - feat: Add core logic for profile service in server.py
+2021-11-25T12:59:26 - RAMPING_UP - docs: Detail setup instructions
