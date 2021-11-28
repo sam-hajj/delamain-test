@@ -111,3 +111,4 @@
 2021-11-13T17:46:02 - RAMPING_UP - feat: Implement basic notifications in CONTRIBUTING.md
 2021-11-18T12:39:08 - RAMPING_UP - refactor: Improve user structure in docs
 2021-11-28T13:31:57 - RAMPING_UP - feat: Implement basic notifications in CONTRIBUTING.md
+2021-11-28T14:21:15 - RAMPING_UP - feat: Add core logic for search service in CONTRIBUTING.md
