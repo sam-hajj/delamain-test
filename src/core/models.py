@@ -184,3 +184,4 @@
 2021-11-24T10:48:55 - RAMPING_UP - chore: Update requirements.txt
 2021-11-25T12:03:09 - RAMPING_UP - feat: Add core logic for login service in models.py
 2021-11-30T14:21:49 - RAMPING_UP - refactor: Improve user structure in core
+2021-11-30T14:43:14 - RAMPING_UP - refactor: Improve auth structure in core
