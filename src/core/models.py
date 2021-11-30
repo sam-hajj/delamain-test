@@ -185,3 +185,4 @@
 2021-11-25T12:03:09 - RAMPING_UP - feat: Add core logic for login service in models.py
 2021-11-30T14:21:49 - RAMPING_UP - refactor: Improve user structure in core
 2021-11-30T14:43:14 - RAMPING_UP - refactor: Improve auth structure in core
+2021-11-30T16:27:59 - RAMPING_UP - docs: Detail setup instructions
