@@ -164,3 +164,4 @@
 2021-11-25T12:37:56 - RAMPING_UP - docs: Detail setup instructions
 2021-11-30T14:45:07 - RAMPING_UP - feat: Add core logic for profile service in utils.py
 2021-11-30T16:30:30 - RAMPING_UP - feat: Implement basic caching in utils.py
+2021-12-01T15:17:58 - RAMPING_UP - feat: Add core logic for notifications service in utils.py
