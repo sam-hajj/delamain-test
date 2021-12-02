@@ -108,3 +108,4 @@
 2021-11-24T10:20:26 - RAMPING_UP - feat: Add core logic for payments service in test_core.py
 2021-11-24T11:42:39 - RAMPING_UP - refactor: Improve auth structure in unit
 2021-12-01T15:45:35 - RAMPING_UP - feat: Add core logic for profile service in test_core.py
+2021-12-02T11:24:54 - RAMPING_UP - refactor: Improve reporting structure in unit
