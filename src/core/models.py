@@ -187,3 +187,4 @@
 2021-11-30T14:43:14 - RAMPING_UP - refactor: Improve auth structure in core
 2021-11-30T16:27:59 - RAMPING_UP - docs: Detail setup instructions
 2021-12-01T14:43:43 - RAMPING_UP - docs: Detail setup instructions
+2021-12-02T12:57:30 - RAMPING_UP - feat: Implement basic profile in models.py
