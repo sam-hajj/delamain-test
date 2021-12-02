@@ -114,3 +114,4 @@
 2021-11-28T14:21:15 - RAMPING_UP - feat: Add core logic for search service in CONTRIBUTING.md
 2021-11-28T15:59:22 - RAMPING_UP - docs: Detail setup instructions
 2021-12-01T15:02:22 - RAMPING_UP - docs: Detail setup instructions
+2021-12-02T12:04:48 - RAMPING_UP - refactor: Improve reporting structure in docs
