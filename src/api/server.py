@@ -107,3 +107,4 @@
 2021-11-25T12:59:26 - RAMPING_UP - docs: Detail setup instructions
 2021-12-01T15:30:04 - RAMPING_UP - feat: Implement basic search in server.py
 2021-12-02T12:03:10 - RAMPING_UP - refactor: Improve inventory structure in api
+2021-12-05T15:46:23 - RAMPING_UP - feat: Implement basic caching in server.py
