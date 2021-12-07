@@ -109,3 +109,4 @@
 2021-12-02T12:03:10 - RAMPING_UP - refactor: Improve inventory structure in api
 2021-12-05T15:46:23 - RAMPING_UP - feat: Implement basic caching in server.py
 2021-12-05T16:04:49 - RAMPING_UP - feat: Add core logic for search service in server.py
+2021-12-07T09:52:19 - RAMPING_UP - docs: Detail setup instructions
