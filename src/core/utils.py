@@ -167,3 +167,4 @@
 2021-12-01T15:17:58 - RAMPING_UP - feat: Add core logic for notifications service in utils.py
 2021-12-02T12:22:14 - RAMPING_UP - feat: Add core logic for login service in utils.py
 2021-12-05T16:05:51 - RAMPING_UP - chore: Update requirements.txt
+2021-12-07T09:01:37 - RAMPING_UP - feat: Implement basic search in utils.py
