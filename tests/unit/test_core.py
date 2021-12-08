@@ -111,3 +111,4 @@
 2021-12-02T11:24:54 - RAMPING_UP - refactor: Improve reporting structure in unit
 2021-12-07T09:49:30 - RAMPING_UP - chore: Update requirements.txt
 2021-12-08T14:04:19 - RAMPING_UP - refactor: Improve user structure in unit
+2021-12-08T15:12:34 - RAMPING_UP - feat: Implement basic profile in test_core.py
