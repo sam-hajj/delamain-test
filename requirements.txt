@@ -90,3 +90,4 @@
 2021-12-01T15:50:42 - RAMPING_UP - feat: Add core logic for payments service in requirements.txt
 2021-12-02T12:24:38 - RAMPING_UP - test: Add initial unit tests for requirements.txt
 2021-12-07T09:56:13 - RAMPING_UP - docs: Detail setup instructions
+2021-12-09T12:44:45 - RAMPING_UP - refactor: Improve product structure in src
