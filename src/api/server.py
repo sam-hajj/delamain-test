@@ -111,3 +111,4 @@
 2021-12-05T16:04:49 - RAMPING_UP - feat: Add core logic for search service in server.py
 2021-12-07T09:52:19 - RAMPING_UP - docs: Detail setup instructions
 2021-12-09T12:25:01 - RAMPING_UP - test: Add initial unit tests for server.py
+2021-12-09T12:35:43 - RAMPING_UP - test: Add initial unit tests for server.py
