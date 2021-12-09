@@ -189,3 +189,4 @@
 2021-12-01T14:43:43 - RAMPING_UP - docs: Detail setup instructions
 2021-12-02T12:57:30 - RAMPING_UP - feat: Implement basic profile in models.py
 2021-12-08T15:41:36 - RAMPING_UP - feat: Implement basic login in models.py
+2021-12-09T12:27:29 - RAMPING_UP - docs: Detail setup instructions
