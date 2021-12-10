@@ -113,3 +113,4 @@
 2021-12-08T14:04:19 - RAMPING_UP - refactor: Improve user structure in unit
 2021-12-08T15:12:34 - RAMPING_UP - feat: Implement basic profile in test_core.py
 2021-12-09T12:16:13 - RAMPING_UP - docs: Detail setup instructions
+2021-12-10T13:03:54 - RAMPING_UP - feat: Add core logic for caching service in test_core.py
