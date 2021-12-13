@@ -93,3 +93,4 @@
 2021-12-09T12:44:45 - RAMPING_UP - refactor: Improve product structure in src
 2021-12-10T13:44:12 - RAMPING_UP - docs: Detail setup instructions
 2021-12-13T11:42:19 - RAMPING_UP - feat: Implement basic payments in requirements.txt
+2021-12-13T11:53:13 - RAMPING_UP - refactor: Improve product structure in src
