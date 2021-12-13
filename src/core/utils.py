@@ -171,3 +171,4 @@
 2021-12-08T16:50:31 - RAMPING_UP - feat: Implement basic notifications in utils.py
 2021-12-09T12:05:56 - RAMPING_UP - docs: Detail setup instructions
 2021-12-10T13:17:26 - RAMPING_UP - chore: Update requirements.txt
+2021-12-13T11:15:39 - RAMPING_UP - feat: Add core logic for notifications service in utils.py
