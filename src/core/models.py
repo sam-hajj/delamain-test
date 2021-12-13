@@ -193,3 +193,4 @@
 2021-12-10T13:32:57 - RAMPING_UP - test: Add initial unit tests for models.py
 2021-12-10T13:59:07 - RAMPING_UP - feat: Add core logic for data processing service in models.py
 2021-12-12T11:36:19 - RAMPING_UP - chore: Update requirements.txt
+2021-12-13T10:40:25 - RAMPING_UP - feat: Add core logic for login service in models.py
