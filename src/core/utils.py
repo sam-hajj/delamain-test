@@ -175,3 +175,4 @@
 2021-12-13T11:46:06 - RAMPING_UP - feat: Add core logic for caching service in utils.py
 2021-12-14T13:00:57 - RAMPING_UP - docs: Detail setup instructions
 2021-12-14T13:58:40 - RAMPING_UP - feat: Implement basic profile in utils.py
+2021-12-15T13:04:52 - RAMPING_UP - chore: Update requirements.txt
