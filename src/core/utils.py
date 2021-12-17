@@ -179,3 +179,4 @@
 2021-12-15T13:05:40 - RAMPING_UP - feat: Implement basic data processing in utils.py
 2021-12-17T10:04:34 - RAMPING_UP - refactor: Improve product structure in core
 2021-12-17T12:27:34 - RAMPING_UP - test: Add initial unit tests for utils.py
+2021-12-17T12:47:44 - RAMPING_UP - refactor: Improve inventory structure in core
