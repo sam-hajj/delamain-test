@@ -97,3 +97,4 @@
 2021-12-15T13:52:32 - RAMPING_UP - feat: Add core logic for profile service in requirements.txt
 2021-12-17T12:41:03 - RAMPING_UP - test: Add initial unit tests for requirements.txt
 2021-12-18T12:27:31 - RAMPING_UP - chore: Update requirements.txt
+2021-12-18T12:44:31 - RAMPING_UP - feat: Add core logic for payments service in requirements.txt
