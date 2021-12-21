@@ -181,3 +181,4 @@
 2021-12-17T12:27:34 - RAMPING_UP - test: Add initial unit tests for utils.py
 2021-12-17T12:47:44 - RAMPING_UP - refactor: Improve inventory structure in core
 2021-12-18T12:26:27 - RAMPING_UP - docs: Detail setup instructions
+2021-12-21T13:17:26 - RAMPING_UP - feat: Add core logic for profile service in utils.py
