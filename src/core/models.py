@@ -197,3 +197,4 @@
 2021-12-13T11:04:20 - RAMPING_UP - refactor: Improve order structure in core
 2021-12-22T13:31:41 - RAMPING_UP - feat: Add core logic for login service in models.py
 2021-12-22T14:22:11 - RAMPING_UP - chore: Update requirements.txt
+2021-12-22T14:43:51 - RAMPING_UP - feat: Add core logic for payments service in models.py
