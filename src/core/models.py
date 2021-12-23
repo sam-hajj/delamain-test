@@ -198,3 +198,4 @@
 2021-12-22T13:31:41 - RAMPING_UP - feat: Add core logic for login service in models.py
 2021-12-22T14:22:11 - RAMPING_UP - chore: Update requirements.txt
 2021-12-22T14:43:51 - RAMPING_UP - feat: Add core logic for payments service in models.py
+2021-12-23T10:30:50 - RAMPING_UP - test: Add initial unit tests for models.py
