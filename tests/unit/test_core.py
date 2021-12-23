@@ -117,3 +117,4 @@
 2021-12-10T13:19:21 - RAMPING_UP - chore: Update requirements.txt
 2021-12-14T11:43:59 - RAMPING_UP - chore: Update requirements.txt
 2021-12-21T13:39:25 - RAMPING_UP - feat: Implement basic caching in test_core.py
+2021-12-23T11:17:50 - RAMPING_UP - feat: Implement basic payments in test_core.py
