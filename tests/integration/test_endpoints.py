@@ -63,3 +63,4 @@
 2021-08-30T14:31:42 - SUSTAINED_PEAK - perf: Improve query performance in test_endpoints.py
 2021-12-26T12:54:56 - SUSTAINED_PEAK - test: Increase coverage for product tests
 2021-12-27T13:38:09 - SUSTAINED_PEAK - perf: Improve query performance in test_endpoints.py
+2021-12-28T16:54:51 - SUSTAINED_PEAK - ci: Configure deployment pipeline in test_endpoints.py
