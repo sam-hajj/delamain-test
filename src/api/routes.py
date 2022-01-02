@@ -48,3 +48,4 @@
 2021-08-30T14:12:33 - SUSTAINED_PEAK - test: Increase coverage for inventory tests
 2021-12-27T13:43:18 - SUSTAINED_PEAK - feat!: Major feature integration: data processing affecting api
 2021-12-29T14:45:43 - SUSTAINED_PEAK - test: Increase coverage for product tests
+2022-01-02T13:20:11 - SUSTAINED_PEAK - feat!: Major feature integration: notifications affecting api
