@@ -50,3 +50,4 @@
 2021-12-29T14:45:43 - SUSTAINED_PEAK - test: Increase coverage for product tests
 2022-01-02T13:20:11 - SUSTAINED_PEAK - feat!: Major feature integration: notifications affecting api
 2022-01-02T14:29:45 - SUSTAINED_PEAK - test: Increase coverage for auth tests
+2022-01-03T10:00:53 - SUSTAINED_PEAK - test: Increase coverage for reporting tests
