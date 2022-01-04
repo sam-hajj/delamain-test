@@ -54,3 +54,4 @@
 2022-01-03T12:18:22 - SUSTAINED_PEAK - test: Increase coverage for reporting tests
 2022-01-03T13:55:17 - SUSTAINED_PEAK - feat: Implement search endpoint in routes.py
 2022-01-04T11:26:33 - SUSTAINED_PEAK - feat!: Major feature integration: caching affecting api
+2022-01-04T11:47:20 - SUSTAINED_PEAK - perf: Improve query performance in routes.py
