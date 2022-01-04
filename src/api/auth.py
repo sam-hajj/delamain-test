@@ -60,3 +60,4 @@
 2021-12-29T14:29:11 - SUSTAINED_PEAK - feat!: Major feature integration: notifications affecting api
 2021-12-29T14:52:38 - SUSTAINED_PEAK - feat: Implement login endpoint in auth.py
 2022-01-03T11:36:20 - SUSTAINED_PEAK - perf: Improve query performance in auth.py
+2022-01-04T11:23:56 - SUSTAINED_PEAK - perf: Improve query performance in auth.py
