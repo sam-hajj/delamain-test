@@ -66,3 +66,4 @@
 2021-12-28T16:54:51 - SUSTAINED_PEAK - ci: Configure deployment pipeline in test_endpoints.py
 2022-01-04T11:14:45 - SUSTAINED_PEAK - feat: Implement notifications endpoint in test_endpoints.py
 2022-01-04T11:44:51 - SUSTAINED_PEAK - fix!: Critical patch for vulnerability in test_endpoints.py
+2022-01-04T11:51:35 - SUSTAINED_PEAK - feat: Implement login endpoint in test_endpoints.py
