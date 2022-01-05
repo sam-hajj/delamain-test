@@ -64,3 +64,4 @@
 2022-01-02T13:40:05 - SUSTAINED_PEAK - perf: Improve query performance in ci.yml
 2022-01-04T11:42:56 - SUSTAINED_PEAK - feat!: Major feature integration: profile affecting workflows
 2022-01-04T11:45:24 - SUSTAINED_PEAK - test: Increase coverage for auth tests
+2022-01-05T12:40:18 - SUSTAINED_PEAK - feat!: Major feature integration: caching affecting workflows
