@@ -67,3 +67,4 @@
 2022-01-04T11:14:45 - SUSTAINED_PEAK - feat: Implement notifications endpoint in test_endpoints.py
 2022-01-04T11:44:51 - SUSTAINED_PEAK - fix!: Critical patch for vulnerability in test_endpoints.py
 2022-01-04T11:51:35 - SUSTAINED_PEAK - feat: Implement login endpoint in test_endpoints.py
+2022-01-05T12:03:37 - SUSTAINED_PEAK - feat: Implement search endpoint in test_endpoints.py
