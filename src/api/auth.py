@@ -65,3 +65,4 @@
 2022-01-04T11:41:40 - SUSTAINED_PEAK - fix: Resolve bug #208 in auth.py
 2022-01-04T12:49:18 - SUSTAINED_PEAK - feat!: Major feature integration: search affecting api
 2022-01-05T12:05:48 - SUSTAINED_PEAK - fix: Resolve bug #390 in auth.py
+2022-01-05T13:18:28 - SUSTAINED_PEAK - test: Increase coverage for order tests
