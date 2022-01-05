@@ -208,3 +208,4 @@
 2021-12-28T17:56:06 - SUSTAINED_PEAK - feat: Implement data processing endpoint in models.py
 2022-01-04T09:09:11 - SUSTAINED_PEAK - feat: Implement payments endpoint in models.py
 2022-01-05T12:38:17 - SUSTAINED_PEAK - fix: Resolve bug #41 in models.py
+2022-01-05T12:55:25 - SUSTAINED_PEAK - test: Increase coverage for reporting tests
