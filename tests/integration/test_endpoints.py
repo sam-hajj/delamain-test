@@ -74,3 +74,4 @@
 2022-01-07T11:23:44 - SUSTAINED_PEAK - test: Increase coverage for product tests
 2022-01-08T15:03:12 - SUSTAINED_PEAK - feat!: Major feature integration: notifications affecting integration
 2022-01-08T15:04:25 - SUSTAINED_PEAK - feat: Implement login endpoint in test_endpoints.py
+2022-01-08T15:55:26 - SUSTAINED_PEAK - fix: Resolve bug #400 in test_endpoints.py
