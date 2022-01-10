@@ -61,3 +61,4 @@
 2022-01-08T17:47:23 - SUSTAINED_PEAK - perf: Improve query performance in routes.py
 2022-01-10T12:28:19 - SUSTAINED_PEAK - feat!: Major feature integration: login affecting api
 2022-01-10T12:56:18 - SUSTAINED_PEAK - ci: Configure deployment pipeline in routes.py
+2022-01-10T13:47:51 - SUSTAINED_PEAK - fix!: Critical patch for vulnerability in routes.py
