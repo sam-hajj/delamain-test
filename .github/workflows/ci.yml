@@ -74,3 +74,4 @@
 2022-01-13T11:16:08 - SUSTAINED_PEAK - refactor: Optimize parsing in ci.yml
 2022-01-13T11:34:11 - SUSTAINED_PEAK - fix: Resolve bug #479 in ci.yml
 2022-01-13T11:45:31 - SUSTAINED_PEAK - test: Increase coverage for user tests
+2022-01-14T13:40:45 - SUSTAINED_PEAK - ci: Configure deployment pipeline in ci.yml
