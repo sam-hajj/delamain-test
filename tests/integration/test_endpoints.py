@@ -87,3 +87,4 @@
 2022-01-16T14:18:23 - SUSTAINED_PEAK - feat: Implement search endpoint in test_endpoints.py
 2022-01-16T14:53:20 - SUSTAINED_PEAK - ci: Configure deployment pipeline in test_endpoints.py
 2022-01-16T14:57:30 - SUSTAINED_PEAK - test: Increase coverage for order tests
+2022-01-16T15:51:55 - SUSTAINED_PEAK - fix!: Critical patch for vulnerability in test_endpoints.py
