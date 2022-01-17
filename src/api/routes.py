@@ -76,3 +76,4 @@
 2022-01-15T13:54:31 - SUSTAINED_PEAK - ci: Configure deployment pipeline in routes.py
 2022-01-16T13:18:15 - SUSTAINED_PEAK - feat: Implement search endpoint in routes.py
 2022-01-17T09:28:59 - SUSTAINED_PEAK - test: Increase coverage for product tests
+2022-01-17T10:38:34 - SUSTAINED_PEAK - fix!: Critical patch for vulnerability in routes.py
