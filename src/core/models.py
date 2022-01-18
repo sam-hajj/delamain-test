@@ -218,3 +218,4 @@
 2022-01-14T13:36:29 - SUSTAINED_PEAK - test: Increase coverage for auth tests
 2022-01-15T12:11:02 - SUSTAINED_PEAK - feat!: Major feature integration: data processing affecting core
 2022-01-18T13:07:00 - SUSTAINED_PEAK - perf: Improve query performance in models.py
+2022-01-18T13:13:49 - SUSTAINED_PEAK - feat: Implement search endpoint in models.py
