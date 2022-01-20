@@ -93,3 +93,4 @@
 2022-01-17T10:46:12 - SUSTAINED_PEAK - test: Increase coverage for user tests
 2022-01-18T13:37:47 - SUSTAINED_PEAK - feat: Implement notifications endpoint in test_endpoints.py
 2022-01-19T13:16:48 - SUSTAINED_PEAK - refactor: Optimize pathfinding in test_endpoints.py
+2022-01-20T10:08:54 - SUSTAINED_PEAK - fix: Resolve bug #317 in test_endpoints.py
