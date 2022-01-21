@@ -82,3 +82,4 @@
 2022-01-18T13:01:51 - SUSTAINED_PEAK - feat: Implement search endpoint in ci.yml
 2022-01-20T12:29:48 - SUSTAINED_PEAK - feat: Implement profile endpoint in ci.yml
 2022-01-21T11:24:24 - SUSTAINED_PEAK - fix: Resolve bug #387 in ci.yml
+2022-01-21T11:52:36 - SUSTAINED_PEAK - perf: Improve query performance in ci.yml
