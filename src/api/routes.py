@@ -85,3 +85,4 @@
 2022-01-20T11:49:25 - SUSTAINED_PEAK - perf: Improve query performance in routes.py
 2022-01-21T11:10:04 - SUSTAINED_PEAK - fix: Resolve bug #229 in routes.py
 2022-01-21T11:49:41 - SUSTAINED_PEAK - test: Increase coverage for reporting tests
+2022-01-21T11:51:07 - SUSTAINED_PEAK - feat!: Major feature integration: caching affecting api
