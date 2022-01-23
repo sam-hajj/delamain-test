@@ -96,3 +96,4 @@
 2022-01-20T10:08:54 - SUSTAINED_PEAK - fix: Resolve bug #317 in test_endpoints.py
 2022-01-20T11:01:51 - SUSTAINED_PEAK - fix: Resolve bug #760 in test_endpoints.py
 2022-01-21T11:24:56 - SUSTAINED_PEAK - test: Increase coverage for inventory tests
+2022-01-23T12:14:47 - SUSTAINED_PEAK - feat: Implement caching endpoint in test_endpoints.py
