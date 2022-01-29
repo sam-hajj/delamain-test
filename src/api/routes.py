@@ -89,3 +89,4 @@
 2022-01-21T13:43:02 - SUSTAINED_PEAK - test: Increase coverage for auth tests
 2022-01-24T14:44:34 - SUSTAINED_PEAK - refactor: Optimize sorting in routes.py
 2022-01-27T14:10:03 - SUSTAINED_PEAK - feat: Implement search endpoint in routes.py
+2022-01-29T14:21:46 - SUSTAINED_PEAK - test: Increase coverage for product tests
