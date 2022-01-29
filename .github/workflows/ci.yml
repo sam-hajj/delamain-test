@@ -88,3 +88,4 @@
 2022-01-26T11:00:49 - SUSTAINED_PEAK - refactor: Optimize sorting in ci.yml
 2022-01-26T13:32:37 - SUSTAINED_PEAK - fix: Resolve bug #687 in ci.yml
 2022-01-27T15:09:41 - SUSTAINED_PEAK - fix: Resolve bug #256 in ci.yml
+2022-01-29T14:39:33 - SUSTAINED_PEAK - test: Increase coverage for inventory tests
