@@ -90,3 +90,4 @@
 2022-01-27T15:09:41 - SUSTAINED_PEAK - fix: Resolve bug #256 in ci.yml
 2022-01-29T14:39:33 - SUSTAINED_PEAK - test: Increase coverage for inventory tests
 2022-02-03T13:01:15 - SUSTAINED_PEAK - fix!: Critical patch for vulnerability in ci.yml
+2022-02-03T13:13:08 - SUSTAINED_PEAK - ci: Configure deployment pipeline in ci.yml
