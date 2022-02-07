@@ -89,3 +89,4 @@
 2022-02-01T12:34:02 - SUSTAINED_PEAK - feat: Implement data processing endpoint in auth.py
 2022-02-01T13:33:42 - SUSTAINED_PEAK - feat!: Major feature integration: search affecting api
 2022-02-06T12:01:04 - SUSTAINED_PEAK - feat!: Major feature integration: search affecting api
+2022-02-07T10:09:20 - SUSTAINED_PEAK - fix!: Critical patch for vulnerability in auth.py
