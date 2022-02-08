@@ -94,3 +94,4 @@
 2022-02-07T10:47:26 - SUSTAINED_PEAK - fix: Resolve bug #18 in auth.py
 2022-02-07T10:49:44 - SUSTAINED_PEAK - feat: Implement payments endpoint in auth.py
 2022-02-07T10:59:25 - SUSTAINED_PEAK - feat!: Major feature integration: login affecting api
+2022-02-08T12:16:48 - SUSTAINED_PEAK - feat!: Major feature integration: profile affecting api
