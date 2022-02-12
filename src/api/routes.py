@@ -101,3 +101,4 @@
 2022-02-06T13:52:13 - SUSTAINED_PEAK - test: Increase coverage for auth tests
 2022-02-07T08:50:30 - SUSTAINED_PEAK - fix: Resolve bug #719 in routes.py
 2022-02-07T10:49:50 - SUSTAINED_PEAK - feat: Implement search endpoint in routes.py
+2022-02-12T11:22:17 - SUSTAINED_PEAK - feat: Implement payments endpoint in routes.py
