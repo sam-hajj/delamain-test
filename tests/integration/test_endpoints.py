@@ -122,3 +122,4 @@
 2022-02-10T12:16:21 - SUSTAINED_PEAK - feat!: Major feature integration: login affecting integration
 2022-02-12T11:20:22 - SUSTAINED_PEAK - fix: Resolve bug #600 in test_endpoints.py
 2022-02-12T12:28:18 - SUSTAINED_PEAK - fix: Resolve bug #192 in test_endpoints.py
+2022-02-12T12:39:46 - SUSTAINED_PEAK - feat: Implement payments endpoint in test_endpoints.py
