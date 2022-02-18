@@ -140,3 +140,4 @@
 2022-02-16T11:58:40 - SUSTAINED_PEAK - feat!: Major feature integration: notifications affecting core
 2022-02-17T10:34:21 - SUSTAINED_PEAK - perf: Improve query performance in main.py
 2022-02-18T11:20:46 - SUSTAINED_PEAK - feat: Implement payments endpoint in main.py
+2022-02-18T11:41:53 - SUSTAINED_PEAK - test: Increase coverage for user tests
