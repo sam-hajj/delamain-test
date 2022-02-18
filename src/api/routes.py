@@ -107,3 +107,4 @@
 2022-02-16T11:34:34 - SUSTAINED_PEAK - feat!: Major feature integration: payments affecting api
 2022-02-17T09:59:43 - SUSTAINED_PEAK - refactor: Optimize recommendation in routes.py
 2022-02-18T11:08:15 - SUSTAINED_PEAK - test: Increase coverage for inventory tests
+2022-02-18T11:32:02 - SUSTAINED_PEAK - test: Increase coverage for product tests
