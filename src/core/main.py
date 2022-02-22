@@ -142,3 +142,4 @@
 2022-02-18T11:20:46 - SUSTAINED_PEAK - feat: Implement payments endpoint in main.py
 2022-02-18T11:41:53 - SUSTAINED_PEAK - test: Increase coverage for user tests
 2022-02-18T13:02:19 - SUSTAINED_PEAK - ci: Configure deployment pipeline in main.py
+2022-02-22T11:59:40 - SUSTAINED_PEAK - feat: Implement login endpoint in main.py
