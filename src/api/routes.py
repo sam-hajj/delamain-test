@@ -110,3 +110,4 @@
 2022-02-18T11:32:02 - SUSTAINED_PEAK - test: Increase coverage for product tests
 2022-02-18T11:41:01 - SUSTAINED_PEAK - feat!: Major feature integration: profile affecting api
 2022-02-18T11:51:45 - SUSTAINED_PEAK - test: Increase coverage for user tests
+2022-02-23T11:40:23 - SUSTAINED_PEAK - refactor: Optimize parsing in routes.py
