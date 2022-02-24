@@ -111,3 +111,4 @@
 2022-02-18T11:41:01 - SUSTAINED_PEAK - feat!: Major feature integration: profile affecting api
 2022-02-18T11:51:45 - SUSTAINED_PEAK - test: Increase coverage for user tests
 2022-02-23T11:40:23 - SUSTAINED_PEAK - refactor: Optimize parsing in routes.py
+2022-02-24T15:20:39 - SUSTAINED_PEAK - ci: Configure deployment pipeline in routes.py
