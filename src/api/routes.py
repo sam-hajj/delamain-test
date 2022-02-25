@@ -114,3 +114,4 @@
 2022-02-24T15:20:39 - SUSTAINED_PEAK - ci: Configure deployment pipeline in routes.py
 2022-02-24T15:27:51 - SUSTAINED_PEAK - ci: Configure deployment pipeline in routes.py
 2022-02-24T15:41:23 - SUSTAINED_PEAK - ci: Configure deployment pipeline in routes.py
+2022-02-25T13:59:20 - SUSTAINED_PEAK - feat: Implement profile endpoint in routes.py
