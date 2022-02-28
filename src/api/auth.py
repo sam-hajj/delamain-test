@@ -109,3 +109,4 @@
 2022-02-26T13:00:27 - SUSTAINED_PEAK - fix: Resolve bug #562 in auth.py
 2022-02-26T13:02:43 - SUSTAINED_PEAK - feat!: Major feature integration: notifications affecting api
 2022-02-27T16:09:50 - SUSTAINED_PEAK - feat!: Major feature integration: caching affecting api
+2022-02-28T15:11:22 - SUSTAINED_PEAK - feat!: Major feature integration: notifications affecting api
