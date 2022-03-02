@@ -120,3 +120,4 @@
 2022-03-01T15:21:40 - SUSTAINED_PEAK - fix: Resolve bug #318 in routes.py
 2022-03-02T13:05:30 - SUSTAINED_PEAK - ci: Configure deployment pipeline in routes.py
 2022-03-02T13:38:13 - SUSTAINED_PEAK - feat!: Major feature integration: search affecting api
+2022-03-02T13:38:32 - SUSTAINED_PEAK - feat: Implement notifications endpoint in routes.py
