@@ -264,3 +264,4 @@
 2022-02-28T15:34:10 - SUSTAINED_PEAK - test: Increase coverage for order tests
 2022-03-02T14:24:29 - SUSTAINED_PEAK - refactor: Optimize recommendation in models.py
 2022-03-03T10:49:52 - SUSTAINED_PEAK - refactor: Optimize sorting in models.py
+2022-03-03T11:46:59 - SUSTAINED_PEAK - perf: Improve query performance in models.py
