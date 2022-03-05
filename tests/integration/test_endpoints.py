@@ -140,3 +140,4 @@
 2022-03-02T14:03:56 - SUSTAINED_PEAK - refactor: Optimize recommendation in test_endpoints.py
 2022-03-03T10:03:50 - SUSTAINED_PEAK - refactor: Optimize parsing in test_endpoints.py
 2022-03-03T11:51:33 - SUSTAINED_PEAK - refactor: Optimize hashing in test_endpoints.py
+2022-03-05T12:00:29 - SUSTAINED_PEAK - test: Increase coverage for order tests
