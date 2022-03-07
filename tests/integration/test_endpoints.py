@@ -145,3 +145,4 @@
 2022-03-06T11:58:09 - SUSTAINED_PEAK - refactor: Optimize hashing in test_endpoints.py
 2022-03-07T12:01:27 - SUSTAINED_PEAK - feat: Implement notifications endpoint in test_endpoints.py
 2022-03-07T12:25:53 - SUSTAINED_PEAK - test: Increase coverage for reporting tests
+2022-03-07T12:40:37 - SUSTAINED_PEAK - test: Increase coverage for user tests
