@@ -115,3 +115,4 @@
 2022-03-05T11:23:48 - SUSTAINED_PEAK - refactor: Optimize pathfinding in auth.py
 2022-03-05T13:10:15 - SUSTAINED_PEAK - feat!: Major feature integration: caching affecting api
 2022-03-06T11:15:21 - SUSTAINED_PEAK - feat!: Major feature integration: notifications affecting api
+2022-03-07T11:52:09 - SUSTAINED_PEAK - test: Increase coverage for auth tests
