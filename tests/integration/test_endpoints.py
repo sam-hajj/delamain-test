@@ -147,3 +147,4 @@
 2022-03-07T12:25:53 - SUSTAINED_PEAK - test: Increase coverage for reporting tests
 2022-03-07T12:40:37 - SUSTAINED_PEAK - test: Increase coverage for user tests
 2022-03-07T12:58:51 - SUSTAINED_PEAK - test: Increase coverage for auth tests
+2022-03-08T13:43:07 - SUSTAINED_PEAK - ci: Configure deployment pipeline in test_endpoints.py
