@@ -271,3 +271,4 @@
 2022-03-06T11:41:19 - SUSTAINED_PEAK - test: Increase coverage for user tests
 2022-03-07T12:16:15 - SUSTAINED_PEAK - fix: Resolve bug #48 in models.py
 2022-03-07T12:28:48 - SUSTAINED_PEAK - feat: Implement payments endpoint in models.py
+2022-03-08T13:04:04 - SUSTAINED_PEAK - feat: Implement payments endpoint in models.py
