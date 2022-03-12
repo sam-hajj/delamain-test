@@ -120,3 +120,4 @@
 2022-03-08T13:41:09 - SUSTAINED_PEAK - feat!: Major feature integration: search affecting workflows
 2022-03-08T13:55:31 - SUSTAINED_PEAK - fix!: Critical patch for vulnerability in ci.yml
 2022-03-09T12:44:27 - SUSTAINED_PEAK - feat!: Major feature integration: login affecting workflows
+2022-03-12T12:31:58 - SUSTAINED_PEAK - feat: Implement search endpoint in ci.yml
