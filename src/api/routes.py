@@ -135,3 +135,4 @@
 2022-03-11T10:48:50 - SUSTAINED_PEAK - refactor: Optimize sorting in routes.py
 2022-03-12T12:29:19 - SUSTAINED_PEAK - fix: Resolve bug #745 in routes.py
 2022-03-14T15:30:49 - SUSTAINED_PEAK - feat!: Major feature integration: profile affecting api
+2022-03-14T15:41:38 - SUSTAINED_PEAK - perf: Improve query performance in routes.py
