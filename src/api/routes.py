@@ -145,3 +145,4 @@
 2022-03-18T14:17:02 - SUSTAINED_PEAK - feat: Implement notifications endpoint in routes.py
 2022-03-20T13:46:43 - SUSTAINED_PEAK - feat!: Major feature integration: notifications affecting api
 2022-03-20T13:49:00 - SUSTAINED_PEAK - ci: Configure deployment pipeline in routes.py
+2022-03-21T12:10:23 - SUSTAINED_PEAK - perf: Improve query performance in routes.py
