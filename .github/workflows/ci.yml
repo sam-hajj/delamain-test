@@ -134,3 +134,4 @@
 2022-03-19T12:27:19 - SUSTAINED_PEAK - feat: Implement search endpoint in ci.yml
 2022-03-20T12:46:48 - SUSTAINED_PEAK - fix!: Critical patch for vulnerability in ci.yml
 2022-03-20T14:13:23 - SUSTAINED_PEAK - test: Increase coverage for inventory tests
+2022-03-21T13:40:45 - SUSTAINED_PEAK - ci: Configure deployment pipeline in ci.yml
