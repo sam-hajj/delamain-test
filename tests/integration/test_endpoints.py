@@ -165,3 +165,4 @@
 2022-03-18T13:35:20 - SUSTAINED_PEAK - perf: Improve query performance in test_endpoints.py
 2022-03-19T10:34:55 - SUSTAINED_PEAK - feat: Implement search endpoint in test_endpoints.py
 2022-03-19T12:28:43 - SUSTAINED_PEAK - feat: Implement login endpoint in test_endpoints.py
+2022-03-21T13:07:14 - SUSTAINED_PEAK - perf: Improve query performance in test_endpoints.py
