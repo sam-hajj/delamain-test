@@ -148,3 +148,4 @@
 2022-03-21T12:10:23 - SUSTAINED_PEAK - perf: Improve query performance in routes.py
 2022-03-21T13:35:34 - SUSTAINED_PEAK - perf: Improve query performance in routes.py
 2022-03-21T13:46:49 - SUSTAINED_PEAK - perf: Improve query performance in routes.py
+2022-03-22T12:29:11 - SUSTAINED_PEAK - refactor: Optimize sorting in routes.py
