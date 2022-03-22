@@ -136,3 +136,4 @@
 2022-03-21T13:33:11 - SUSTAINED_PEAK - feat!: Major feature integration: profile affecting api
 2022-03-21T13:43:23 - SUSTAINED_PEAK - test: Increase coverage for product tests
 2022-03-21T13:43:55 - SUSTAINED_PEAK - feat: Implement login endpoint in auth.py
+2022-03-22T12:36:06 - SUSTAINED_PEAK - test: Increase coverage for user tests
