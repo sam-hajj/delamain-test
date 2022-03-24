@@ -293,3 +293,4 @@
 2022-03-23T10:43:41 - SUSTAINED_PEAK - test: Increase coverage for product tests
 2022-03-24T15:12:35 - SUSTAINED_PEAK - fix: Resolve bug #113 in models.py
 2022-03-24T15:14:59 - SUSTAINED_PEAK - test: Increase coverage for reporting tests
+2022-03-24T15:41:28 - SUSTAINED_PEAK - fix: Resolve bug #975 in models.py
