@@ -169,3 +169,4 @@
 2022-03-21T13:32:22 - SUSTAINED_PEAK - feat: Implement login endpoint in test_endpoints.py
 2022-03-23T10:20:28 - SUSTAINED_PEAK - feat: Implement profile endpoint in test_endpoints.py
 2022-03-24T15:00:52 - SUSTAINED_PEAK - fix: Resolve bug #977 in test_endpoints.py
+2022-03-24T15:51:30 - SUSTAINED_PEAK - test: Increase coverage for inventory tests
