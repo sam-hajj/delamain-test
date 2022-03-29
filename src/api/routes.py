@@ -152,3 +152,4 @@
 2022-03-23T10:37:15 - SUSTAINED_PEAK - test: Increase coverage for reporting tests
 2022-03-23T10:53:39 - SUSTAINED_PEAK - perf: Improve query performance in routes.py
 2022-03-28T12:22:11 - SUSTAINED_PEAK - fix: Resolve bug #76 in routes.py
+2022-03-29T10:08:26 - SUSTAINED_PEAK - perf: Improve query performance in routes.py
