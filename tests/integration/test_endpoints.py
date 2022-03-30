@@ -176,3 +176,4 @@
 2022-03-27T15:40:01 - SUSTAINED_PEAK - feat!: Major feature integration: login affecting integration
 2022-03-28T13:37:05 - SUSTAINED_PEAK - refactor: Optimize parsing in test_endpoints.py
 2022-03-29T11:06:22 - SUSTAINED_PEAK - fix: Resolve bug #653 in test_endpoints.py
+2022-03-30T11:51:12 - SUSTAINED_PEAK - feat: Implement notifications endpoint in test_endpoints.py
