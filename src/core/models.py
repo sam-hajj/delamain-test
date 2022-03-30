@@ -301,3 +301,4 @@
 2022-03-28T13:12:04 - SUSTAINED_PEAK - feat!: Major feature integration: data processing affecting core
 2022-03-29T10:10:00 - SUSTAINED_PEAK - feat: Implement payments endpoint in models.py
 2022-03-29T10:25:50 - SUSTAINED_PEAK - refactor: Optimize sorting in models.py
+2022-03-30T11:17:13 - SUSTAINED_PEAK - feat: Implement notifications endpoint in models.py
