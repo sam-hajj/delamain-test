@@ -178,3 +178,4 @@
 2022-03-29T11:06:22 - SUSTAINED_PEAK - fix: Resolve bug #653 in test_endpoints.py
 2022-03-30T11:51:12 - SUSTAINED_PEAK - feat: Implement notifications endpoint in test_endpoints.py
 2022-03-31T14:00:42 - SUSTAINED_PEAK - fix!: Critical patch for vulnerability in test_endpoints.py
+2022-03-31T14:57:22 - SUSTAINED_PEAK - fix: Resolve bug #968 in test_endpoints.py
