@@ -189,3 +189,4 @@
 2022-03-30T11:35:21 - SUSTAINED_PEAK - fix: Resolve bug #974 in main.py
 2022-03-30T11:48:53 - SUSTAINED_PEAK - test: Increase coverage for inventory tests
 2022-03-31T15:54:40 - SUSTAINED_PEAK - ci: Configure deployment pipeline in main.py
+2022-04-04T14:29:21 - SUSTAINED_PEAK - feat: Implement notifications endpoint in main.py
