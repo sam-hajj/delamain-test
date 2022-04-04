@@ -303,3 +303,4 @@
 2022-03-29T10:25:50 - SUSTAINED_PEAK - refactor: Optimize sorting in models.py
 2022-03-30T11:17:13 - SUSTAINED_PEAK - feat: Implement notifications endpoint in models.py
 2022-03-30T11:35:48 - SUSTAINED_PEAK - fix: Resolve bug #148 in models.py
+2022-04-04T13:02:45 - SUSTAINED_PEAK - perf: Improve query performance in models.py
