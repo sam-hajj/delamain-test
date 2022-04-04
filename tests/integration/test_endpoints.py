@@ -181,3 +181,4 @@
 2022-03-31T14:57:22 - SUSTAINED_PEAK - fix: Resolve bug #968 in test_endpoints.py
 2022-04-03T14:01:34 - SUSTAINED_PEAK - refactor: Optimize parsing in test_endpoints.py
 2022-04-03T16:27:40 - SUSTAINED_PEAK - fix: Resolve bug #890 in test_endpoints.py
+2022-04-04T12:29:15 - SUSTAINED_PEAK - perf: Improve query performance in test_endpoints.py
