@@ -188,3 +188,4 @@
 2022-04-10T11:39:16 - SUSTAINED_PEAK - fix: Resolve bug #683 in test_endpoints.py
 2022-04-11T11:03:21 - SUSTAINED_PEAK - ci: Configure deployment pipeline in test_endpoints.py
 2022-04-14T12:19:07 - SUSTAINED_PEAK - feat: Implement payments endpoint in test_endpoints.py
+2022-04-14T13:09:05 - SUSTAINED_PEAK - fix: Resolve bug #680 in test_endpoints.py
