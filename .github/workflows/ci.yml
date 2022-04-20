@@ -158,3 +158,4 @@
 2022-04-14T14:54:16 - SUSTAINED_PEAK - test: Increase coverage for auth tests
 2022-04-18T12:12:38 - SUSTAINED_PEAK - feat!: Major feature integration: login affecting workflows
 2022-04-18T12:29:07 - SUSTAINED_PEAK - ci: Configure deployment pipeline in ci.yml
+2022-04-20T12:10:38 - SUSTAINED_PEAK - perf: Improve query performance in ci.yml
