@@ -51,3 +51,4 @@
 2021-01-04T12:17:07 - PROJECT_SHIFT - chore: Experiment with requests in schemas.py
 2021-01-06T16:41:52 - PROJECT_SHIFT - chore: Experiment with fastapi in schemas.py
 2022-04-21T15:16:50 - PROJECT_SHIFT - feat: POC for analytics dashboard in api
+2022-04-24T12:18:35 - PROJECT_SHIFT - chore: Experiment with numpy in schemas.py
