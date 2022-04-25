@@ -51,3 +51,4 @@
 2021-01-05T14:54:00 - PROJECT_SHIFT - refactor: Adapt reporting for new requirements in test_api.py
 2021-01-08T11:14:18 - PROJECT_SHIFT - refactor: Adapt reporting for new requirements in test_api.py
 2021-01-08T11:34:00 - PROJECT_SHIFT - refactor: Adapt inventory for new requirements in test_api.py
+2022-04-25T11:15:18 - PROJECT_SHIFT - chore: Experiment with vue in test_api.py
