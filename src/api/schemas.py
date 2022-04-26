@@ -53,3 +53,4 @@
 2022-04-21T15:16:50 - PROJECT_SHIFT - feat: POC for analytics dashboard in api
 2022-04-24T12:18:35 - PROJECT_SHIFT - chore: Experiment with numpy in schemas.py
 2022-04-25T11:38:45 - PROJECT_SHIFT - docs: Update architecture diagram
+2022-04-26T12:43:35 - PROJECT_SHIFT - docs: Update architecture diagram
