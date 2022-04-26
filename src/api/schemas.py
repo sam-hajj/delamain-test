@@ -54,3 +54,4 @@
 2022-04-24T12:18:35 - PROJECT_SHIFT - chore: Experiment with numpy in schemas.py
 2022-04-25T11:38:45 - PROJECT_SHIFT - docs: Update architecture diagram
 2022-04-26T12:43:35 - PROJECT_SHIFT - docs: Update architecture diagram
+2022-04-26T14:03:47 - PROJECT_SHIFT - refactor: Adapt order for new requirements in schemas.py
