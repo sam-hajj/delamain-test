@@ -54,3 +54,4 @@
 2022-04-24T12:35:32 - PROJECT_SHIFT - refactor: Modularize API gateway in config_loader.py
 2022-04-25T12:07:20 - PROJECT_SHIFT - docs: Update architecture diagram
 2022-04-27T13:17:47 - PROJECT_SHIFT - feat: POC for A/B testing framework in core
+2022-04-27T13:25:45 - PROJECT_SHIFT - refactor: Adapt reporting for new requirements in config_loader.py
