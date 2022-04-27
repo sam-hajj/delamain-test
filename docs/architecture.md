@@ -56,3 +56,4 @@
 2021-01-08T10:28:19 - PROJECT_SHIFT - chore: Experiment with pandas in architecture.md
 2021-01-08T11:03:26 - PROJECT_SHIFT - refactor: Adapt reporting for new requirements in architecture.md
 2022-04-21T15:14:18 - PROJECT_SHIFT - refactor: Modularize UI in architecture.md
+2022-04-27T13:29:26 - PROJECT_SHIFT - refactor: Modularize database in architecture.md
