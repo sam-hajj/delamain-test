@@ -56,3 +56,4 @@
 2022-04-26T12:43:35 - PROJECT_SHIFT - docs: Update architecture diagram
 2022-04-26T14:03:47 - PROJECT_SHIFT - refactor: Adapt order for new requirements in schemas.py
 2022-04-27T13:22:56 - PROJECT_SHIFT - test: Add integration tests for analytics dashboard
+2022-04-28T09:46:29 - PROJECT_SHIFT - refactor: Modularize database in schemas.py
