@@ -56,3 +56,4 @@
 2022-04-26T13:57:57 - PROJECT_SHIFT - refactor: Modularize database in test_api.py
 2022-04-27T13:56:32 - PROJECT_SHIFT - feat: POC for real-time updates in unit
 2022-04-27T14:52:56 - PROJECT_SHIFT - refactor: Adapt product for new requirements in test_api.py
+2022-04-28T10:45:08 - PROJECT_SHIFT - refactor: Adapt order for new requirements in test_api.py
