@@ -58,3 +58,4 @@
 2022-04-21T15:14:18 - PROJECT_SHIFT - refactor: Modularize UI in architecture.md
 2022-04-27T13:29:26 - PROJECT_SHIFT - refactor: Modularize database in architecture.md
 2022-04-27T13:53:18 - PROJECT_SHIFT - docs: Update architecture diagram
+2022-04-28T11:29:30 - PROJECT_SHIFT - feat: POC for A/B testing framework in docs
