@@ -57,3 +57,4 @@
 2022-04-27T13:25:45 - PROJECT_SHIFT - refactor: Adapt reporting for new requirements in config_loader.py
 2022-04-29T11:52:25 - PROJECT_SHIFT - docs: Update architecture diagram
 2022-04-29T12:16:11 - PROJECT_SHIFT - chore: Experiment with vue in config_loader.py
+2022-04-29T12:24:22 - PROJECT_SHIFT - chore: Experiment with numpy in config_loader.py
