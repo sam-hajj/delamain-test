@@ -56,3 +56,4 @@
 2022-04-26T12:17:19 - PROJECT_SHIFT - test: Add integration tests for machine learning model
 2022-04-28T11:13:41 - PROJECT_SHIFT - refactor: Modularize API gateway in docker-compose.yml
 2022-04-29T13:48:24 - PROJECT_SHIFT - feat: POC for analytics dashboard in src
+2022-04-30T11:43:54 - PROJECT_SHIFT - test: Add integration tests for machine learning model
