@@ -58,3 +58,4 @@
 2022-04-27T14:52:56 - PROJECT_SHIFT - refactor: Adapt product for new requirements in test_api.py
 2022-04-28T10:45:08 - PROJECT_SHIFT - refactor: Adapt order for new requirements in test_api.py
 2022-04-30T10:33:36 - PROJECT_SHIFT - chore: Experiment with pandas in test_api.py
+2022-04-30T11:30:45 - PROJECT_SHIFT - docs: Update architecture diagram
