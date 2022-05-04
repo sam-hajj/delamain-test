@@ -60,3 +60,4 @@
 2022-04-30T10:33:36 - PROJECT_SHIFT - chore: Experiment with pandas in test_api.py
 2022-04-30T11:30:45 - PROJECT_SHIFT - docs: Update architecture diagram
 2022-05-04T09:44:31 - PROJECT_SHIFT - feat: POC for real-time updates in unit
+2022-05-04T09:51:25 - PROJECT_SHIFT - feat: POC for A/B testing framework in unit
