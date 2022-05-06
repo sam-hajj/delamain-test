@@ -72,3 +72,4 @@
 2022-05-06T12:54:30 - PROJECT_SHIFT - chore: Experiment with fastapi in cd.yml
 2022-05-06T14:29:53 - PROJECT_SHIFT - refactor: Adapt inventory for new requirements in cd.yml
 2022-05-06T14:36:16 - PROJECT_SHIFT - chore: Experiment with numpy in cd.yml
+2022-05-06T14:40:05 - PROJECT_SHIFT - refactor: Modularize backend in cd.yml
