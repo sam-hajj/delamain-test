@@ -61,3 +61,4 @@
 2022-04-29T12:40:13 - PROJECT_SHIFT - chore: Experiment with requests in config_loader.py
 2022-05-04T09:02:01 - PROJECT_SHIFT - docs: Update architecture diagram
 2022-05-05T15:39:21 - PROJECT_SHIFT - docs: Update architecture diagram
+2022-05-06T14:15:50 - PROJECT_SHIFT - feat: POC for machine learning model in core
