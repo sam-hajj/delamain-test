@@ -62,3 +62,4 @@
 2022-05-04T09:44:31 - PROJECT_SHIFT - feat: POC for real-time updates in unit
 2022-05-04T09:51:25 - PROJECT_SHIFT - feat: POC for A/B testing framework in unit
 2022-05-05T13:09:58 - PROJECT_SHIFT - test: Add integration tests for A/B testing framework
+2022-05-06T14:23:37 - PROJECT_SHIFT - refactor: Modularize API gateway in test_api.py
