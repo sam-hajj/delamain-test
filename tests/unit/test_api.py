@@ -69,3 +69,4 @@
 2022-05-09T13:45:14 - PROJECT_SHIFT - refactor: Adapt reporting for new requirements in test_api.py
 2022-05-10T12:31:00 - PROJECT_SHIFT - feat: POC for A/B testing framework in unit
 2022-05-10T12:38:17 - PROJECT_SHIFT - refactor: Modularize backend in test_api.py
+2022-05-10T14:01:21 - PROJECT_SHIFT - refactor: Adapt user for new requirements in test_api.py
