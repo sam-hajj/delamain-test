@@ -65,3 +65,4 @@
 2022-05-07T11:21:08 - PROJECT_SHIFT - chore: Experiment with requests in architecture.md
 2022-05-09T13:49:38 - PROJECT_SHIFT - refactor: Adapt inventory for new requirements in architecture.md
 2022-05-10T10:14:08 - PROJECT_SHIFT - refactor: Adapt reporting for new requirements in architecture.md
+2022-05-10T12:43:14 - PROJECT_SHIFT - test: Add integration tests for machine learning model
