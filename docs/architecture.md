@@ -67,3 +67,4 @@
 2022-05-10T10:14:08 - PROJECT_SHIFT - refactor: Adapt reporting for new requirements in architecture.md
 2022-05-10T12:43:14 - PROJECT_SHIFT - test: Add integration tests for machine learning model
 2022-05-10T13:47:58 - PROJECT_SHIFT - refactor: Adapt user for new requirements in architecture.md
+2022-05-11T15:09:39 - PROJECT_SHIFT - chore: Experiment with django in architecture.md
