@@ -66,3 +66,4 @@
 2022-05-09T13:35:03 - PROJECT_SHIFT - test: Add integration tests for machine learning model
 2022-05-09T13:35:45 - PROJECT_SHIFT - chore: Experiment with vue in docker-compose.yml
 2022-05-10T12:40:26 - PROJECT_SHIFT - refactor: Modularize messaging queue in docker-compose.yml
+2022-05-11T15:26:00 - PROJECT_SHIFT - refactor: Modularize UI in docker-compose.yml
