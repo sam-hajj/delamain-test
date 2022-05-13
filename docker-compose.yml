@@ -68,3 +68,4 @@
 2022-05-10T12:40:26 - PROJECT_SHIFT - refactor: Modularize messaging queue in docker-compose.yml
 2022-05-11T15:26:00 - PROJECT_SHIFT - refactor: Modularize UI in docker-compose.yml
 2022-05-11T15:36:32 - PROJECT_SHIFT - refactor: Adapt reporting for new requirements in docker-compose.yml
+2022-05-13T10:31:21 - PROJECT_SHIFT - test: Add integration tests for A/B testing framework
