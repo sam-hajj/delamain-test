@@ -82,3 +82,4 @@
 2022-05-12T15:31:16 - PROJECT_SHIFT - test: Add integration tests for real-time updates
 2022-05-12T15:35:56 - PROJECT_SHIFT - chore: Experiment with vue in cd.yml
 2022-05-12T17:40:21 - PROJECT_SHIFT - feat: POC for analytics dashboard in workflows
+2022-05-13T10:54:38 - PROJECT_SHIFT - test: Add integration tests for A/B testing framework
