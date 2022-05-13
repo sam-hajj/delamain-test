@@ -69,3 +69,4 @@
 2022-05-10T13:47:58 - PROJECT_SHIFT - refactor: Adapt user for new requirements in architecture.md
 2022-05-11T15:09:39 - PROJECT_SHIFT - chore: Experiment with django in architecture.md
 2022-05-11T15:40:03 - PROJECT_SHIFT - chore: Experiment with fastapi in architecture.md
+2022-05-13T10:13:19 - PROJECT_SHIFT - docs: Update architecture diagram
