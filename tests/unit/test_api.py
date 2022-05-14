@@ -72,3 +72,4 @@
 2022-05-10T14:01:21 - PROJECT_SHIFT - refactor: Adapt user for new requirements in test_api.py
 2022-05-11T15:11:13 - PROJECT_SHIFT - refactor: Adapt user for new requirements in test_api.py
 2022-05-14T14:44:21 - PROJECT_SHIFT - feat: POC for real-time updates in unit
+2022-05-14T15:17:36 - PROJECT_SHIFT - chore: Experiment with vue in test_api.py
