@@ -72,3 +72,4 @@
 2022-05-13T10:44:43 - PROJECT_SHIFT - docs: Update architecture diagram
 2022-05-13T10:52:45 - PROJECT_SHIFT - test: Add integration tests for analytics dashboard
 2022-05-15T10:41:14 - PROJECT_SHIFT - docs: Update architecture diagram
+2022-05-15T11:28:52 - PROJECT_SHIFT - chore: Experiment with django in docker-compose.yml
