@@ -74,3 +74,4 @@
 2022-05-13T08:10:23 - PROJECT_SHIFT - feat: POC for real-time updates in api
 2022-05-14T14:03:59 - PROJECT_SHIFT - feat: POC for real-time updates in api
 2022-05-14T15:45:24 - PROJECT_SHIFT - chore: Experiment with requests in schemas.py
+2022-05-15T11:10:32 - PROJECT_SHIFT - refactor: Adapt user for new requirements in schemas.py
