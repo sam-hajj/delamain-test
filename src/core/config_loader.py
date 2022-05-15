@@ -71,3 +71,4 @@
 2022-05-13T11:45:06 - PROJECT_SHIFT - docs: Update architecture diagram
 2022-05-14T15:14:31 - PROJECT_SHIFT - docs: Update architecture diagram
 2022-05-14T16:49:44 - PROJECT_SHIFT - docs: Update architecture diagram
+2022-05-15T11:26:21 - PROJECT_SHIFT - chore: Experiment with numpy in config_loader.py
