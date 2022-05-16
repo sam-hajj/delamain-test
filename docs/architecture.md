@@ -74,3 +74,4 @@
 2022-05-15T11:01:13 - PROJECT_SHIFT - test: Add integration tests for real-time updates
 2022-05-15T11:42:53 - PROJECT_SHIFT - test: Add integration tests for real-time updates
 2022-05-16T14:13:09 - PROJECT_SHIFT - refactor: Modularize API gateway in architecture.md
+2022-05-16T14:37:07 - PROJECT_SHIFT - refactor: Modularize messaging queue in architecture.md
