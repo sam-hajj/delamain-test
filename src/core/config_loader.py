@@ -75,3 +75,4 @@
 2022-05-15T11:56:49 - PROJECT_SHIFT - refactor: Modularize messaging queue in config_loader.py
 2022-05-16T15:10:17 - PROJECT_SHIFT - test: Add integration tests for analytics dashboard
 2022-05-17T14:36:51 - PROJECT_SHIFT - docs: Update architecture diagram
+2022-05-18T11:46:29 - PROJECT_SHIFT - feat: POC for machine learning model in core
