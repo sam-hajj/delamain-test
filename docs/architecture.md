@@ -79,3 +79,4 @@
 2022-05-17T14:34:27 - PROJECT_SHIFT - test: Add integration tests for machine learning model
 2022-05-17T15:29:30 - PROJECT_SHIFT - refactor: Modularize API gateway in architecture.md
 2022-05-18T10:51:50 - PROJECT_SHIFT - refactor: Modularize API gateway in architecture.md
+2022-05-18T11:36:44 - PROJECT_SHIFT - chore: Experiment with vue in architecture.md
