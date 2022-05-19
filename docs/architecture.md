@@ -80,3 +80,4 @@
 2022-05-17T15:29:30 - PROJECT_SHIFT - refactor: Modularize API gateway in architecture.md
 2022-05-18T10:51:50 - PROJECT_SHIFT - refactor: Modularize API gateway in architecture.md
 2022-05-18T11:36:44 - PROJECT_SHIFT - chore: Experiment with vue in architecture.md
+2022-05-19T15:27:50 - PROJECT_SHIFT - refactor: Modularize messaging queue in architecture.md
