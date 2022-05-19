@@ -74,3 +74,4 @@
 2022-05-14T14:44:21 - PROJECT_SHIFT - feat: POC for real-time updates in unit
 2022-05-14T15:17:36 - PROJECT_SHIFT - chore: Experiment with vue in test_api.py
 2022-05-17T14:27:36 - PROJECT_SHIFT - chore: Experiment with vue in test_api.py
+2022-05-19T15:33:35 - PROJECT_SHIFT - refactor: Modularize UI in test_api.py
