@@ -79,3 +79,4 @@
 2022-05-18T10:50:43 - PROJECT_SHIFT - feat: POC for real-time updates in api
 2022-05-19T15:01:05 - PROJECT_SHIFT - refactor: Adapt auth for new requirements in schemas.py
 2022-05-20T15:42:21 - PROJECT_SHIFT - test: Add integration tests for machine learning model
+2022-05-20T17:01:30 - PROJECT_SHIFT - refactor: Modularize database in schemas.py
