@@ -76,3 +76,4 @@
 2022-05-16T14:27:45 - PROJECT_SHIFT - chore: Experiment with vue in docker-compose.yml
 2022-05-16T15:32:41 - PROJECT_SHIFT - docs: Update architecture diagram
 2022-05-18T11:31:26 - PROJECT_SHIFT - refactor: Modularize database in docker-compose.yml
+2022-05-20T15:34:31 - PROJECT_SHIFT - refactor: Adapt product for new requirements in docker-compose.yml
