@@ -78,3 +78,4 @@
 2022-05-18T11:46:29 - PROJECT_SHIFT - feat: POC for machine learning model in core
 2022-05-20T14:58:36 - PROJECT_SHIFT - feat: POC for A/B testing framework in core
 2022-05-20T15:47:05 - PROJECT_SHIFT - docs: Update architecture diagram
+2022-05-20T15:57:04 - PROJECT_SHIFT - refactor: Adapt auth for new requirements in config_loader.py
