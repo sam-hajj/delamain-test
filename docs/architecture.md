@@ -83,3 +83,4 @@
 2022-05-19T15:27:50 - PROJECT_SHIFT - refactor: Modularize messaging queue in architecture.md
 2022-05-20T15:30:51 - PROJECT_SHIFT - refactor: Adapt order for new requirements in architecture.md
 2022-05-22T10:26:28 - PROJECT_SHIFT - refactor: Adapt product for new requirements in architecture.md
+2022-05-22T12:35:11 - PROJECT_SHIFT - refactor: Modularize API gateway in architecture.md
