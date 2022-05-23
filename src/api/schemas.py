@@ -81,3 +81,4 @@
 2022-05-20T15:42:21 - PROJECT_SHIFT - test: Add integration tests for machine learning model
 2022-05-20T17:01:30 - PROJECT_SHIFT - refactor: Modularize database in schemas.py
 2022-05-22T12:19:48 - PROJECT_SHIFT - test: Add integration tests for machine learning model
+2022-05-23T10:34:21 - PROJECT_SHIFT - docs: Update architecture diagram
