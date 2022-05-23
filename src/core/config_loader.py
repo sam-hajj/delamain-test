@@ -80,3 +80,4 @@
 2022-05-20T15:47:05 - PROJECT_SHIFT - docs: Update architecture diagram
 2022-05-20T15:57:04 - PROJECT_SHIFT - refactor: Adapt auth for new requirements in config_loader.py
 2022-05-22T12:29:59 - PROJECT_SHIFT - refactor: Adapt user for new requirements in config_loader.py
+2022-05-23T10:33:15 - PROJECT_SHIFT - feat: POC for real-time updates in core
