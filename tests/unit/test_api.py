@@ -78,3 +78,4 @@
 2022-05-19T15:58:59 - PROJECT_SHIFT - chore: Experiment with react in test_api.py
 2022-05-20T15:41:31 - PROJECT_SHIFT - refactor: Modularize API gateway in test_api.py
 2022-05-23T10:17:19 - PROJECT_SHIFT - refactor: Adapt auth for new requirements in test_api.py
+2022-05-23T10:57:48 - PROJECT_SHIFT - refactor: Adapt inventory for new requirements in test_api.py
