@@ -83,3 +83,4 @@
 2022-05-23T10:33:15 - PROJECT_SHIFT - feat: POC for real-time updates in core
 2022-05-23T11:50:53 - PROJECT_SHIFT - refactor: Modularize database in config_loader.py
 2022-05-24T10:59:25 - PROJECT_SHIFT - refactor: Adapt product for new requirements in config_loader.py
+2022-05-25T11:30:52 - PROJECT_SHIFT - test: Add integration tests for analytics dashboard
