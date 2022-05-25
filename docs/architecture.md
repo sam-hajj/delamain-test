@@ -85,3 +85,4 @@
 2022-05-22T10:26:28 - PROJECT_SHIFT - refactor: Adapt product for new requirements in architecture.md
 2022-05-22T12:35:11 - PROJECT_SHIFT - refactor: Modularize API gateway in architecture.md
 2022-05-23T10:15:05 - PROJECT_SHIFT - chore: Experiment with vue in architecture.md
+2022-05-25T11:08:00 - PROJECT_SHIFT - refactor: Modularize backend in architecture.md
