@@ -91,3 +91,4 @@
 2022-05-22T13:26:41 - PROJECT_SHIFT - test: Add integration tests for A/B testing framework
 2022-05-24T09:00:00 - PROJECT_SHIFT - refactor: Modularize backend in cd.yml
 2022-05-24T09:37:39 - PROJECT_SHIFT - refactor: Adapt reporting for new requirements in cd.yml
+2022-05-26T14:27:50 - PROJECT_SHIFT - refactor: Modularize database in cd.yml
