@@ -82,3 +82,4 @@
 2022-05-24T07:46:17 - PROJECT_SHIFT - refactor: Modularize API gateway in test_api.py
 2022-05-25T11:09:42 - PROJECT_SHIFT - refactor: Adapt inventory for new requirements in test_api.py
 2022-05-26T15:30:56 - PROJECT_SHIFT - refactor: Adapt order for new requirements in test_api.py
+2022-05-27T11:09:14 - PROJECT_SHIFT - refactor: Adapt reporting for new requirements in test_api.py
