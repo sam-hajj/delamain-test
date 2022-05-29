@@ -95,3 +95,4 @@
 2022-05-27T11:42:25 - PROJECT_SHIFT - feat: POC for analytics dashboard in workflows
 2022-05-29T14:15:15 - PROJECT_SHIFT - refactor: Adapt product for new requirements in cd.yml
 2022-05-29T14:20:00 - PROJECT_SHIFT - refactor: Modularize messaging queue in cd.yml
+2022-05-29T14:58:57 - PROJECT_SHIFT - refactor: Modularize API gateway in cd.yml
