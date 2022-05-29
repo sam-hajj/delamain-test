@@ -83,3 +83,4 @@
 2022-05-25T11:09:42 - PROJECT_SHIFT - refactor: Adapt inventory for new requirements in test_api.py
 2022-05-26T15:30:56 - PROJECT_SHIFT - refactor: Adapt order for new requirements in test_api.py
 2022-05-27T11:09:14 - PROJECT_SHIFT - refactor: Adapt reporting for new requirements in test_api.py
+2022-05-29T14:39:39 - PROJECT_SHIFT - refactor: Modularize database in test_api.py
