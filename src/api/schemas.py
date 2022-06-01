@@ -87,3 +87,4 @@
 2022-06-01T13:00:23 - PROJECT_SHIFT - feat: POC for A/B testing framework in api
 2022-06-01T13:11:10 - PROJECT_SHIFT - feat: POC for A/B testing framework in api
 2022-06-01T13:16:34 - PROJECT_SHIFT - feat: POC for analytics dashboard in api
+2022-06-01T14:14:20 - PROJECT_SHIFT - test: Add integration tests for analytics dashboard
