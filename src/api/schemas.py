@@ -84,3 +84,4 @@
 2022-05-23T10:34:21 - PROJECT_SHIFT - docs: Update architecture diagram
 2022-05-25T11:40:56 - PROJECT_SHIFT - refactor: Adapt product for new requirements in schemas.py
 2022-05-26T15:01:47 - PROJECT_SHIFT - refactor: Adapt user for new requirements in schemas.py
+2022-06-01T13:00:23 - PROJECT_SHIFT - feat: POC for A/B testing framework in api
