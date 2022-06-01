@@ -89,3 +89,4 @@
 2022-05-27T11:42:26 - PROJECT_SHIFT - feat: POC for analytics dashboard in core
 2022-05-30T16:10:37 - PROJECT_SHIFT - test: Add integration tests for real-time updates
 2022-06-01T13:18:44 - PROJECT_SHIFT - docs: Update architecture diagram
+2022-06-01T13:54:19 - PROJECT_SHIFT - test: Add integration tests for A/B testing framework
