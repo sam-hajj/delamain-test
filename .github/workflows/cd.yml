@@ -100,3 +100,4 @@
 2022-06-01T13:04:26 - PROJECT_SHIFT - chore: Experiment with requests in cd.yml
 2022-06-01T13:07:06 - PROJECT_SHIFT - chore: Experiment with requests in cd.yml
 2022-06-01T13:14:54 - PROJECT_SHIFT - chore: Experiment with django in cd.yml
+2022-06-01T13:36:52 - PROJECT_SHIFT - test: Add integration tests for analytics dashboard
