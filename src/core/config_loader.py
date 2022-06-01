@@ -90,3 +90,4 @@
 2022-05-30T16:10:37 - PROJECT_SHIFT - test: Add integration tests for real-time updates
 2022-06-01T13:18:44 - PROJECT_SHIFT - docs: Update architecture diagram
 2022-06-01T13:54:19 - PROJECT_SHIFT - test: Add integration tests for A/B testing framework
+2022-06-01T13:59:04 - PROJECT_SHIFT - chore: Experiment with vue in config_loader.py
