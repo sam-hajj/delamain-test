@@ -92,3 +92,4 @@
 2022-05-27T09:31:57 - PROJECT_SHIFT - chore: Experiment with django in architecture.md
 2022-05-29T14:18:34 - PROJECT_SHIFT - chore: Experiment with fastapi in architecture.md
 2022-06-01T13:32:35 - PROJECT_SHIFT - feat: POC for machine learning model in docs
+2022-06-02T12:28:44 - PROJECT_SHIFT - refactor: Adapt inventory for new requirements in architecture.md
