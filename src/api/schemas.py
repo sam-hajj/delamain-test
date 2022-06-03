@@ -91,3 +91,4 @@
 2022-06-02T12:48:00 - PROJECT_SHIFT - refactor: Adapt user for new requirements in schemas.py
 2022-06-02T12:53:06 - PROJECT_SHIFT - refactor: Adapt reporting for new requirements in schemas.py
 2022-06-03T15:11:24 - PROJECT_SHIFT - feat: POC for analytics dashboard in api
+2022-06-03T15:55:48 - PROJECT_SHIFT - test: Add integration tests for real-time updates
