@@ -89,3 +89,4 @@
 2022-06-01T14:24:34 - PROJECT_SHIFT - test: Add integration tests for real-time updates
 2022-06-05T09:15:18 - PROJECT_SHIFT - refactor: Modularize database in test_api.py
 2022-06-05T09:32:11 - PROJECT_SHIFT - refactor: Modularize API gateway in test_api.py
+2022-06-05T09:38:18 - PROJECT_SHIFT - chore: Experiment with fastapi in test_api.py
