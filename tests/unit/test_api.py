@@ -90,3 +90,4 @@
 2022-06-05T09:15:18 - PROJECT_SHIFT - refactor: Modularize database in test_api.py
 2022-06-05T09:32:11 - PROJECT_SHIFT - refactor: Modularize API gateway in test_api.py
 2022-06-05T09:38:18 - PROJECT_SHIFT - chore: Experiment with fastapi in test_api.py
+2022-06-05T11:52:48 - PROJECT_SHIFT - refactor: Adapt user for new requirements in test_api.py
