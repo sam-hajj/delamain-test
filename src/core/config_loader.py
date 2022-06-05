@@ -93,3 +93,4 @@
 2022-06-01T13:59:04 - PROJECT_SHIFT - chore: Experiment with vue in config_loader.py
 2022-06-02T10:09:48 - PROJECT_SHIFT - docs: Update architecture diagram
 2022-06-03T15:15:15 - PROJECT_SHIFT - feat: POC for analytics dashboard in core
+2022-06-05T09:25:35 - PROJECT_SHIFT - refactor: Adapt order for new requirements in config_loader.py
