@@ -87,3 +87,4 @@
 2022-06-01T13:13:29 - PROJECT_SHIFT - refactor: Adapt product for new requirements in docker-compose.yml
 2022-06-01T13:48:29 - PROJECT_SHIFT - test: Add integration tests for machine learning model
 2022-06-01T13:51:07 - PROJECT_SHIFT - refactor: Modularize API gateway in docker-compose.yml
+2022-06-06T11:46:29 - PROJECT_SHIFT - refactor: Adapt order for new requirements in docker-compose.yml
