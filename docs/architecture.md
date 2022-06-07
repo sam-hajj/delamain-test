@@ -96,3 +96,4 @@
 2022-06-03T15:35:15 - PROJECT_SHIFT - chore: Experiment with pandas in architecture.md
 2022-06-05T09:39:53 - PROJECT_SHIFT - docs: Update architecture diagram
 2022-06-05T09:43:52 - PROJECT_SHIFT - feat: POC for analytics dashboard in docs
+2022-06-07T11:15:56 - PROJECT_SHIFT - test: Add integration tests for machine learning model
