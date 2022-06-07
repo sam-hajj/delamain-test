@@ -96,3 +96,4 @@
 2022-06-06T11:37:40 - PROJECT_SHIFT - test: Add integration tests for real-time updates
 2022-06-07T10:57:56 - PROJECT_SHIFT - refactor: Modularize UI in schemas.py
 2022-06-07T11:20:11 - PROJECT_SHIFT - refactor: Modularize backend in schemas.py
+2022-06-07T11:40:34 - PROJECT_SHIFT - feat: POC for real-time updates in api
