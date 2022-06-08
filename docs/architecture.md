@@ -99,3 +99,4 @@
 2022-06-07T11:15:56 - PROJECT_SHIFT - test: Add integration tests for machine learning model
 2022-06-07T11:37:19 - PROJECT_SHIFT - feat: POC for analytics dashboard in docs
 2022-06-07T13:24:55 - PROJECT_SHIFT - docs: Update architecture diagram
+2022-06-08T13:03:45 - PROJECT_SHIFT - feat: POC for analytics dashboard in docs
