@@ -91,3 +91,4 @@
 2022-06-06T12:34:58 - PROJECT_SHIFT - refactor: Modularize backend in docker-compose.yml
 2022-06-07T11:12:11 - PROJECT_SHIFT - refactor: Adapt product for new requirements in docker-compose.yml
 2022-06-07T11:37:21 - PROJECT_SHIFT - test: Add integration tests for A/B testing framework
+2022-06-08T13:01:24 - PROJECT_SHIFT - refactor: Adapt product for new requirements in docker-compose.yml
