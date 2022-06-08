@@ -97,3 +97,4 @@
 2022-06-07T10:57:56 - PROJECT_SHIFT - refactor: Modularize UI in schemas.py
 2022-06-07T11:20:11 - PROJECT_SHIFT - refactor: Modularize backend in schemas.py
 2022-06-07T11:40:34 - PROJECT_SHIFT - feat: POC for real-time updates in api
+2022-06-08T15:12:48 - PROJECT_SHIFT - refactor: Adapt product for new requirements in schemas.py
