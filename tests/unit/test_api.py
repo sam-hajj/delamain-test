@@ -97,3 +97,4 @@
 2022-06-07T11:46:34 - PROJECT_SHIFT - refactor: Modularize messaging queue in test_api.py
 2022-06-10T11:50:09 - PROJECT_SHIFT - refactor: Modularize messaging queue in test_api.py
 2022-06-10T12:02:34 - PROJECT_SHIFT - refactor: Modularize messaging queue in test_api.py
+2022-06-11T12:53:52 - PROJECT_SHIFT - test: Add integration tests for machine learning model
