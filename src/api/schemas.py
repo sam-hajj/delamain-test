@@ -99,3 +99,4 @@
 2022-06-07T11:40:34 - PROJECT_SHIFT - feat: POC for real-time updates in api
 2022-06-08T15:12:48 - PROJECT_SHIFT - refactor: Adapt product for new requirements in schemas.py
 2022-06-09T13:02:43 - PROJECT_SHIFT - docs: Update architecture diagram
+2022-06-11T13:02:09 - PROJECT_SHIFT - test: Add integration tests for analytics dashboard
