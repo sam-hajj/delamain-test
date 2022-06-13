@@ -100,3 +100,4 @@
 2022-06-11T12:53:52 - PROJECT_SHIFT - test: Add integration tests for machine learning model
 2022-06-11T12:54:42 - PROJECT_SHIFT - chore: Experiment with numpy in test_api.py
 2022-06-11T12:54:45 - PROJECT_SHIFT - refactor: Adapt order for new requirements in test_api.py
+2022-06-13T13:11:41 - PROJECT_SHIFT - feat: POC for A/B testing framework in unit
