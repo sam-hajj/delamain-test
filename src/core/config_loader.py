@@ -99,3 +99,4 @@
 2022-06-10T11:50:06 - PROJECT_SHIFT - refactor: Adapt user for new requirements in config_loader.py
 2022-06-12T11:08:09 - PROJECT_SHIFT - chore: Experiment with django in config_loader.py
 2022-06-13T13:11:12 - PROJECT_SHIFT - feat: POC for real-time updates in core
+2022-06-13T13:30:49 - PROJECT_SHIFT - test: Add integration tests for real-time updates
