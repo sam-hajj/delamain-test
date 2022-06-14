@@ -113,3 +113,4 @@
 2022-06-12T12:59:24 - PROJECT_SHIFT - chore: Experiment with requests in cd.yml
 2022-06-13T13:43:01 - PROJECT_SHIFT - chore: Experiment with numpy in cd.yml
 2022-06-13T14:22:06 - PROJECT_SHIFT - refactor: Modularize backend in cd.yml
+2022-06-14T15:20:02 - PROJECT_SHIFT - feat: POC for machine learning model in workflows
