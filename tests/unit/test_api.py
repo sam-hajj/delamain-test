@@ -103,3 +103,4 @@
 2022-06-13T13:11:41 - PROJECT_SHIFT - feat: POC for A/B testing framework in unit
 2022-06-14T14:45:07 - PROJECT_SHIFT - docs: Update architecture diagram
 2022-06-17T09:08:18 - PROJECT_SHIFT - refactor: Adapt auth for new requirements in test_api.py
+2022-06-17T11:08:00 - PROJECT_SHIFT - docs: Update architecture diagram
