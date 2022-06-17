@@ -104,3 +104,4 @@
 2022-06-13T11:21:21 - PROJECT_SHIFT - refactor: Adapt inventory for new requirements in schemas.py
 2022-06-13T13:12:30 - PROJECT_SHIFT - refactor: Adapt reporting for new requirements in schemas.py
 2022-06-13T13:13:49 - PROJECT_SHIFT - feat: POC for real-time updates in api
+2022-06-17T11:11:23 - PROJECT_SHIFT - refactor: Modularize API gateway in schemas.py
