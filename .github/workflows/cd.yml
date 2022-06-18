@@ -117,3 +117,4 @@
 2022-06-14T15:29:27 - PROJECT_SHIFT - docs: Update architecture diagram
 2022-06-14T15:29:32 - PROJECT_SHIFT - feat: POC for A/B testing framework in workflows
 2022-06-17T11:17:48 - PROJECT_SHIFT - test: Add integration tests for A/B testing framework
+2022-06-18T12:50:41 - PROJECT_SHIFT - refactor: Adapt product for new requirements in cd.yml
