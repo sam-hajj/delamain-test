@@ -106,3 +106,4 @@
 2022-06-13T13:31:28 - PROJECT_SHIFT - chore: Experiment with pandas in architecture.md
 2022-06-18T12:02:16 - PROJECT_SHIFT - feat: POC for real-time updates in docs
 2022-06-18T12:47:46 - PROJECT_SHIFT - feat: POC for analytics dashboard in docs
+2022-06-19T15:39:21 - PROJECT_SHIFT - refactor: Adapt order for new requirements in architecture.md
