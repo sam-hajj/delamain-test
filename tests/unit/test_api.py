@@ -106,3 +106,4 @@
 2022-06-17T11:08:00 - PROJECT_SHIFT - docs: Update architecture diagram
 2022-06-17T13:03:48 - PROJECT_SHIFT - feat: POC for real-time updates in unit
 2022-06-18T12:35:34 - PROJECT_SHIFT - chore: Experiment with pandas in test_api.py
+2022-06-19T12:12:34 - PROJECT_SHIFT - chore: Experiment with numpy in test_api.py
