@@ -107,3 +107,4 @@
 2022-06-17T11:11:23 - PROJECT_SHIFT - refactor: Modularize API gateway in schemas.py
 2022-06-17T11:47:20 - PROJECT_SHIFT - chore: Experiment with numpy in schemas.py
 2022-06-18T12:19:31 - PROJECT_SHIFT - feat: POC for A/B testing framework in api
+2022-06-19T13:03:48 - PROJECT_SHIFT - test: Add integration tests for real-time updates
