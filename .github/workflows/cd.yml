@@ -119,3 +119,4 @@
 2022-06-17T11:17:48 - PROJECT_SHIFT - test: Add integration tests for A/B testing framework
 2022-06-18T12:50:41 - PROJECT_SHIFT - refactor: Adapt product for new requirements in cd.yml
 2022-06-19T13:34:02 - PROJECT_SHIFT - refactor: Adapt auth for new requirements in cd.yml
+2022-06-20T13:56:20 - PROJECT_SHIFT - feat: POC for analytics dashboard in workflows
