@@ -107,3 +107,4 @@
 2022-06-18T12:02:16 - PROJECT_SHIFT - feat: POC for real-time updates in docs
 2022-06-18T12:47:46 - PROJECT_SHIFT - feat: POC for analytics dashboard in docs
 2022-06-19T15:39:21 - PROJECT_SHIFT - refactor: Adapt order for new requirements in architecture.md
+2022-06-20T13:13:04 - PROJECT_SHIFT - test: Add integration tests for A/B testing framework
