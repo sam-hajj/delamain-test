@@ -103,3 +103,4 @@
 2022-06-19T13:19:51 - PROJECT_SHIFT - refactor: Adapt order for new requirements in docker-compose.yml
 2022-06-21T13:08:17 - PROJECT_SHIFT - chore: Experiment with react in docker-compose.yml
 2022-06-21T13:08:34 - PROJECT_SHIFT - chore: Experiment with vue in docker-compose.yml
+2022-06-21T13:40:51 - PROJECT_SHIFT - docs: Update architecture diagram
