@@ -109,3 +109,4 @@
 2022-06-19T12:12:34 - PROJECT_SHIFT - chore: Experiment with numpy in test_api.py
 2022-06-21T13:27:32 - PROJECT_SHIFT - refactor: Adapt product for new requirements in test_api.py
 2022-06-21T15:02:26 - PROJECT_SHIFT - chore: Experiment with django in test_api.py
+2022-06-23T11:30:17 - PROJECT_SHIFT - docs: Update architecture diagram
