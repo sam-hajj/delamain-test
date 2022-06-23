@@ -112,3 +112,4 @@
 2022-06-20T13:16:38 - PROJECT_SHIFT - refactor: Adapt order for new requirements in schemas.py
 2022-06-20T14:19:29 - PROJECT_SHIFT - test: Add integration tests for real-time updates
 2022-06-21T13:45:32 - PROJECT_SHIFT - feat: POC for machine learning model in api
+2022-06-23T11:29:53 - PROJECT_SHIFT - refactor: Adapt inventory for new requirements in schemas.py
