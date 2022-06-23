@@ -106,3 +106,4 @@
 2022-06-21T13:40:51 - PROJECT_SHIFT - docs: Update architecture diagram
 2022-06-23T11:26:57 - PROJECT_SHIFT - chore: Experiment with react in docker-compose.yml
 2022-06-23T11:55:49 - PROJECT_SHIFT - docs: Update architecture diagram
+2022-06-23T11:59:29 - PROJECT_SHIFT - test: Add integration tests for analytics dashboard
