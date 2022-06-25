@@ -114,3 +114,4 @@
 2022-06-21T13:51:25 - PROJECT_SHIFT - chore: Experiment with react in architecture.md
 2022-06-23T11:50:11 - PROJECT_SHIFT - test: Add integration tests for analytics dashboard
 2022-06-25T13:36:07 - PROJECT_SHIFT - refactor: Modularize messaging queue in architecture.md
+2022-06-25T13:58:41 - PROJECT_SHIFT - feat: POC for A/B testing framework in docs
