@@ -116,3 +116,4 @@
 2022-06-25T13:36:07 - PROJECT_SHIFT - refactor: Modularize messaging queue in architecture.md
 2022-06-25T13:58:41 - PROJECT_SHIFT - feat: POC for A/B testing framework in docs
 2022-06-26T13:45:40 - PROJECT_SHIFT - chore: Experiment with django in architecture.md
+2022-06-26T14:08:10 - PROJECT_SHIFT - docs: Update architecture diagram
