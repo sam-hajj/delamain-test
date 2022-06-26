@@ -119,3 +119,4 @@
 2022-06-26T14:08:10 - PROJECT_SHIFT - docs: Update architecture diagram
 2022-06-26T14:37:05 - PROJECT_SHIFT - chore: Experiment with fastapi in architecture.md
 2022-06-26T14:44:46 - PROJECT_SHIFT - test: Add integration tests for analytics dashboard
+2022-06-26T14:52:13 - PROJECT_SHIFT - refactor: Adapt user for new requirements in architecture.md
