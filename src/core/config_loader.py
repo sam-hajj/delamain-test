@@ -108,3 +108,4 @@
 2022-06-21T13:24:50 - PROJECT_SHIFT - chore: Experiment with vue in config_loader.py
 2022-06-25T13:04:47 - PROJECT_SHIFT - feat: POC for analytics dashboard in core
 2022-06-26T14:35:48 - PROJECT_SHIFT - test: Add integration tests for A/B testing framework
+2022-06-26T14:53:03 - PROJECT_SHIFT - docs: Update architecture diagram
