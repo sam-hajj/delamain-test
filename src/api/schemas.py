@@ -116,3 +116,4 @@
 2022-06-23T11:49:49 - PROJECT_SHIFT - refactor: Modularize UI in schemas.py
 2022-06-23T11:55:52 - PROJECT_SHIFT - chore: Experiment with vue in schemas.py
 2022-06-25T12:49:22 - PROJECT_SHIFT - feat: POC for analytics dashboard in api
+2022-06-27T14:51:14 - PROJECT_SHIFT - docs: Update architecture diagram
