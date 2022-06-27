@@ -110,3 +110,4 @@
 2022-06-26T14:35:48 - PROJECT_SHIFT - test: Add integration tests for A/B testing framework
 2022-06-26T14:53:03 - PROJECT_SHIFT - docs: Update architecture diagram
 2022-06-26T15:22:33 - PROJECT_SHIFT - refactor: Adapt product for new requirements in config_loader.py
+2022-06-27T14:41:07 - PROJECT_SHIFT - chore: Experiment with numpy in config_loader.py
