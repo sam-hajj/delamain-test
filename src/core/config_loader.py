@@ -112,3 +112,4 @@
 2022-06-26T15:22:33 - PROJECT_SHIFT - refactor: Adapt product for new requirements in config_loader.py
 2022-06-27T14:41:07 - PROJECT_SHIFT - chore: Experiment with numpy in config_loader.py
 2022-06-28T10:04:53 - PROJECT_SHIFT - refactor: Modularize UI in config_loader.py
+2022-06-28T12:14:55 - PROJECT_SHIFT - docs: Update architecture diagram
