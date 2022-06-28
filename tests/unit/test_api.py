@@ -114,3 +114,4 @@
 2022-06-23T13:16:45 - PROJECT_SHIFT - refactor: Adapt user for new requirements in test_api.py
 2022-06-26T14:39:10 - PROJECT_SHIFT - refactor: Modularize backend in test_api.py
 2022-06-27T15:46:30 - PROJECT_SHIFT - docs: Update architecture diagram
+2022-06-28T10:52:03 - PROJECT_SHIFT - refactor: Adapt reporting for new requirements in test_api.py
