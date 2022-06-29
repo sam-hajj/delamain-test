@@ -108,3 +108,4 @@
 2022-06-23T11:55:49 - PROJECT_SHIFT - docs: Update architecture diagram
 2022-06-23T11:59:29 - PROJECT_SHIFT - test: Add integration tests for analytics dashboard
 2022-06-26T14:04:48 - PROJECT_SHIFT - chore: Experiment with fastapi in docker-compose.yml
+2022-06-29T12:46:36 - PROJECT_SHIFT - feat: POC for machine learning model in src
