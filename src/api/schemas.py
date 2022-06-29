@@ -118,3 +118,4 @@
 2022-06-25T12:49:22 - PROJECT_SHIFT - feat: POC for analytics dashboard in api
 2022-06-27T14:51:14 - PROJECT_SHIFT - docs: Update architecture diagram
 2022-06-27T14:51:35 - PROJECT_SHIFT - feat: POC for real-time updates in api
+2022-06-29T12:07:18 - PROJECT_SHIFT - feat: POC for machine learning model in api
