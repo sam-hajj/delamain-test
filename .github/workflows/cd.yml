@@ -126,3 +126,4 @@
 2022-06-27T15:52:47 - PROJECT_SHIFT - feat: POC for machine learning model in workflows
 2022-06-28T10:08:43 - PROJECT_SHIFT - docs: Update architecture diagram
 2022-06-29T12:06:38 - PROJECT_SHIFT - refactor: Adapt user for new requirements in cd.yml
+2022-07-01T10:48:05 - PROJECT_SHIFT - refactor: Modularize messaging queue in cd.yml
