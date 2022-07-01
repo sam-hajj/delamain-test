@@ -115,3 +115,4 @@
 2022-06-26T14:39:10 - PROJECT_SHIFT - refactor: Modularize backend in test_api.py
 2022-06-27T15:46:30 - PROJECT_SHIFT - docs: Update architecture diagram
 2022-06-28T10:52:03 - PROJECT_SHIFT - refactor: Adapt reporting for new requirements in test_api.py
+2022-07-01T10:12:30 - PROJECT_SHIFT - feat: POC for A/B testing framework in unit
