@@ -110,3 +110,4 @@
 2022-06-26T14:04:48 - PROJECT_SHIFT - chore: Experiment with fastapi in docker-compose.yml
 2022-06-29T12:46:36 - PROJECT_SHIFT - feat: POC for machine learning model in src
 2022-07-01T10:37:52 - PROJECT_SHIFT - chore: Experiment with react in docker-compose.yml
+2022-07-02T09:21:43 - PROJECT_SHIFT - refactor: Modularize UI in docker-compose.yml
