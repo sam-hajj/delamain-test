@@ -114,3 +114,4 @@
 2022-06-28T10:04:53 - PROJECT_SHIFT - refactor: Modularize UI in config_loader.py
 2022-06-28T12:14:55 - PROJECT_SHIFT - docs: Update architecture diagram
 2022-06-29T11:20:22 - PROJECT_SHIFT - refactor: Adapt reporting for new requirements in config_loader.py
+2022-07-02T09:44:54 - PROJECT_SHIFT - docs: Update architecture diagram
