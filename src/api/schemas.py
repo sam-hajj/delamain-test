@@ -121,3 +121,4 @@
 2022-06-29T12:07:18 - PROJECT_SHIFT - feat: POC for machine learning model in api
 2022-07-03T11:10:40 - PROJECT_SHIFT - feat: POC for A/B testing framework in api
 2022-07-03T11:38:06 - PROJECT_SHIFT - docs: Update architecture diagram
+2022-07-04T11:55:21 - PROJECT_SHIFT - feat: POC for A/B testing framework in api
