@@ -132,3 +132,4 @@
 2022-07-04T11:03:24 - PROJECT_SHIFT - test: Add integration tests for real-time updates
 2022-07-04T11:11:28 - PROJECT_SHIFT - test: Add integration tests for real-time updates
 2022-07-04T11:57:52 - PROJECT_SHIFT - chore: Experiment with requests in cd.yml
+2022-07-05T12:44:18 - PROJECT_SHIFT - feat: POC for A/B testing framework in workflows
