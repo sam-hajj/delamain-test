@@ -124,3 +124,4 @@
 2022-07-04T11:55:21 - PROJECT_SHIFT - feat: POC for A/B testing framework in api
 2022-07-05T12:00:00 - PROJECT_SHIFT - docs: Update architecture diagram
 2022-07-05T12:31:27 - PROJECT_SHIFT - refactor: Adapt reporting for new requirements in schemas.py
+2022-07-05T13:23:31 - PROJECT_SHIFT - chore: Experiment with vue in schemas.py
