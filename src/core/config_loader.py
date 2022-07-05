@@ -120,3 +120,4 @@
 2022-07-04T12:19:31 - PROJECT_SHIFT - feat: POC for analytics dashboard in core
 2022-07-05T12:10:39 - PROJECT_SHIFT - refactor: Adapt order for new requirements in config_loader.py
 2022-07-05T12:17:30 - PROJECT_SHIFT - refactor: Modularize database in config_loader.py
+2022-07-05T12:19:59 - PROJECT_SHIFT - docs: Update architecture diagram
