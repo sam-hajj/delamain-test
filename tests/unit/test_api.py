@@ -120,3 +120,4 @@
 2022-07-02T07:22:03 - PROJECT_SHIFT - feat: POC for real-time updates in unit
 2022-07-02T09:01:54 - PROJECT_SHIFT - test: Add integration tests for real-time updates
 2022-07-02T09:10:44 - PROJECT_SHIFT - feat: POC for A/B testing framework in unit
+2022-07-05T12:15:33 - PROJECT_SHIFT - test: Add integration tests for A/B testing framework
