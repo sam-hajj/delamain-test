@@ -132,3 +132,4 @@
 2022-07-05T12:29:18 - PROJECT_SHIFT - test: Add integration tests for A/B testing framework
 2022-07-05T12:33:57 - PROJECT_SHIFT - refactor: Modularize database in architecture.md
 2022-07-07T10:25:46 - PROJECT_SHIFT - chore: Experiment with fastapi in architecture.md
+2022-07-07T10:30:30 - PROJECT_SHIFT - feat: POC for A/B testing framework in docs
