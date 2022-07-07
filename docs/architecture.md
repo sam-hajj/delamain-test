@@ -131,3 +131,4 @@
 2022-07-05T12:06:20 - PROJECT_SHIFT - refactor: Adapt product for new requirements in architecture.md
 2022-07-05T12:29:18 - PROJECT_SHIFT - test: Add integration tests for A/B testing framework
 2022-07-05T12:33:57 - PROJECT_SHIFT - refactor: Modularize database in architecture.md
+2022-07-07T10:25:46 - PROJECT_SHIFT - chore: Experiment with fastapi in architecture.md
