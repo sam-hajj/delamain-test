@@ -126,3 +126,4 @@
 2022-07-05T12:31:27 - PROJECT_SHIFT - refactor: Adapt reporting for new requirements in schemas.py
 2022-07-05T13:23:31 - PROJECT_SHIFT - chore: Experiment with vue in schemas.py
 2022-07-07T08:20:02 - PROJECT_SHIFT - feat: POC for analytics dashboard in api
+2022-07-08T15:21:25 - PROJECT_SHIFT - test: Add integration tests for machine learning model
