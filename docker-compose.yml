@@ -116,3 +116,4 @@
 2022-07-08T14:50:40 - PROJECT_SHIFT - test: Add integration tests for machine learning model
 2022-07-08T16:08:38 - PROJECT_SHIFT - test: Add integration tests for machine learning model
 2022-07-13T10:55:35 - PROJECT_SHIFT - refactor: Adapt auth for new requirements in docker-compose.yml
+2022-07-13T11:14:30 - PROJECT_SHIFT - test: Add integration tests for machine learning model
