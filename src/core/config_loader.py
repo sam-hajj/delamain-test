@@ -127,3 +127,4 @@
 2022-07-08T14:16:55 - PROJECT_SHIFT - refactor: Adapt product for new requirements in config_loader.py
 2022-07-08T15:43:30 - PROJECT_SHIFT - feat: POC for real-time updates in core
 2022-07-13T10:43:53 - PROJECT_SHIFT - refactor: Modularize UI in config_loader.py
+2022-07-14T12:11:53 - PROJECT_SHIFT - docs: Update architecture diagram
