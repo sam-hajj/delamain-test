@@ -141,3 +141,4 @@
 2022-07-14T11:44:06 - PROJECT_SHIFT - chore: Experiment with react in architecture.md
 2022-07-15T11:17:46 - PROJECT_SHIFT - refactor: Modularize messaging queue in architecture.md
 2022-07-15T11:28:34 - PROJECT_SHIFT - refactor: Adapt order for new requirements in architecture.md
+2022-07-15T11:47:00 - PROJECT_SHIFT - test: Add integration tests for A/B testing framework
