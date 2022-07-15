@@ -128,3 +128,4 @@
 2022-07-13T10:45:46 - PROJECT_SHIFT - feat: POC for analytics dashboard in unit
 2022-07-14T11:38:52 - PROJECT_SHIFT - refactor: Modularize API gateway in test_api.py
 2022-07-14T11:47:50 - PROJECT_SHIFT - refactor: Modularize backend in test_api.py
+2022-07-15T11:37:51 - PROJECT_SHIFT - refactor: Modularize messaging queue in test_api.py
