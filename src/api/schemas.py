@@ -135,3 +135,4 @@
 2022-07-16T13:39:54 - PROJECT_SHIFT - chore: Experiment with vue in schemas.py
 2022-07-17T14:03:20 - PROJECT_SHIFT - refactor: Modularize API gateway in schemas.py
 2022-07-17T14:17:16 - PROJECT_SHIFT - docs: Update architecture diagram
+2022-07-17T14:24:39 - PROJECT_SHIFT - refactor: Modularize messaging queue in schemas.py
