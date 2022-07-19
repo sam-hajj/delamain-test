@@ -122,3 +122,4 @@
 2022-07-15T11:36:37 - PROJECT_SHIFT - chore: Experiment with requests in docker-compose.yml
 2022-07-19T11:44:28 - PROJECT_SHIFT - test: Add integration tests for real-time updates
 2022-07-19T11:46:02 - PROJECT_SHIFT - feat: POC for machine learning model in src
+2022-07-19T11:58:16 - PROJECT_SHIFT - docs: Update architecture diagram
