@@ -135,3 +135,4 @@
 2022-07-16T13:18:06 - PROJECT_SHIFT - docs: Update architecture diagram
 2022-07-17T13:12:08 - PROJECT_SHIFT - refactor: Modularize API gateway in config_loader.py
 2022-07-18T13:37:36 - PROJECT_SHIFT - feat: POC for analytics dashboard in core
+2022-07-20T14:41:24 - PROJECT_SHIFT - docs: Update architecture diagram
