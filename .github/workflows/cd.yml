@@ -144,3 +144,4 @@
 2022-07-20T14:45:46 - PROJECT_SHIFT - refactor: Modularize API gateway in cd.yml
 2022-07-21T12:24:51 - PROJECT_SHIFT - refactor: Adapt inventory for new requirements in cd.yml
 2022-07-21T12:39:17 - PROJECT_SHIFT - feat: POC for machine learning model in workflows
+2022-07-22T15:19:14 - PROJECT_SHIFT - test: Add integration tests for machine learning model
