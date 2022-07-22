@@ -138,3 +138,4 @@
 2022-07-21T12:29:10 - PROJECT_SHIFT - feat: POC for analytics dashboard in unit
 2022-07-21T12:30:33 - PROJECT_SHIFT - test: Add integration tests for A/B testing framework
 2022-07-21T12:36:31 - PROJECT_SHIFT - docs: Update architecture diagram
+2022-07-22T15:03:09 - PROJECT_SHIFT - refactor: Modularize backend in test_api.py
