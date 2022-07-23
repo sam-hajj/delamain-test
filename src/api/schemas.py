@@ -142,3 +142,4 @@
 2022-07-21T12:18:40 - PROJECT_SHIFT - chore: Experiment with django in schemas.py
 2022-07-21T12:23:17 - PROJECT_SHIFT - refactor: Modularize database in schemas.py
 2022-07-22T15:08:02 - PROJECT_SHIFT - feat: POC for machine learning model in api
+2022-07-23T14:05:00 - PROJECT_SHIFT - test: Add integration tests for machine learning model
