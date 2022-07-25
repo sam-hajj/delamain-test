@@ -146,3 +146,4 @@
 2022-07-21T12:39:17 - PROJECT_SHIFT - feat: POC for machine learning model in workflows
 2022-07-22T15:19:14 - PROJECT_SHIFT - test: Add integration tests for machine learning model
 2022-07-22T15:42:58 - PROJECT_SHIFT - chore: Experiment with pandas in cd.yml
+2022-07-25T11:41:45 - PROJECT_SHIFT - refactor: Adapt product for new requirements in cd.yml
