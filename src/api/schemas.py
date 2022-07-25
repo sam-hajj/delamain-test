@@ -144,3 +144,4 @@
 2022-07-22T15:08:02 - PROJECT_SHIFT - feat: POC for machine learning model in api
 2022-07-23T14:05:00 - PROJECT_SHIFT - test: Add integration tests for machine learning model
 2022-07-25T13:41:44 - PROJECT_SHIFT - docs: Update architecture diagram
+2022-07-25T13:45:42 - PROJECT_SHIFT - docs: Update architecture diagram
