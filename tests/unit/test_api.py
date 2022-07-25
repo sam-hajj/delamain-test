@@ -140,3 +140,4 @@
 2022-07-21T12:36:31 - PROJECT_SHIFT - docs: Update architecture diagram
 2022-07-22T15:03:09 - PROJECT_SHIFT - refactor: Modularize backend in test_api.py
 2022-07-23T14:38:32 - PROJECT_SHIFT - refactor: Modularize database in test_api.py
+2022-07-25T13:49:34 - PROJECT_SHIFT - refactor: Adapt product for new requirements in test_api.py
