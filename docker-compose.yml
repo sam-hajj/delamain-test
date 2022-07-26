@@ -130,3 +130,4 @@
 2022-07-23T14:27:14 - PROJECT_SHIFT - feat: POC for analytics dashboard in src
 2022-07-25T13:18:31 - PROJECT_SHIFT - chore: Experiment with fastapi in docker-compose.yml
 2022-07-26T09:00:05 - PROJECT_SHIFT - docs: Update architecture diagram
+2022-07-26T11:50:27 - PROJECT_SHIFT - refactor: Modularize database in docker-compose.yml
