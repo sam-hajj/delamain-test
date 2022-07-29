@@ -154,3 +154,4 @@
 2022-07-29T13:12:53 - PROJECT_SHIFT - refactor: Adapt user for new requirements in architecture.md
 2022-07-29T13:31:34 - PROJECT_SHIFT - docs: Update architecture diagram
 2022-07-29T13:44:50 - PROJECT_SHIFT - refactor: Adapt order for new requirements in architecture.md
+2022-07-29T13:50:49 - PROJECT_SHIFT - test: Add integration tests for A/B testing framework
