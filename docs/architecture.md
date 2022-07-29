@@ -153,3 +153,4 @@
 2022-07-29T13:08:21 - PROJECT_SHIFT - feat: POC for A/B testing framework in docs
 2022-07-29T13:12:53 - PROJECT_SHIFT - refactor: Adapt user for new requirements in architecture.md
 2022-07-29T13:31:34 - PROJECT_SHIFT - docs: Update architecture diagram
+2022-07-29T13:44:50 - PROJECT_SHIFT - refactor: Adapt order for new requirements in architecture.md
