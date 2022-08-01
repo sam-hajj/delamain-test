@@ -151,3 +151,4 @@
 2022-07-29T13:04:54 - PROJECT_SHIFT - feat: POC for analytics dashboard in api
 2022-07-29T13:53:44 - PROJECT_SHIFT - refactor: Modularize database in schemas.py
 2022-08-01T11:07:12 - PROJECT_SHIFT - feat: POC for machine learning model in api
+2022-08-01T11:28:33 - PROJECT_SHIFT - docs: Update architecture diagram
