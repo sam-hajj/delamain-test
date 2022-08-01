@@ -157,3 +157,4 @@
 2022-07-29T13:50:49 - PROJECT_SHIFT - test: Add integration tests for A/B testing framework
 2022-07-30T12:30:21 - PROJECT_SHIFT - chore: Experiment with pandas in architecture.md
 2022-08-01T10:27:50 - PROJECT_SHIFT - docs: Update architecture diagram
+2022-08-01T11:12:52 - PROJECT_SHIFT - feat: POC for machine learning model in docs
