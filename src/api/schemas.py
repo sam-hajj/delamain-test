@@ -150,3 +150,4 @@
 2022-07-29T13:02:06 - PROJECT_SHIFT - refactor: Adapt product for new requirements in schemas.py
 2022-07-29T13:04:54 - PROJECT_SHIFT - feat: POC for analytics dashboard in api
 2022-07-29T13:53:44 - PROJECT_SHIFT - refactor: Modularize database in schemas.py
+2022-08-01T11:07:12 - PROJECT_SHIFT - feat: POC for machine learning model in api
