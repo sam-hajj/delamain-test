@@ -163,3 +163,4 @@
 2022-08-01T11:42:15 - PROJECT_SHIFT - chore: Experiment with pandas in architecture.md
 2022-08-01T11:46:23 - PROJECT_SHIFT - chore: Experiment with react in architecture.md
 2022-08-02T12:35:46 - PROJECT_SHIFT - refactor: Modularize backend in architecture.md
+2022-08-02T15:06:50 - PROJECT_SHIFT - refactor: Modularize UI in architecture.md
