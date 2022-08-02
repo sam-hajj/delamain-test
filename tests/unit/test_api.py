@@ -143,3 +143,4 @@
 2022-07-25T13:49:34 - PROJECT_SHIFT - refactor: Adapt product for new requirements in test_api.py
 2022-07-25T13:58:05 - PROJECT_SHIFT - chore: Experiment with pandas in test_api.py
 2022-07-30T12:26:06 - PROJECT_SHIFT - refactor: Modularize messaging queue in test_api.py
+2022-08-02T13:38:21 - PROJECT_SHIFT - refactor: Adapt inventory for new requirements in test_api.py
