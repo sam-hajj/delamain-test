@@ -136,3 +136,4 @@
 2022-08-02T13:05:44 - PROJECT_SHIFT - refactor: Adapt reporting for new requirements in docker-compose.yml
 2022-08-02T13:41:32 - PROJECT_SHIFT - refactor: Adapt order for new requirements in docker-compose.yml
 2022-08-02T13:51:50 - PROJECT_SHIFT - docs: Update architecture diagram
+2022-08-03T12:00:05 - PROJECT_SHIFT - refactor: Modularize messaging queue in docker-compose.yml
