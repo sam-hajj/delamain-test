@@ -154,3 +154,4 @@
 2022-08-01T11:28:33 - PROJECT_SHIFT - docs: Update architecture diagram
 2022-08-01T11:37:07 - PROJECT_SHIFT - refactor: Adapt reporting for new requirements in schemas.py
 2022-08-01T12:55:47 - PROJECT_SHIFT - refactor: Adapt auth for new requirements in schemas.py
+2022-08-03T12:25:20 - PROJECT_SHIFT - docs: Update architecture diagram
