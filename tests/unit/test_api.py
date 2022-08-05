@@ -146,3 +146,4 @@
 2022-08-02T13:38:21 - PROJECT_SHIFT - refactor: Adapt inventory for new requirements in test_api.py
 2022-08-03T12:11:23 - PROJECT_SHIFT - docs: Update architecture diagram
 2022-08-03T12:16:11 - PROJECT_SHIFT - chore: Experiment with pandas in test_api.py
+2022-08-05T14:47:32 - PROJECT_SHIFT - feat: POC for real-time updates in unit
