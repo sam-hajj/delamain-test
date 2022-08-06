@@ -166,3 +166,4 @@
 2022-08-02T15:06:50 - PROJECT_SHIFT - refactor: Modularize UI in architecture.md
 2022-08-03T12:23:49 - PROJECT_SHIFT - chore: Experiment with fastapi in architecture.md
 2022-08-04T13:27:09 - PROJECT_SHIFT - refactor: Adapt reporting for new requirements in architecture.md
+2022-08-06T14:27:39 - PROJECT_SHIFT - docs: Update architecture diagram
