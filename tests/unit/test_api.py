@@ -150,3 +150,4 @@
 2022-08-05T14:48:16 - PROJECT_SHIFT - chore: Experiment with numpy in test_api.py
 2022-08-05T15:40:17 - PROJECT_SHIFT - test: Add integration tests for A/B testing framework
 2022-08-06T14:12:51 - PROJECT_SHIFT - refactor: Modularize API gateway in test_api.py
+2022-08-06T15:34:34 - PROJECT_SHIFT - chore: Experiment with fastapi in test_api.py
