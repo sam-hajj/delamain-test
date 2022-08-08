@@ -190,3 +190,4 @@
 2022-04-14T12:19:07 - SUSTAINED_PEAK - feat: Implement payments endpoint in test_endpoints.py
 2022-04-14T13:09:05 - SUSTAINED_PEAK - fix: Resolve bug #680 in test_endpoints.py
 2022-04-14T15:47:45 - SUSTAINED_PEAK - fix!: Critical patch for vulnerability in test_endpoints.py
+2022-08-08T13:21:54 - SUSTAINED_PEAK - fix: Resolve bug #496 in test_endpoints.py
