@@ -194,3 +194,4 @@
 2022-08-09T14:03:44 - SUSTAINED_PEAK - test: Increase coverage for reporting tests
 2022-08-09T14:05:40 - SUSTAINED_PEAK - test: Increase coverage for auth tests
 2022-08-09T14:33:07 - SUSTAINED_PEAK - feat!: Major feature integration: search affecting integration
+2022-08-10T13:29:42 - SUSTAINED_PEAK - fix!: Critical patch for vulnerability in test_endpoints.py
