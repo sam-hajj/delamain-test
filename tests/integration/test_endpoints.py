@@ -202,3 +202,4 @@
 2022-08-12T13:17:17 - SUSTAINED_PEAK - test: Increase coverage for reporting tests
 2022-08-12T13:29:51 - SUSTAINED_PEAK - feat: Implement login endpoint in test_endpoints.py
 2022-08-12T13:41:36 - SUSTAINED_PEAK - feat: Implement data processing endpoint in test_endpoints.py
+2022-08-13T11:10:21 - SUSTAINED_PEAK - fix: Resolve bug #953 in test_endpoints.py
