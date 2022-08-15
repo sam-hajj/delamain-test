@@ -204,3 +204,4 @@
 2022-08-12T13:41:36 - SUSTAINED_PEAK - feat: Implement data processing endpoint in test_endpoints.py
 2022-08-13T11:10:21 - SUSTAINED_PEAK - fix: Resolve bug #953 in test_endpoints.py
 2022-08-15T16:04:37 - SUSTAINED_PEAK - test: Increase coverage for user tests
+2022-08-15T16:13:15 - SUSTAINED_PEAK - test: Increase coverage for inventory tests
