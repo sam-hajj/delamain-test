@@ -206,3 +206,4 @@
 2022-08-15T16:04:37 - SUSTAINED_PEAK - test: Increase coverage for user tests
 2022-08-15T16:13:15 - SUSTAINED_PEAK - test: Increase coverage for inventory tests
 2022-08-15T16:14:58 - SUSTAINED_PEAK - fix: Resolve bug #593 in test_endpoints.py
+2022-08-16T12:24:57 - SUSTAINED_PEAK - refactor: Optimize sorting in test_endpoints.py
