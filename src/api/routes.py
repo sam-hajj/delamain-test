@@ -178,3 +178,4 @@
 2022-08-15T16:16:28 - SUSTAINED_PEAK - fix: Resolve bug #422 in routes.py
 2022-08-15T16:19:52 - SUSTAINED_PEAK - feat: Implement login endpoint in routes.py
 2022-08-16T11:03:23 - SUSTAINED_PEAK - feat!: Major feature integration: search affecting api
+2022-08-16T12:05:47 - SUSTAINED_PEAK - fix: Resolve bug #574 in routes.py
