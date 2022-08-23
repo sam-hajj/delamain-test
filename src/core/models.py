@@ -334,3 +334,4 @@
 2022-08-16T12:10:51 - SUSTAINED_PEAK - feat: Implement notifications endpoint in models.py
 2022-08-16T12:43:26 - SUSTAINED_PEAK - test: Increase coverage for user tests
 2022-08-17T15:18:03 - SUSTAINED_PEAK - fix!: Critical patch for vulnerability in models.py
+2022-08-23T16:51:18 - SUSTAINED_PEAK - feat: Implement search endpoint in models.py
