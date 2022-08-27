@@ -196,3 +196,4 @@
 2022-08-25T13:13:44 - SUSTAINED_PEAK - feat!: Major feature integration: data processing affecting api
 2022-08-26T14:18:12 - SUSTAINED_PEAK - feat!: Major feature integration: profile affecting api
 2022-08-26T15:30:50 - SUSTAINED_PEAK - test: Increase coverage for auth tests
+2022-08-27T09:20:10 - SUSTAINED_PEAK - fix: Resolve bug #973 in auth.py
