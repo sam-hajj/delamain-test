@@ -180,3 +180,4 @@
 2022-08-27T10:20:00 - SUSTAINED_PEAK - fix: Resolve bug #248 in ci.yml
 2022-08-30T11:16:28 - SUSTAINED_PEAK - feat!: Major feature integration: login affecting workflows
 2022-08-30T11:22:34 - SUSTAINED_PEAK - test: Increase coverage for user tests
+2022-08-31T12:06:31 - SUSTAINED_PEAK - perf: Improve query performance in ci.yml
