@@ -224,3 +224,4 @@
 2022-09-03T11:41:48 - SUSTAINED_PEAK - test: Increase coverage for inventory tests
 2022-09-03T12:57:56 - SUSTAINED_PEAK - feat!: Major feature integration: search affecting integration
 2022-09-04T12:39:23 - SUSTAINED_PEAK - feat: Implement caching endpoint in test_endpoints.py
+2022-09-05T13:00:28 - SUSTAINED_PEAK - perf: Improve query performance in test_endpoints.py
