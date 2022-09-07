@@ -233,3 +233,4 @@
 2022-09-07T14:36:30 - SUSTAINED_PEAK - test: Increase coverage for product tests
 2022-09-07T15:19:16 - SUSTAINED_PEAK - feat: Implement search endpoint in test_endpoints.py
 2022-09-07T15:21:16 - SUSTAINED_PEAK - ci: Configure deployment pipeline in test_endpoints.py
+2022-09-07T15:58:22 - SUSTAINED_PEAK - test: Increase coverage for inventory tests
