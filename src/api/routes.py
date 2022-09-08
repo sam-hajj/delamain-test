@@ -208,3 +208,4 @@
 2022-09-07T15:30:01 - SUSTAINED_PEAK - perf: Improve query performance in routes.py
 2022-09-08T12:36:27 - SUSTAINED_PEAK - feat!: Major feature integration: caching affecting api
 2022-09-08T13:17:24 - SUSTAINED_PEAK - feat!: Major feature integration: notifications affecting api
+2022-09-08T13:22:36 - SUSTAINED_PEAK - refactor: Optimize parsing in routes.py
