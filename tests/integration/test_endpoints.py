@@ -236,3 +236,4 @@
 2022-09-07T15:58:22 - SUSTAINED_PEAK - test: Increase coverage for inventory tests
 2022-09-08T13:16:36 - SUSTAINED_PEAK - perf: Improve query performance in test_endpoints.py
 2022-09-09T12:07:00 - SUSTAINED_PEAK - fix: Resolve bug #524 in test_endpoints.py
+2022-09-09T12:48:55 - SUSTAINED_PEAK - feat: Implement notifications endpoint in test_endpoints.py
