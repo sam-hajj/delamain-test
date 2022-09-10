@@ -239,3 +239,4 @@
 2022-09-09T12:48:55 - SUSTAINED_PEAK - feat: Implement notifications endpoint in test_endpoints.py
 2022-09-10T11:11:07 - SUSTAINED_PEAK - feat!: Major feature integration: profile affecting integration
 2022-09-10T11:42:22 - SUSTAINED_PEAK - test: Increase coverage for inventory tests
+2022-09-10T12:01:08 - SUSTAINED_PEAK - refactor: Optimize sorting in test_endpoints.py
