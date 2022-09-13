@@ -243,3 +243,4 @@
 2022-09-10T12:09:06 - SUSTAINED_PEAK - ci: Configure deployment pipeline in test_endpoints.py
 2022-09-12T12:38:35 - SUSTAINED_PEAK - feat: Implement login endpoint in test_endpoints.py
 2022-09-13T13:21:17 - SUSTAINED_PEAK - ci: Configure deployment pipeline in test_endpoints.py
+2022-09-13T13:36:03 - SUSTAINED_PEAK - perf: Improve query performance in test_endpoints.py
