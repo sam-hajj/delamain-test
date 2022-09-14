@@ -351,3 +351,4 @@
 2022-09-13T13:39:43 - SUSTAINED_PEAK - feat!: Major feature integration: caching affecting core
 2022-09-13T13:39:57 - SUSTAINED_PEAK - feat: Implement caching endpoint in models.py
 2022-09-13T13:52:48 - SUSTAINED_PEAK - feat!: Major feature integration: notifications affecting core
+2022-09-14T13:49:51 - SUSTAINED_PEAK - fix!: Critical patch for vulnerability in models.py
