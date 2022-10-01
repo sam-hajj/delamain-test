@@ -11,3 +11,4 @@
 2022-09-30T09:49:36 - MAINTENANCE_LOW - chore: Update dependencies (pip)
 2022-09-30T09:50:03 - MAINTENANCE_LOW - style: Formatting adjustments in test_workflow.py
 2022-09-30T10:35:38 - MAINTENANCE_LOW - docs: Minor clarification in test_workflow.py
+2022-10-01T14:49:35 - MAINTENANCE_LOW - ci: Tweak workflow triggers in test_workflow.py
