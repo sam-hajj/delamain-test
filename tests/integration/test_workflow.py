@@ -18,3 +18,4 @@
 2022-10-04T12:39:59 - MAINTENANCE_LOW - fix: Small bugfix in test_workflow.py
 2022-10-04T13:48:35 - MAINTENANCE_LOW - chore: Update dependencies (pip)
 2022-10-05T12:05:08 - MAINTENANCE_LOW - fix: Small bugfix in test_workflow.py
+2022-10-05T12:20:05 - MAINTENANCE_LOW - ci: Tweak workflow triggers in test_workflow.py
