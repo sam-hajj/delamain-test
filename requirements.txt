@@ -109,3 +109,4 @@
 2022-10-01T14:38:30 - MAINTENANCE_LOW - chore: Update dependencies (maven)
 2022-10-03T13:44:18 - MAINTENANCE_LOW - chore: Update dependencies (npm)
 2022-10-05T12:26:49 - MAINTENANCE_LOW - style: Formatting adjustments in requirements.txt
+2022-10-05T12:28:19 - MAINTENANCE_LOW - ci: Tweak workflow triggers in requirements.txt
