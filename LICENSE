@@ -72,3 +72,4 @@
 2022-10-10T12:50:10 - MAINTENANCE_LOW - chore: Rotate logs or cleanup artifacts
 2022-10-11T14:41:02 - MAINTENANCE_LOW - docs: Minor clarification in LICENSE
 2022-10-11T14:55:18 - MAINTENANCE_LOW - docs: Minor clarification in LICENSE
+2022-10-12T14:16:33 - MAINTENANCE_LOW - ci: Tweak workflow triggers in LICENSE
