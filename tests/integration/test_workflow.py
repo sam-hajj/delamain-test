@@ -30,3 +30,4 @@
 2022-10-12T13:28:50 - MAINTENANCE_LOW - chore: Update dependencies (yarn)
 2022-10-12T13:31:10 - MAINTENANCE_LOW - docs: Minor clarification in test_workflow.py
 2022-10-13T13:31:21 - MAINTENANCE_LOW - docs: Minor clarification in test_workflow.py
+2022-10-14T13:16:39 - MAINTENANCE_LOW - fix: Small bugfix in test_workflow.py
