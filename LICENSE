@@ -86,3 +86,4 @@
 2022-10-17T10:08:52 - MAINTENANCE_LOW - chore: Rotate logs or cleanup artifacts
 2022-10-17T10:43:51 - MAINTENANCE_LOW - fix: Small bugfix in LICENSE
 2022-10-19T13:11:35 - MAINTENANCE_LOW - chore: Update dependencies (gradle)
+2022-10-19T14:14:11 - MAINTENANCE_LOW - ci: Tweak workflow triggers in LICENSE
