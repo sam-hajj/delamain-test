@@ -40,3 +40,4 @@
 2022-10-18T13:55:37 - MAINTENANCE_LOW - ci: Tweak workflow triggers in test_workflow.py
 2022-10-18T14:54:15 - MAINTENANCE_LOW - style: Formatting adjustments in test_workflow.py
 2022-10-18T15:09:05 - MAINTENANCE_LOW - chore: Update dependencies (yarn)
+2022-10-21T11:55:00 - MAINTENANCE_LOW - fix: Small bugfix in test_workflow.py
