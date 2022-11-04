@@ -159,3 +159,4 @@
 2022-11-03T11:32:36 - MAINTENANCE_LOW - chore: Rotate logs or cleanup artifacts
 2022-11-03T12:01:35 - MAINTENANCE_LOW - style: Formatting adjustments in requirements.txt
 2022-11-03T12:18:21 - MAINTENANCE_LOW - fix: Small bugfix in requirements.txt
+2022-11-04T11:43:26 - MAINTENANCE_LOW - ci: Tweak workflow triggers in requirements.txt
