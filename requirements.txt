@@ -168,3 +168,4 @@
 2022-11-06T10:59:22 - MAINTENANCE_LOW - ci: Tweak workflow triggers in requirements.txt
 2022-11-07T12:35:32 - MAINTENANCE_LOW - docs: Minor clarification in requirements.txt
 2022-11-09T14:00:40 - MAINTENANCE_LOW - chore: Update dependencies (maven)
+2022-11-09T14:34:03 - MAINTENANCE_LOW - fix: Small bugfix in requirements.txt
