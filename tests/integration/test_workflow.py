@@ -73,3 +73,4 @@
 2022-11-09T14:31:21 - MAINTENANCE_LOW - docs: Minor clarification in test_workflow.py
 2022-11-09T14:53:47 - MAINTENANCE_LOW - chore: Rotate logs or cleanup artifacts
 2022-11-10T12:37:15 - MAINTENANCE_LOW - chore: Rotate logs or cleanup artifacts
+2022-11-14T13:31:19 - MAINTENANCE_LOW - ci: Tweak workflow triggers in test_workflow.py
