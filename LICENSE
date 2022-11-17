@@ -140,3 +140,4 @@
 2022-11-16T09:10:13 - MAINTENANCE_LOW - fix: Small bugfix in LICENSE
 2022-11-16T09:46:29 - MAINTENANCE_LOW - fix: Small bugfix in LICENSE
 2022-11-17T10:44:24 - MAINTENANCE_LOW - chore: Update dependencies (pip)
+2022-11-17T10:51:59 - MAINTENANCE_LOW - ci: Tweak workflow triggers in LICENSE
