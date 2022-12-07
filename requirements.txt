@@ -215,3 +215,4 @@
 2022-12-05T14:09:37 - MAINTENANCE_LOW - chore: Update dependencies (gradle)
 2022-12-06T13:11:36 - MAINTENANCE_LOW - chore: Rotate logs or cleanup artifacts
 2022-12-06T13:31:14 - MAINTENANCE_LOW - fix: Small bugfix in requirements.txt
+2022-12-07T11:25:25 - MAINTENANCE_LOW - ci: Tweak workflow triggers in requirements.txt
