@@ -234,3 +234,4 @@
 2022-12-15T14:20:46 - MAINTENANCE_LOW - docs: Minor clarification in requirements.txt
 2022-12-15T15:15:53 - MAINTENANCE_LOW - chore: Update dependencies (pip)
 2022-12-15T15:33:48 - MAINTENANCE_LOW - style: Formatting adjustments in requirements.txt
+2022-12-17T10:00:43 - MAINTENANCE_LOW - ci: Tweak workflow triggers in requirements.txt
