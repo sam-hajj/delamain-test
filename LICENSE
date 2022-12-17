@@ -180,3 +180,4 @@
 2022-12-15T14:14:46 - MAINTENANCE_LOW - ci: Tweak workflow triggers in LICENSE
 2022-12-17T11:40:46 - MAINTENANCE_LOW - style: Formatting adjustments in LICENSE
 2022-12-17T11:52:33 - MAINTENANCE_LOW - chore: Update dependencies (npm)
+2022-12-17T12:38:35 - MAINTENANCE_LOW - fix: Small bugfix in LICENSE
