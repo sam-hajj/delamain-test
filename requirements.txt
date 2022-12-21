@@ -248,3 +248,4 @@
 2022-12-20T12:07:10 - MAINTENANCE_LOW - chore: Update dependencies (gradle)
 2022-12-20T14:31:59 - MAINTENANCE_LOW - fix: Small bugfix in requirements.txt
 2022-12-20T14:48:43 - MAINTENANCE_LOW - chore: Update dependencies (maven)
+2022-12-21T12:01:03 - MAINTENANCE_LOW - docs: Minor clarification in requirements.txt
