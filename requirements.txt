@@ -251,3 +251,4 @@
 2022-12-21T12:01:03 - MAINTENANCE_LOW - docs: Minor clarification in requirements.txt
 2022-12-21T13:43:29 - MAINTENANCE_LOW - fix: Small bugfix in requirements.txt
 2022-12-21T14:53:56 - MAINTENANCE_LOW - ci: Tweak workflow triggers in requirements.txt
+2022-12-23T10:25:26 - MAINTENANCE_LOW - docs: Minor clarification in requirements.txt
