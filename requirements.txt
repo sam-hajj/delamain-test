@@ -266,3 +266,4 @@
 2023-01-04T12:05:53 - MAINTENANCE_LOW - docs: Minor clarification in requirements.txt
 2023-01-04T13:37:03 - MAINTENANCE_LOW - style: Formatting adjustments in requirements.txt
 2023-01-04T14:05:45 - MAINTENANCE_LOW - chore: Update dependencies (maven)
+2023-01-05T15:18:42 - MAINTENANCE_LOW - fix: Small bugfix in requirements.txt
