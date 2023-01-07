@@ -149,3 +149,4 @@
 2023-01-04T13:13:24 - MAINTENANCE_LOW - chore: Update dependencies (maven)
 2023-01-05T14:05:43 - MAINTENANCE_LOW - ci: Tweak workflow triggers in test_workflow.py
 2023-01-05T15:59:09 - MAINTENANCE_LOW - style: Formatting adjustments in test_workflow.py
+2023-01-07T14:54:30 - MAINTENANCE_LOW - ci: Tweak workflow triggers in test_workflow.py
