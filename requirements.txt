@@ -268,3 +268,4 @@
 2023-01-04T14:05:45 - MAINTENANCE_LOW - chore: Update dependencies (maven)
 2023-01-05T15:18:42 - MAINTENANCE_LOW - fix: Small bugfix in requirements.txt
 2023-01-06T10:05:30 - MAINTENANCE_LOW - ci: Tweak workflow triggers in requirements.txt
+2023-01-08T14:12:54 - MAINTENANCE_LOW - docs: Minor clarification in requirements.txt
