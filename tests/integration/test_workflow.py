@@ -172,3 +172,4 @@
 2023-01-19T12:03:46 - MAINTENANCE_LOW - chore: Rotate logs or cleanup artifacts
 2023-01-19T12:16:43 - MAINTENANCE_LOW - fix: Small bugfix in test_workflow.py
 2023-01-20T14:06:46 - MAINTENANCE_LOW - chore: Update dependencies (npm)
+2023-01-20T14:13:53 - MAINTENANCE_LOW - ci: Tweak workflow triggers in test_workflow.py
