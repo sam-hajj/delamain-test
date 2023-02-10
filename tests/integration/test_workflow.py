@@ -201,3 +201,4 @@
 2023-02-09T13:07:07 - MAINTENANCE_LOW - ci: Tweak workflow triggers in test_workflow.py
 2023-02-09T13:27:26 - MAINTENANCE_LOW - style: Formatting adjustments in test_workflow.py
 2023-02-09T14:12:31 - MAINTENANCE_LOW - style: Formatting adjustments in test_workflow.py
+2023-02-10T14:23:08 - MAINTENANCE_LOW - ci: Tweak workflow triggers in test_workflow.py
