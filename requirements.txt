@@ -329,3 +329,4 @@
 2023-02-10T14:26:48 - MAINTENANCE_LOW - ci: Tweak workflow triggers in requirements.txt
 2023-02-10T14:38:54 - MAINTENANCE_LOW - style: Formatting adjustments in requirements.txt
 2023-02-10T14:58:15 - MAINTENANCE_LOW - fix: Small bugfix in requirements.txt
+2023-02-13T12:07:25 - MAINTENANCE_LOW - style: Formatting adjustments in requirements.txt
