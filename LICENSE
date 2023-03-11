@@ -289,3 +289,4 @@
 2023-03-10T11:44:30 - MAINTENANCE_LOW - chore: Update dependencies (npm)
 2023-03-11T12:11:13 - MAINTENANCE_LOW - style: Formatting adjustments in LICENSE
 2023-03-11T13:56:02 - MAINTENANCE_LOW - chore: Update dependencies (maven)
+2023-03-11T14:55:50 - MAINTENANCE_LOW - fix: Small bugfix in LICENSE
