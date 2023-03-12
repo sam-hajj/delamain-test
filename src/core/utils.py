@@ -184,3 +184,4 @@
 2021-12-21T13:17:26 - RAMPING_UP - feat: Add core logic for profile service in utils.py
 2021-12-23T11:51:07 - RAMPING_UP - test: Add initial unit tests for utils.py
 2023-03-12T10:02:27 - RAMPING_UP - refactor: Improve auth structure in core
+2023-03-12T10:27:28 - RAMPING_UP - feat: Add core logic for profile service in utils.py
