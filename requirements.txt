@@ -373,3 +373,4 @@
 2023-03-11T16:34:06 - MAINTENANCE_LOW - chore: Update dependencies (yarn)
 2023-03-12T10:24:21 - RAMPING_UP - feat: Add core logic for notifications service in requirements.txt
 2023-03-15T11:04:57 - RAMPING_UP - feat: Add core logic for profile service in requirements.txt
+2023-03-15T11:19:54 - RAMPING_UP - test: Add initial unit tests for requirements.txt
