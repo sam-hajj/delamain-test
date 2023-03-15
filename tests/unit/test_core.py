@@ -119,3 +119,4 @@
 2021-12-21T13:39:25 - RAMPING_UP - feat: Implement basic caching in test_core.py
 2021-12-23T11:17:50 - RAMPING_UP - feat: Implement basic payments in test_core.py
 2023-03-15T09:54:39 - RAMPING_UP - refactor: Improve order structure in unit
+2023-03-15T11:48:42 - RAMPING_UP - feat: Implement basic profile in test_core.py
