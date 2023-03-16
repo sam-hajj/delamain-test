@@ -120,3 +120,4 @@
 2021-12-23T11:17:50 - RAMPING_UP - feat: Implement basic payments in test_core.py
 2023-03-15T09:54:39 - RAMPING_UP - refactor: Improve order structure in unit
 2023-03-15T11:48:42 - RAMPING_UP - feat: Implement basic profile in test_core.py
+2023-03-16T15:35:40 - RAMPING_UP - docs: Detail setup instructions
