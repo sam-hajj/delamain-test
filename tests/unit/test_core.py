@@ -122,3 +122,4 @@
 2023-03-15T11:48:42 - RAMPING_UP - feat: Implement basic profile in test_core.py
 2023-03-16T15:35:40 - RAMPING_UP - docs: Detail setup instructions
 2023-03-17T12:06:18 - RAMPING_UP - test: Add initial unit tests for test_core.py
+2023-03-21T11:14:31 - RAMPING_UP - feat: Implement basic search in test_core.py
