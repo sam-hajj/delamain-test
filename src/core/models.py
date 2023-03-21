@@ -358,3 +358,4 @@
 2023-03-16T14:38:06 - RAMPING_UP - feat: Add core logic for caching service in models.py
 2023-03-17T12:19:52 - RAMPING_UP - refactor: Improve user structure in core
 2023-03-18T12:05:07 - RAMPING_UP - chore: Update requirements.txt
+2023-03-21T11:59:23 - RAMPING_UP - test: Add initial unit tests for models.py
