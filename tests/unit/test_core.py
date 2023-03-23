@@ -124,3 +124,4 @@
 2023-03-17T12:06:18 - RAMPING_UP - test: Add initial unit tests for test_core.py
 2023-03-21T11:14:31 - RAMPING_UP - feat: Implement basic search in test_core.py
 2023-03-21T11:54:05 - RAMPING_UP - feat: Implement basic search in test_core.py
+2023-03-23T14:18:05 - RAMPING_UP - docs: Detail setup instructions
