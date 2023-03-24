@@ -125,3 +125,4 @@
 2023-03-21T11:14:31 - RAMPING_UP - feat: Implement basic search in test_core.py
 2023-03-21T11:54:05 - RAMPING_UP - feat: Implement basic search in test_core.py
 2023-03-23T14:18:05 - RAMPING_UP - docs: Detail setup instructions
+2023-03-24T11:33:01 - RAMPING_UP - docs: Detail setup instructions
