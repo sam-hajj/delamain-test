@@ -121,3 +121,4 @@
 2023-03-23T14:49:09 - RAMPING_UP - test: Add initial unit tests for server.py
 2023-03-24T11:16:14 - RAMPING_UP - feat: Add core logic for login service in server.py
 2023-03-26T11:41:04 - RAMPING_UP - test: Add initial unit tests for server.py
+2023-03-28T12:35:01 - RAMPING_UP - docs: Detail setup instructions
