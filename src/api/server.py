@@ -123,3 +123,4 @@
 2023-03-26T11:41:04 - RAMPING_UP - test: Add initial unit tests for server.py
 2023-03-28T12:35:01 - RAMPING_UP - docs: Detail setup instructions
 2023-04-01T09:52:28 - RAMPING_UP - docs: Detail setup instructions
+2023-04-01T10:37:14 - RAMPING_UP - refactor: Improve reporting structure in api
