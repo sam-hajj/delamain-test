@@ -133,3 +133,4 @@
 2023-03-28T12:08:47 - RAMPING_UP - test: Add initial unit tests for CONTRIBUTING.md
 2023-03-28T12:24:38 - RAMPING_UP - test: Add initial unit tests for CONTRIBUTING.md
 2023-04-04T12:59:20 - RAMPING_UP - chore: Update requirements.txt
+2023-04-04T13:28:41 - RAMPING_UP - feat: Add core logic for search service in CONTRIBUTING.md
