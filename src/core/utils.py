@@ -195,3 +195,4 @@
 2023-04-02T10:49:50 - RAMPING_UP - feat: Implement basic profile in utils.py
 2023-04-02T10:50:36 - RAMPING_UP - refactor: Improve user structure in core
 2023-04-06T11:18:36 - RAMPING_UP - docs: Detail setup instructions
+2023-04-07T12:49:41 - RAMPING_UP - chore: Update requirements.txt
