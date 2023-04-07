@@ -128,3 +128,4 @@
 2023-04-04T12:55:24 - RAMPING_UP - docs: Detail setup instructions
 2023-04-04T13:58:41 - RAMPING_UP - chore: Update requirements.txt
 2023-04-06T11:09:53 - RAMPING_UP - chore: Update requirements.txt
+2023-04-07T12:26:10 - RAMPING_UP - refactor: Improve user structure in api
