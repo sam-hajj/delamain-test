@@ -197,3 +197,4 @@
 2023-04-06T11:18:36 - RAMPING_UP - docs: Detail setup instructions
 2023-04-07T12:49:41 - RAMPING_UP - chore: Update requirements.txt
 2023-04-07T14:10:29 - RAMPING_UP - chore: Update requirements.txt
+2023-04-12T12:05:44 - RAMPING_UP - feat: Add core logic for profile service in utils.py
