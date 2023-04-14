@@ -385,3 +385,4 @@
 2023-04-08T10:27:08 - RAMPING_UP - chore: Update requirements.txt
 2023-04-12T10:29:22 - RAMPING_UP - feat: Implement basic profile in requirements.txt
 2023-04-12T12:05:28 - RAMPING_UP - feat: Add core logic for caching service in requirements.txt
+2023-04-14T13:12:57 - RAMPING_UP - feat: Add core logic for search service in requirements.txt
