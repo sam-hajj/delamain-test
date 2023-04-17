@@ -134,3 +134,4 @@
 2023-04-12T12:38:13 - RAMPING_UP - feat: Add core logic for login service in server.py
 2023-04-17T13:49:28 - RAMPING_UP - chore: Update requirements.txt
 2023-04-17T14:08:08 - RAMPING_UP - refactor: Improve reporting structure in api
+2023-04-17T14:21:32 - RAMPING_UP - feat: Implement basic payments in server.py
