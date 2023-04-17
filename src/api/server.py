@@ -135,3 +135,4 @@
 2023-04-17T13:49:28 - RAMPING_UP - chore: Update requirements.txt
 2023-04-17T14:08:08 - RAMPING_UP - refactor: Improve reporting structure in api
 2023-04-17T14:21:32 - RAMPING_UP - feat: Implement basic payments in server.py
+2023-04-17T14:27:41 - RAMPING_UP - test: Add initial unit tests for server.py
