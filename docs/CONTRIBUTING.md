@@ -136,3 +136,4 @@
 2023-04-04T13:28:41 - RAMPING_UP - feat: Add core logic for search service in CONTRIBUTING.md
 2023-04-07T12:55:40 - RAMPING_UP - chore: Update requirements.txt
 2023-04-12T12:38:14 - RAMPING_UP - chore: Update requirements.txt
+2023-04-18T12:17:39 - RAMPING_UP - docs: Detail setup instructions
