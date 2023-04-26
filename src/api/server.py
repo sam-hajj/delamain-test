@@ -140,3 +140,4 @@
 2023-04-24T15:56:16 - RAMPING_UP - feat: Implement basic login in server.py
 2023-04-25T13:06:05 - RAMPING_UP - chore: Update requirements.txt
 2023-04-26T09:08:45 - RAMPING_UP - feat: Implement basic login in server.py
+2023-04-26T09:11:37 - RAMPING_UP - docs: Detail setup instructions
