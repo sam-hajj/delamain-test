@@ -371,3 +371,4 @@
 2023-04-24T15:59:23 - RAMPING_UP - feat: Implement basic notifications in models.py
 2023-04-25T14:06:29 - RAMPING_UP - feat: Implement basic notifications in models.py
 2023-04-26T09:18:42 - RAMPING_UP - feat: Add core logic for payments service in models.py
+2023-04-27T09:31:52 - RAMPING_UP - refactor: Improve auth structure in core
