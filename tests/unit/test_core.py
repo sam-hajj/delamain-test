@@ -134,3 +134,4 @@
 2023-04-19T15:05:00 - RAMPING_UP - feat: Implement basic data processing in test_core.py
 2023-04-24T15:21:37 - RAMPING_UP - feat: Add core logic for data processing service in test_core.py
 2023-04-25T14:15:02 - RAMPING_UP - chore: Update requirements.txt
+2023-04-27T11:46:51 - RAMPING_UP - test: Add initial unit tests for test_core.py
