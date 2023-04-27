@@ -142,3 +142,4 @@
 2023-04-26T09:08:45 - RAMPING_UP - feat: Implement basic login in server.py
 2023-04-26T09:11:37 - RAMPING_UP - docs: Detail setup instructions
 2023-04-26T09:14:05 - RAMPING_UP - refactor: Improve inventory structure in api
+2023-04-27T11:42:29 - RAMPING_UP - feat: Add core logic for notifications service in server.py
