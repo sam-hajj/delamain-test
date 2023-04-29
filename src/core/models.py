@@ -374,3 +374,4 @@
 2023-04-27T09:31:52 - RAMPING_UP - refactor: Improve auth structure in core
 2023-04-28T12:13:22 - RAMPING_UP - refactor: Improve user structure in core
 2023-04-28T12:15:20 - RAMPING_UP - feat: Implement basic profile in models.py
+2023-04-29T11:22:16 - RAMPING_UP - refactor: Improve reporting structure in core
