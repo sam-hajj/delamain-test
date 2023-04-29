@@ -209,3 +209,4 @@
 2023-04-28T12:06:56 - RAMPING_UP - test: Add initial unit tests for utils.py
 2023-04-28T12:46:48 - RAMPING_UP - feat: Implement basic data processing in utils.py
 2023-04-29T11:19:03 - RAMPING_UP - docs: Detail setup instructions
+2023-04-29T11:24:31 - RAMPING_UP - docs: Detail setup instructions
