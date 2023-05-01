@@ -376,3 +376,4 @@
 2023-04-28T12:15:20 - RAMPING_UP - feat: Implement basic profile in models.py
 2023-04-29T11:22:16 - RAMPING_UP - refactor: Improve reporting structure in core
 2023-04-29T12:31:47 - RAMPING_UP - feat: Implement basic notifications in models.py
+2023-05-01T09:17:22 - RAMPING_UP - chore: Update requirements.txt
