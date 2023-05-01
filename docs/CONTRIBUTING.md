@@ -148,3 +148,4 @@
 2023-04-30T12:07:13 - RAMPING_UP - feat: Add core logic for notifications service in CONTRIBUTING.md
 2023-04-30T12:13:02 - RAMPING_UP - chore: Update requirements.txt
 2023-04-30T12:46:37 - RAMPING_UP - docs: Detail setup instructions
+2023-05-01T08:48:40 - RAMPING_UP - test: Add initial unit tests for CONTRIBUTING.md
