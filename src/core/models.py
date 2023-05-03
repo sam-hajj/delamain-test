@@ -378,3 +378,4 @@
 2023-04-29T12:31:47 - RAMPING_UP - feat: Implement basic notifications in models.py
 2023-05-01T09:17:22 - RAMPING_UP - chore: Update requirements.txt
 2023-05-03T11:03:00 - RAMPING_UP - refactor: Improve auth structure in core
+2023-05-03T11:42:42 - RAMPING_UP - chore: Update requirements.txt
