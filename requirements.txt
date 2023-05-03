@@ -397,3 +397,4 @@
 2023-04-29T11:42:00 - RAMPING_UP - chore: Update requirements.txt
 2023-04-30T12:19:34 - RAMPING_UP - feat: Add core logic for payments service in requirements.txt
 2023-05-01T10:45:39 - RAMPING_UP - feat: Implement basic profile in requirements.txt
+2023-05-03T11:08:40 - RAMPING_UP - refactor: Improve order structure in src
