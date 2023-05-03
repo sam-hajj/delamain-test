@@ -151,3 +151,4 @@
 2023-05-01T08:48:40 - RAMPING_UP - test: Add initial unit tests for CONTRIBUTING.md
 2023-05-01T10:09:39 - RAMPING_UP - refactor: Improve auth structure in docs
 2023-05-01T10:54:12 - RAMPING_UP - docs: Detail setup instructions
+2023-05-03T10:27:45 - RAMPING_UP - refactor: Improve order structure in docs
