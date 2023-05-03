@@ -144,3 +144,4 @@
 2023-04-26T09:14:05 - RAMPING_UP - refactor: Improve inventory structure in api
 2023-04-27T11:42:29 - RAMPING_UP - feat: Add core logic for notifications service in server.py
 2023-04-28T13:40:42 - RAMPING_UP - test: Add initial unit tests for server.py
+2023-05-03T10:44:56 - RAMPING_UP - refactor: Improve user structure in api
