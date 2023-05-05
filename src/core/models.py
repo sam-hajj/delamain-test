@@ -380,3 +380,4 @@
 2023-05-03T11:03:00 - RAMPING_UP - refactor: Improve auth structure in core
 2023-05-03T11:42:42 - RAMPING_UP - chore: Update requirements.txt
 2023-05-03T11:45:56 - RAMPING_UP - feat: Implement basic payments in models.py
+2023-05-05T10:03:20 - RAMPING_UP - docs: Detail setup instructions
