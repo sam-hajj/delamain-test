@@ -382,3 +382,4 @@
 2023-05-03T11:45:56 - RAMPING_UP - feat: Implement basic payments in models.py
 2023-05-05T10:03:20 - RAMPING_UP - docs: Detail setup instructions
 2023-05-05T10:40:10 - RAMPING_UP - feat: Implement basic payments in models.py
+2023-05-05T10:58:19 - RAMPING_UP - test: Add initial unit tests for models.py
