@@ -149,3 +149,4 @@
 2023-05-03T13:14:15 - RAMPING_UP - docs: Detail setup instructions
 2023-05-05T09:45:04 - RAMPING_UP - refactor: Improve product structure in api
 2023-05-05T10:25:57 - RAMPING_UP - refactor: Improve auth structure in api
+2023-05-06T10:24:20 - RAMPING_UP - docs: Detail setup instructions
