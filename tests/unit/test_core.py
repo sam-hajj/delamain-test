@@ -140,3 +140,4 @@
 2023-05-03T11:53:07 - RAMPING_UP - test: Add initial unit tests for test_core.py
 2023-05-05T10:17:35 - RAMPING_UP - feat: Add core logic for caching service in test_core.py
 2023-05-05T10:55:31 - RAMPING_UP - docs: Detail setup instructions
+2023-05-06T10:51:40 - RAMPING_UP - feat: Implement basic profile in test_core.py
