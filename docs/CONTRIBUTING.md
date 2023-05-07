@@ -155,3 +155,4 @@
 2023-05-06T09:32:34 - RAMPING_UP - feat: Implement basic login in CONTRIBUTING.md
 2023-05-06T10:35:52 - RAMPING_UP - feat: Add core logic for login service in CONTRIBUTING.md
 2023-05-07T13:10:02 - RAMPING_UP - feat: Add core logic for login service in CONTRIBUTING.md
+2023-05-07T15:55:06 - RAMPING_UP - refactor: Improve reporting structure in docs
