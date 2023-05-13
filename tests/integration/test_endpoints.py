@@ -251,3 +251,4 @@
 2022-09-15T11:51:54 - SUSTAINED_PEAK - feat: Implement caching endpoint in test_endpoints.py
 2023-05-10T16:02:17 - SUSTAINED_PEAK - test: Increase coverage for product tests
 2023-05-10T16:28:01 - SUSTAINED_PEAK - feat: Implement notifications endpoint in test_endpoints.py
+2023-05-13T13:28:24 - SUSTAINED_PEAK - feat: Implement payments endpoint in test_endpoints.py
