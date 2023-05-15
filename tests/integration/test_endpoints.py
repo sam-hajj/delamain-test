@@ -253,3 +253,4 @@
 2023-05-10T16:28:01 - SUSTAINED_PEAK - feat: Implement notifications endpoint in test_endpoints.py
 2023-05-13T13:28:24 - SUSTAINED_PEAK - feat: Implement payments endpoint in test_endpoints.py
 2023-05-13T14:06:16 - SUSTAINED_PEAK - refactor: Optimize sorting in test_endpoints.py
+2023-05-15T08:11:11 - SUSTAINED_PEAK - perf: Improve query performance in test_endpoints.py
