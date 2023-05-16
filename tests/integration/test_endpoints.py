@@ -256,3 +256,4 @@
 2023-05-15T08:11:11 - SUSTAINED_PEAK - perf: Improve query performance in test_endpoints.py
 2023-05-16T09:07:24 - SUSTAINED_PEAK - ci: Configure deployment pipeline in test_endpoints.py
 2023-05-16T10:22:45 - SUSTAINED_PEAK - ci: Configure deployment pipeline in test_endpoints.py
+2023-05-16T11:29:28 - SUSTAINED_PEAK - fix: Resolve bug #730 in test_endpoints.py
