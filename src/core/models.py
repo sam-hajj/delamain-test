@@ -388,3 +388,4 @@
 2023-05-12T10:11:52 - SUSTAINED_PEAK - ci: Configure deployment pipeline in models.py
 2023-05-12T10:21:10 - SUSTAINED_PEAK - test: Increase coverage for order tests
 2023-05-15T10:32:07 - SUSTAINED_PEAK - perf: Improve query performance in models.py
+2023-05-16T10:33:05 - SUSTAINED_PEAK - fix: Resolve bug #997 in models.py
