@@ -207,3 +207,4 @@
 2023-05-12T10:40:07 - SUSTAINED_PEAK - fix: Resolve bug #470 in ci.yml
 2023-05-12T10:49:15 - SUSTAINED_PEAK - test: Increase coverage for user tests
 2023-05-15T10:17:22 - SUSTAINED_PEAK - fix: Resolve bug #205 in ci.yml
+2023-05-17T12:45:33 - SUSTAINED_PEAK - feat: Implement profile endpoint in ci.yml
