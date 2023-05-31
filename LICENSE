@@ -292,3 +292,4 @@
 2023-03-11T14:55:50 - MAINTENANCE_LOW - fix: Small bugfix in LICENSE
 2023-05-31T13:09:52 - MAINTENANCE_LOW - fix: Small bugfix in LICENSE
 2023-05-31T13:15:48 - MAINTENANCE_LOW - chore: Update dependencies (maven)
+2023-05-31T13:22:38 - MAINTENANCE_LOW - ci: Tweak workflow triggers in LICENSE
