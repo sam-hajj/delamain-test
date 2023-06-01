@@ -404,3 +404,4 @@
 2023-05-07T13:05:56 - RAMPING_UP - docs: Detail setup instructions
 2023-05-07T13:11:04 - RAMPING_UP - refactor: Improve reporting structure in src
 2023-05-07T13:39:48 - RAMPING_UP - feat: Implement basic notifications in requirements.txt
+2023-06-01T09:45:24 - MAINTENANCE_LOW - ci: Tweak workflow triggers in requirements.txt
