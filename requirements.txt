@@ -412,3 +412,4 @@
 2023-06-03T14:42:09 - MAINTENANCE_LOW - style: Formatting adjustments in requirements.txt
 2023-06-04T12:05:19 - MAINTENANCE_LOW - ci: Tweak workflow triggers in requirements.txt
 2023-06-04T12:47:08 - MAINTENANCE_LOW - chore: Update dependencies (yarn)
+2023-06-05T08:05:28 - MAINTENANCE_LOW - fix: Small bugfix in requirements.txt
