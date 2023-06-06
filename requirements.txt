@@ -414,3 +414,4 @@
 2023-06-04T12:47:08 - MAINTENANCE_LOW - chore: Update dependencies (yarn)
 2023-06-05T08:05:28 - MAINTENANCE_LOW - fix: Small bugfix in requirements.txt
 2023-06-05T09:22:56 - MAINTENANCE_LOW - chore: Update dependencies (pip)
+2023-06-06T10:16:03 - MAINTENANCE_LOW - docs: Minor clarification in requirements.txt
