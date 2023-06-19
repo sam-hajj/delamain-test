@@ -324,3 +324,4 @@
 2023-06-18T11:50:07 - MAINTENANCE_LOW - chore: Update dependencies (yarn)
 2023-06-18T14:00:34 - MAINTENANCE_LOW - chore: Update dependencies (npm)
 2023-06-19T08:29:22 - MAINTENANCE_LOW - docs: Minor clarification in LICENSE
+2023-06-19T08:39:08 - MAINTENANCE_LOW - ci: Tweak workflow triggers in LICENSE
