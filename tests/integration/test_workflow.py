@@ -285,3 +285,4 @@
 2023-06-20T13:00:08 - MAINTENANCE_LOW - chore: Update dependencies (maven)
 2023-06-20T13:02:44 - MAINTENANCE_LOW - chore: Rotate logs or cleanup artifacts
 2023-06-20T13:22:54 - MAINTENANCE_LOW - chore: Rotate logs or cleanup artifacts
+2023-06-21T13:00:11 - MAINTENANCE_LOW - ci: Tweak workflow triggers in test_workflow.py
