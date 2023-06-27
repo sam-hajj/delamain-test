@@ -457,3 +457,4 @@
 2023-06-25T13:59:12 - MAINTENANCE_LOW - chore: Rotate logs or cleanup artifacts
 2023-06-26T15:19:28 - MAINTENANCE_LOW - chore: Rotate logs or cleanup artifacts
 2023-06-26T15:57:43 - MAINTENANCE_LOW - chore: Update dependencies (yarn)
+2023-06-27T12:51:04 - MAINTENANCE_LOW - ci: Tweak workflow triggers in requirements.txt
