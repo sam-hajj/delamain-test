@@ -459,3 +459,4 @@
 2023-06-26T15:57:43 - MAINTENANCE_LOW - chore: Update dependencies (yarn)
 2023-06-27T12:51:04 - MAINTENANCE_LOW - ci: Tweak workflow triggers in requirements.txt
 2023-07-02T12:06:05 - MAINTENANCE_LOW - chore: Update dependencies (yarn)
+2023-07-02T12:26:49 - MAINTENANCE_LOW - fix: Small bugfix in requirements.txt
