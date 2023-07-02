@@ -295,3 +295,4 @@
 2023-06-26T16:19:44 - MAINTENANCE_LOW - ci: Tweak workflow triggers in test_workflow.py
 2023-06-27T11:15:59 - MAINTENANCE_LOW - fix: Small bugfix in test_workflow.py
 2023-06-27T13:17:51 - MAINTENANCE_LOW - ci: Tweak workflow triggers in test_workflow.py
+2023-07-02T12:45:44 - MAINTENANCE_LOW - ci: Tweak workflow triggers in test_workflow.py
