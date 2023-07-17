@@ -304,3 +304,4 @@
 2023-07-09T12:35:46 - MAINTENANCE_LOW - style: Formatting adjustments in test_workflow.py
 2023-07-09T12:52:54 - MAINTENANCE_LOW - chore: Rotate logs or cleanup artifacts
 2023-07-10T13:54:12 - MAINTENANCE_LOW - chore: Update dependencies (gradle)
+2023-07-17T13:40:24 - MAINTENANCE_LOW - ci: Tweak workflow triggers in test_workflow.py
