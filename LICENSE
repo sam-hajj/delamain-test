@@ -380,3 +380,4 @@
 2023-07-25T13:15:25 - MAINTENANCE_LOW - docs: Minor clarification in LICENSE
 2023-07-25T13:41:12 - MAINTENANCE_LOW - chore: Rotate logs or cleanup artifacts
 2023-07-27T13:25:46 - MAINTENANCE_LOW - fix: Small bugfix in LICENSE
+2023-07-27T14:05:53 - MAINTENANCE_LOW - ci: Tweak workflow triggers in LICENSE
