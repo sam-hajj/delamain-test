@@ -345,3 +345,4 @@
 2023-08-01T12:57:07 - MAINTENANCE_LOW - docs: Minor clarification in test_workflow.py
 2023-08-02T15:11:02 - MAINTENANCE_LOW - chore: Update dependencies (maven)
 2023-08-02T15:17:01 - MAINTENANCE_LOW - chore: Update dependencies (npm)
+2023-08-03T08:37:29 - MAINTENANCE_LOW - ci: Tweak workflow triggers in test_workflow.py
