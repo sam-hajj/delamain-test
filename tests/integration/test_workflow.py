@@ -349,3 +349,4 @@
 2023-08-03T10:18:48 - MAINTENANCE_LOW - chore: Update dependencies (gradle)
 2023-08-04T12:02:04 - MAINTENANCE_LOW - chore: Update dependencies (npm)
 2023-08-04T12:20:54 - MAINTENANCE_LOW - ci: Tweak workflow triggers in test_workflow.py
+2023-08-04T12:22:15 - MAINTENANCE_LOW - chore: Update dependencies (yarn)
