@@ -534,3 +534,4 @@
 2023-08-14T12:29:49 - MAINTENANCE_LOW - style: Formatting adjustments in requirements.txt
 2023-08-14T12:49:35 - MAINTENANCE_LOW - chore: Update dependencies (pip)
 2023-08-16T13:37:51 - MAINTENANCE_LOW - style: Formatting adjustments in requirements.txt
+2023-08-16T13:46:07 - MAINTENANCE_LOW - ci: Tweak workflow triggers in requirements.txt
