@@ -550,3 +550,4 @@
 2023-08-23T13:07:36 - MAINTENANCE_LOW - chore: Update dependencies (npm)
 2023-08-23T13:10:38 - MAINTENANCE_LOW - fix: Small bugfix in requirements.txt
 2023-08-24T16:08:02 - MAINTENANCE_LOW - docs: Minor clarification in requirements.txt
+2023-08-24T16:52:44 - MAINTENANCE_LOW - fix: Small bugfix in requirements.txt
