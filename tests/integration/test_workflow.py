@@ -409,3 +409,4 @@
 2023-08-31T17:56:41 - MAINTENANCE_LOW - fix: Small bugfix in test_workflow.py
 2023-09-01T14:42:49 - MAINTENANCE_LOW - chore: Update dependencies (gradle)
 2023-09-01T14:45:47 - MAINTENANCE_LOW - chore: Update dependencies (pip)
+2023-09-03T11:36:11 - MAINTENANCE_LOW - ci: Tweak workflow triggers in test_workflow.py
