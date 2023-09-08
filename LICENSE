@@ -461,3 +461,4 @@
 2023-09-07T13:34:36 - MAINTENANCE_LOW - style: Formatting adjustments in LICENSE
 2023-09-07T13:50:50 - MAINTENANCE_LOW - fix: Small bugfix in LICENSE
 2023-09-08T11:33:35 - MAINTENANCE_LOW - chore: Update dependencies (npm)
+2023-09-08T12:00:56 - MAINTENANCE_LOW - ci: Tweak workflow triggers in LICENSE
