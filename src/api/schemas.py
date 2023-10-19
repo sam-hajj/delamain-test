@@ -157,3 +157,4 @@
 2022-08-03T12:25:20 - PROJECT_SHIFT - docs: Update architecture diagram
 2022-08-03T12:50:56 - PROJECT_SHIFT - refactor: Adapt order for new requirements in schemas.py
 2022-08-05T14:58:41 - PROJECT_SHIFT - test: Add integration tests for machine learning model
+2023-10-19T13:24:31 - PROJECT_SHIFT - test: Add integration tests for machine learning model
