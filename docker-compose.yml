@@ -140,3 +140,4 @@
 2022-08-03T12:56:42 - PROJECT_SHIFT - test: Add integration tests for A/B testing framework
 2022-08-04T13:24:32 - PROJECT_SHIFT - test: Add integration tests for machine learning model
 2023-10-19T13:10:22 - PROJECT_SHIFT - chore: Experiment with pandas in docker-compose.yml
+2023-10-20T10:48:10 - PROJECT_SHIFT - docs: Update architecture diagram
