@@ -144,3 +144,4 @@
 2023-10-20T10:57:48 - PROJECT_SHIFT - feat: POC for machine learning model in src
 2023-10-20T11:01:27 - PROJECT_SHIFT - test: Add integration tests for analytics dashboard
 2023-10-21T15:05:41 - PROJECT_SHIFT - chore: Experiment with requests in docker-compose.yml
+2023-10-21T15:18:26 - PROJECT_SHIFT - test: Add integration tests for A/B testing framework
