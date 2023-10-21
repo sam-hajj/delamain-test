@@ -171,3 +171,4 @@
 2023-10-19T12:18:10 - PROJECT_SHIFT - docs: Update architecture diagram
 2023-10-20T10:30:05 - PROJECT_SHIFT - feat: POC for real-time updates in docs
 2023-10-20T10:36:45 - PROJECT_SHIFT - refactor: Adapt order for new requirements in architecture.md
+2023-10-21T15:18:23 - PROJECT_SHIFT - refactor: Adapt user for new requirements in architecture.md
