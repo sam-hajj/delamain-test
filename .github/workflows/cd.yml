@@ -166,3 +166,4 @@
 2023-10-21T13:25:42 - PROJECT_SHIFT - refactor: Adapt inventory for new requirements in cd.yml
 2023-10-21T15:11:30 - PROJECT_SHIFT - test: Add integration tests for analytics dashboard
 2023-10-21T15:18:33 - PROJECT_SHIFT - refactor: Adapt user for new requirements in cd.yml
+2023-10-24T12:21:11 - PROJECT_SHIFT - refactor: Modularize messaging queue in cd.yml
