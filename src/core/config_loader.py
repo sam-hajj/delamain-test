@@ -158,3 +158,4 @@
 2023-10-23T12:50:31 - PROJECT_SHIFT - test: Add integration tests for A/B testing framework
 2023-10-27T12:22:18 - PROJECT_SHIFT - chore: Experiment with pandas in config_loader.py
 2023-10-27T12:26:22 - PROJECT_SHIFT - test: Add integration tests for A/B testing framework
+2023-10-27T12:35:01 - PROJECT_SHIFT - refactor: Modularize database in config_loader.py
