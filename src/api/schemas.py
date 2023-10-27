@@ -166,3 +166,4 @@
 2023-10-23T10:22:55 - PROJECT_SHIFT - test: Add integration tests for A/B testing framework
 2023-10-23T11:28:45 - PROJECT_SHIFT - chore: Experiment with django in schemas.py
 2023-10-23T12:05:57 - PROJECT_SHIFT - refactor: Adapt auth for new requirements in schemas.py
+2023-10-27T12:37:21 - PROJECT_SHIFT - feat: POC for machine learning model in api
