@@ -152,3 +152,4 @@
 2023-10-24T13:27:39 - PROJECT_SHIFT - test: Add integration tests for A/B testing framework
 2023-10-28T12:10:30 - PROJECT_SHIFT - chore: Experiment with numpy in docker-compose.yml
 2023-10-29T13:25:47 - PROJECT_SHIFT - refactor: Adapt reporting for new requirements in docker-compose.yml
+2023-10-29T15:25:22 - PROJECT_SHIFT - refactor: Modularize backend in docker-compose.yml
