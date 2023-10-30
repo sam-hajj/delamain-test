@@ -155,3 +155,4 @@
 2023-10-20T10:28:17 - PROJECT_SHIFT - chore: Experiment with fastapi in test_api.py
 2023-10-22T12:08:27 - PROJECT_SHIFT - docs: Update architecture diagram
 2023-10-28T12:00:47 - PROJECT_SHIFT - docs: Update architecture diagram
+2023-10-30T12:02:25 - PROJECT_SHIFT - test: Add integration tests for machine learning model
