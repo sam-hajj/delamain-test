@@ -181,3 +181,4 @@
 2023-10-29T13:46:23 - PROJECT_SHIFT - refactor: Modularize backend in architecture.md
 2023-10-30T13:03:50 - PROJECT_SHIFT - chore: Experiment with requests in architecture.md
 2023-10-30T13:19:48 - PROJECT_SHIFT - feat: POC for A/B testing framework in docs
+2023-10-30T13:37:37 - PROJECT_SHIFT - test: Add integration tests for A/B testing framework
