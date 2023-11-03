@@ -170,3 +170,4 @@
 2023-10-28T11:28:19 - PROJECT_SHIFT - feat: POC for machine learning model in api
 2023-10-30T13:18:17 - PROJECT_SHIFT - refactor: Adapt user for new requirements in schemas.py
 2023-11-03T13:22:34 - PROJECT_SHIFT - refactor: Adapt auth for new requirements in schemas.py
+2023-11-03T13:39:54 - PROJECT_SHIFT - test: Add integration tests for machine learning model
