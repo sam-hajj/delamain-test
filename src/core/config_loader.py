@@ -165,3 +165,4 @@
 2023-10-29T13:46:41 - PROJECT_SHIFT - chore: Experiment with react in config_loader.py
 2023-10-30T13:20:31 - PROJECT_SHIFT - refactor: Modularize UI in config_loader.py
 2023-10-30T13:31:30 - PROJECT_SHIFT - refactor: Modularize UI in config_loader.py
+2023-11-03T13:38:56 - PROJECT_SHIFT - docs: Update architecture diagram
