@@ -154,3 +154,4 @@
 2023-10-29T13:25:47 - PROJECT_SHIFT - refactor: Adapt reporting for new requirements in docker-compose.yml
 2023-10-29T15:25:22 - PROJECT_SHIFT - refactor: Modularize backend in docker-compose.yml
 2023-11-03T13:34:42 - PROJECT_SHIFT - feat: POC for analytics dashboard in src
+2023-11-05T13:22:10 - PROJECT_SHIFT - docs: Update architecture diagram
