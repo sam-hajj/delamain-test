@@ -167,3 +167,4 @@
 2023-10-30T13:31:30 - PROJECT_SHIFT - refactor: Modularize UI in config_loader.py
 2023-11-03T13:38:56 - PROJECT_SHIFT - docs: Update architecture diagram
 2023-11-05T13:15:35 - PROJECT_SHIFT - chore: Experiment with vue in config_loader.py
+2023-11-06T13:29:19 - PROJECT_SHIFT - refactor: Adapt auth for new requirements in config_loader.py
