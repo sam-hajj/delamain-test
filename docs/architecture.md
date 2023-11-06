@@ -186,3 +186,4 @@
 2023-11-03T15:19:44 - PROJECT_SHIFT - test: Add integration tests for analytics dashboard
 2023-11-05T13:24:00 - PROJECT_SHIFT - docs: Update architecture diagram
 2023-11-05T13:39:49 - PROJECT_SHIFT - refactor: Adapt user for new requirements in architecture.md
+2023-11-06T13:09:09 - PROJECT_SHIFT - chore: Experiment with vue in architecture.md
