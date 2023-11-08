@@ -189,3 +189,4 @@
 2023-11-06T13:09:09 - PROJECT_SHIFT - chore: Experiment with vue in architecture.md
 2023-11-06T13:54:35 - PROJECT_SHIFT - chore: Experiment with react in architecture.md
 2023-11-08T10:11:46 - PROJECT_SHIFT - test: Add integration tests for real-time updates
+2023-11-08T10:45:03 - PROJECT_SHIFT - refactor: Adapt auth for new requirements in architecture.md
