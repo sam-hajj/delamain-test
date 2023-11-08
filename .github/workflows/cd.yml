@@ -178,3 +178,4 @@
 2023-11-03T13:21:21 - PROJECT_SHIFT - refactor: Adapt order for new requirements in cd.yml
 2023-11-05T13:06:27 - PROJECT_SHIFT - refactor: Modularize backend in cd.yml
 2023-11-06T12:21:59 - PROJECT_SHIFT - refactor: Adapt auth for new requirements in cd.yml
+2023-11-08T08:51:15 - PROJECT_SHIFT - refactor: Modularize messaging queue in cd.yml
