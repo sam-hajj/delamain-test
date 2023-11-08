@@ -172,3 +172,4 @@
 2023-11-03T13:22:34 - PROJECT_SHIFT - refactor: Adapt auth for new requirements in schemas.py
 2023-11-03T13:39:54 - PROJECT_SHIFT - test: Add integration tests for machine learning model
 2023-11-08T09:59:51 - PROJECT_SHIFT - docs: Update architecture diagram
+2023-11-08T10:26:16 - PROJECT_SHIFT - refactor: Adapt order for new requirements in schemas.py
