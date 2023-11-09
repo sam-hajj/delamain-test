@@ -174,3 +174,4 @@
 2023-11-08T09:59:51 - PROJECT_SHIFT - docs: Update architecture diagram
 2023-11-08T10:26:16 - PROJECT_SHIFT - refactor: Adapt order for new requirements in schemas.py
 2023-11-08T10:49:50 - PROJECT_SHIFT - test: Add integration tests for real-time updates
+2023-11-09T10:43:21 - PROJECT_SHIFT - chore: Experiment with vue in schemas.py
