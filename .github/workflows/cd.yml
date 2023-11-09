@@ -181,3 +181,4 @@
 2023-11-08T08:51:15 - PROJECT_SHIFT - refactor: Modularize messaging queue in cd.yml
 2023-11-08T10:38:30 - PROJECT_SHIFT - docs: Update architecture diagram
 2023-11-08T10:50:15 - PROJECT_SHIFT - refactor: Modularize UI in cd.yml
+2023-11-09T12:27:05 - PROJECT_SHIFT - test: Add integration tests for A/B testing framework
