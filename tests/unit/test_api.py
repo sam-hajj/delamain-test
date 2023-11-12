@@ -162,3 +162,4 @@
 2023-11-09T14:05:30 - PROJECT_SHIFT - refactor: Adapt reporting for new requirements in test_api.py
 2023-11-10T15:10:30 - PROJECT_SHIFT - docs: Update architecture diagram
 2023-11-10T15:15:17 - PROJECT_SHIFT - docs: Update architecture diagram
+2023-11-12T10:08:22 - PROJECT_SHIFT - feat: POC for machine learning model in unit
