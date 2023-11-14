@@ -196,3 +196,4 @@
 2023-11-10T15:44:03 - PROJECT_SHIFT - feat: POC for A/B testing framework in docs
 2023-11-13T10:34:58 - PROJECT_SHIFT - refactor: Modularize backend in architecture.md
 2023-11-13T10:55:26 - PROJECT_SHIFT - feat: POC for A/B testing framework in docs
+2023-11-14T12:55:20 - PROJECT_SHIFT - refactor: Adapt product for new requirements in architecture.md
