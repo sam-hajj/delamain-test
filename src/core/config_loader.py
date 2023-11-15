@@ -176,3 +176,4 @@
 2023-11-10T15:05:50 - PROJECT_SHIFT - test: Add integration tests for A/B testing framework
 2023-11-14T12:16:39 - PROJECT_SHIFT - feat: POC for machine learning model in core
 2023-11-14T13:09:11 - PROJECT_SHIFT - feat: POC for machine learning model in core
+2023-11-15T16:06:12 - PROJECT_SHIFT - refactor: Modularize messaging queue in config_loader.py
