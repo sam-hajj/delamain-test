@@ -198,3 +198,4 @@
 2023-11-13T10:55:26 - PROJECT_SHIFT - feat: POC for A/B testing framework in docs
 2023-11-14T12:55:20 - PROJECT_SHIFT - refactor: Adapt product for new requirements in architecture.md
 2023-11-16T12:15:09 - PROJECT_SHIFT - test: Add integration tests for analytics dashboard
+2023-11-16T12:39:05 - PROJECT_SHIFT - docs: Update architecture diagram
