@@ -196,3 +196,4 @@
 2023-11-15T16:29:49 - PROJECT_SHIFT - feat: POC for analytics dashboard in workflows
 2023-11-15T16:57:11 - PROJECT_SHIFT - refactor: Adapt auth for new requirements in cd.yml
 2023-11-15T16:57:35 - PROJECT_SHIFT - refactor: Modularize API gateway in cd.yml
+2023-11-16T12:22:12 - PROJECT_SHIFT - chore: Experiment with vue in cd.yml
