@@ -184,3 +184,4 @@
 2023-11-14T12:56:30 - PROJECT_SHIFT - test: Add integration tests for machine learning model
 2023-11-15T15:36:29 - PROJECT_SHIFT - refactor: Modularize UI in schemas.py
 2023-11-16T12:17:05 - PROJECT_SHIFT - refactor: Adapt inventory for new requirements in schemas.py
+2023-11-20T13:13:04 - PROJECT_SHIFT - refactor: Modularize database in schemas.py
