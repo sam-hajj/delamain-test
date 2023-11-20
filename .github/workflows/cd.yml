@@ -200,3 +200,4 @@
 2023-11-17T15:42:53 - PROJECT_SHIFT - test: Add integration tests for analytics dashboard
 2023-11-20T12:15:05 - PROJECT_SHIFT - feat: POC for real-time updates in workflows
 2023-11-20T13:28:09 - PROJECT_SHIFT - test: Add integration tests for analytics dashboard
+2023-11-20T13:44:31 - PROJECT_SHIFT - refactor: Modularize backend in cd.yml
