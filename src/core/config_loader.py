@@ -184,3 +184,4 @@
 2023-11-16T12:34:56 - PROJECT_SHIFT - feat: POC for analytics dashboard in core
 2023-11-17T15:13:08 - PROJECT_SHIFT - feat: POC for machine learning model in core
 2023-11-17T15:45:39 - PROJECT_SHIFT - docs: Update architecture diagram
+2023-11-21T14:23:04 - PROJECT_SHIFT - docs: Update architecture diagram
