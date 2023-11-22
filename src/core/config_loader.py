@@ -185,3 +185,4 @@
 2023-11-17T15:13:08 - PROJECT_SHIFT - feat: POC for machine learning model in core
 2023-11-17T15:45:39 - PROJECT_SHIFT - docs: Update architecture diagram
 2023-11-21T14:23:04 - PROJECT_SHIFT - docs: Update architecture diagram
+2023-11-22T13:00:28 - PROJECT_SHIFT - chore: Experiment with fastapi in config_loader.py
