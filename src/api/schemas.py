@@ -186,3 +186,4 @@
 2023-11-16T12:17:05 - PROJECT_SHIFT - refactor: Adapt inventory for new requirements in schemas.py
 2023-11-20T13:13:04 - PROJECT_SHIFT - refactor: Modularize database in schemas.py
 2023-11-22T13:23:32 - PROJECT_SHIFT - chore: Experiment with react in schemas.py
+2023-11-22T13:32:58 - PROJECT_SHIFT - feat: POC for A/B testing framework in api
