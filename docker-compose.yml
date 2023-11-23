@@ -166,3 +166,4 @@
 2023-11-17T15:03:21 - PROJECT_SHIFT - test: Add integration tests for analytics dashboard
 2023-11-22T13:10:02 - PROJECT_SHIFT - chore: Experiment with numpy in docker-compose.yml
 2023-11-23T11:03:40 - PROJECT_SHIFT - refactor: Adapt reporting for new requirements in docker-compose.yml
+2023-11-23T11:29:01 - PROJECT_SHIFT - refactor: Modularize backend in docker-compose.yml
