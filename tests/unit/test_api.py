@@ -177,3 +177,4 @@
 2023-11-23T11:11:42 - PROJECT_SHIFT - refactor: Adapt product for new requirements in test_api.py
 2023-11-23T11:20:48 - PROJECT_SHIFT - refactor: Adapt user for new requirements in test_api.py
 2023-11-23T11:53:15 - PROJECT_SHIFT - test: Add integration tests for machine learning model
+2023-11-25T15:34:09 - PROJECT_SHIFT - refactor: Modularize backend in test_api.py
