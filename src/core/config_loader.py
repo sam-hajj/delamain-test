@@ -188,3 +188,4 @@
 2023-11-22T13:00:28 - PROJECT_SHIFT - chore: Experiment with fastapi in config_loader.py
 2023-11-23T11:02:03 - PROJECT_SHIFT - chore: Experiment with fastapi in config_loader.py
 2023-11-23T11:29:57 - PROJECT_SHIFT - test: Add integration tests for machine learning model
+2023-11-25T15:05:54 - PROJECT_SHIFT - feat: POC for analytics dashboard in core
