@@ -194,3 +194,4 @@
 2023-11-25T15:06:09 - PROJECT_SHIFT - chore: Experiment with numpy in schemas.py
 2023-11-28T10:34:28 - PROJECT_SHIFT - refactor: Adapt reporting for new requirements in schemas.py
 2023-11-28T11:03:54 - PROJECT_SHIFT - chore: Experiment with requests in schemas.py
+2023-11-28T11:52:09 - PROJECT_SHIFT - chore: Experiment with pandas in schemas.py
