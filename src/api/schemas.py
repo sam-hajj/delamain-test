@@ -193,3 +193,4 @@
 2023-11-23T11:00:09 - PROJECT_SHIFT - feat: POC for A/B testing framework in api
 2023-11-25T15:06:09 - PROJECT_SHIFT - chore: Experiment with numpy in schemas.py
 2023-11-28T10:34:28 - PROJECT_SHIFT - refactor: Adapt reporting for new requirements in schemas.py
+2023-11-28T11:03:54 - PROJECT_SHIFT - chore: Experiment with requests in schemas.py
