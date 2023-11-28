@@ -168,3 +168,4 @@
 2023-11-23T11:03:40 - PROJECT_SHIFT - refactor: Adapt reporting for new requirements in docker-compose.yml
 2023-11-23T11:29:01 - PROJECT_SHIFT - refactor: Modularize backend in docker-compose.yml
 2023-11-23T12:25:15 - PROJECT_SHIFT - refactor: Adapt auth for new requirements in docker-compose.yml
+2023-11-28T11:09:34 - PROJECT_SHIFT - chore: Experiment with numpy in docker-compose.yml
