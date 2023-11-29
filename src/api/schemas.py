@@ -196,3 +196,4 @@
 2023-11-28T11:03:54 - PROJECT_SHIFT - chore: Experiment with requests in schemas.py
 2023-11-28T11:52:09 - PROJECT_SHIFT - chore: Experiment with pandas in schemas.py
 2023-11-28T12:50:45 - PROJECT_SHIFT - docs: Update architecture diagram
+2023-11-29T11:56:53 - PROJECT_SHIFT - feat: POC for real-time updates in api
