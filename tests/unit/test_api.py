@@ -181,3 +181,4 @@
 2023-11-28T10:39:41 - PROJECT_SHIFT - refactor: Adapt product for new requirements in test_api.py
 2023-11-28T11:23:41 - PROJECT_SHIFT - refactor: Modularize messaging queue in test_api.py
 2023-11-28T11:51:57 - PROJECT_SHIFT - test: Add integration tests for A/B testing framework
+2023-11-29T11:04:10 - PROJECT_SHIFT - docs: Update architecture diagram
