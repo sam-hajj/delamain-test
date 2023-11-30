@@ -207,3 +207,4 @@
 2023-11-22T12:21:06 - PROJECT_SHIFT - refactor: Modularize API gateway in architecture.md
 2023-11-28T10:19:27 - PROJECT_SHIFT - feat: POC for real-time updates in docs
 2023-11-28T11:43:25 - PROJECT_SHIFT - feat: POC for A/B testing framework in docs
+2023-11-30T15:51:18 - PROJECT_SHIFT - refactor: Adapt inventory for new requirements in architecture.md
