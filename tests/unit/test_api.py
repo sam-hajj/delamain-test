@@ -185,3 +185,4 @@
 2023-11-29T11:09:04 - PROJECT_SHIFT - chore: Experiment with vue in test_api.py
 2023-11-29T11:29:30 - PROJECT_SHIFT - refactor: Modularize API gateway in test_api.py
 2023-11-30T15:01:10 - PROJECT_SHIFT - feat: POC for A/B testing framework in unit
+2023-11-30T15:44:49 - PROJECT_SHIFT - test: Add integration tests for A/B testing framework
