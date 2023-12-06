@@ -174,3 +174,4 @@
 2023-11-29T12:18:29 - PROJECT_SHIFT - feat: POC for machine learning model in src
 2023-12-01T17:47:19 - PROJECT_SHIFT - feat: POC for machine learning model in src
 2023-12-05T15:45:20 - PROJECT_SHIFT - docs: Update architecture diagram
+2023-12-06T16:49:39 - PROJECT_SHIFT - refactor: Modularize backend in docker-compose.yml
