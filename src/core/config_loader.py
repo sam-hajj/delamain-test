@@ -194,3 +194,4 @@
 2023-12-05T15:18:55 - PROJECT_SHIFT - docs: Update architecture diagram
 2023-12-05T16:18:11 - PROJECT_SHIFT - test: Add integration tests for machine learning model
 2023-12-06T16:43:01 - PROJECT_SHIFT - test: Add integration tests for A/B testing framework
+2023-12-06T16:54:45 - PROJECT_SHIFT - feat: POC for A/B testing framework in core
