@@ -218,3 +218,4 @@
 2023-12-01T15:43:44 - PROJECT_SHIFT - chore: Experiment with fastapi in cd.yml
 2023-12-04T15:20:02 - PROJECT_SHIFT - feat: POC for analytics dashboard in workflows
 2023-12-04T17:30:37 - PROJECT_SHIFT - refactor: Modularize UI in cd.yml
+2023-12-07T12:37:37 - PROJECT_SHIFT - test: Add integration tests for A/B testing framework
