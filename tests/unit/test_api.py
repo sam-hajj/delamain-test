@@ -192,3 +192,4 @@
 2023-12-06T18:17:16 - PROJECT_SHIFT - chore: Experiment with pandas in test_api.py
 2023-12-07T11:10:21 - PROJECT_SHIFT - chore: Experiment with fastapi in test_api.py
 2023-12-07T12:17:03 - PROJECT_SHIFT - chore: Experiment with numpy in test_api.py
+2023-12-07T12:24:30 - PROJECT_SHIFT - refactor: Adapt order for new requirements in test_api.py
