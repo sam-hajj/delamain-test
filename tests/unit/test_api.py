@@ -190,3 +190,4 @@
 2023-12-01T15:28:12 - PROJECT_SHIFT - feat: POC for real-time updates in unit
 2023-12-04T15:49:46 - PROJECT_SHIFT - refactor: Modularize UI in test_api.py
 2023-12-06T18:17:16 - PROJECT_SHIFT - chore: Experiment with pandas in test_api.py
+2023-12-07T11:10:21 - PROJECT_SHIFT - chore: Experiment with fastapi in test_api.py
