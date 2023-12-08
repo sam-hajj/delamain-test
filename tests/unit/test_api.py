@@ -194,3 +194,4 @@
 2023-12-07T12:17:03 - PROJECT_SHIFT - chore: Experiment with numpy in test_api.py
 2023-12-07T12:24:30 - PROJECT_SHIFT - refactor: Adapt order for new requirements in test_api.py
 2023-12-07T12:35:20 - PROJECT_SHIFT - test: Add integration tests for real-time updates
+2023-12-08T13:09:53 - PROJECT_SHIFT - refactor: Modularize UI in test_api.py
