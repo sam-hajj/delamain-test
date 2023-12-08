@@ -199,3 +199,4 @@
 2023-12-07T12:20:47 - PROJECT_SHIFT - feat: POC for machine learning model in core
 2023-12-07T12:49:43 - PROJECT_SHIFT - test: Add integration tests for real-time updates
 2023-12-08T11:02:36 - PROJECT_SHIFT - refactor: Modularize API gateway in config_loader.py
+2023-12-08T13:05:11 - PROJECT_SHIFT - refactor: Modularize backend in config_loader.py
