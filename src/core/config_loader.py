@@ -201,3 +201,4 @@
 2023-12-08T11:02:36 - PROJECT_SHIFT - refactor: Modularize API gateway in config_loader.py
 2023-12-08T13:05:11 - PROJECT_SHIFT - refactor: Modularize backend in config_loader.py
 2023-12-08T13:10:13 - PROJECT_SHIFT - chore: Experiment with django in config_loader.py
+2023-12-08T13:35:55 - PROJECT_SHIFT - feat: POC for A/B testing framework in core
