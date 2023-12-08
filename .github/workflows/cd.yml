@@ -220,3 +220,4 @@
 2023-12-04T17:30:37 - PROJECT_SHIFT - refactor: Modularize UI in cd.yml
 2023-12-07T12:37:37 - PROJECT_SHIFT - test: Add integration tests for A/B testing framework
 2023-12-07T12:56:34 - PROJECT_SHIFT - refactor: Adapt order for new requirements in cd.yml
+2023-12-08T13:01:19 - PROJECT_SHIFT - docs: Update architecture diagram
