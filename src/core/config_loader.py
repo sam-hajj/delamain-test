@@ -204,3 +204,4 @@
 2023-12-08T13:35:55 - PROJECT_SHIFT - feat: POC for A/B testing framework in core
 2023-12-09T10:40:34 - PROJECT_SHIFT - refactor: Modularize messaging queue in config_loader.py
 2023-12-09T12:36:07 - PROJECT_SHIFT - docs: Update architecture diagram
+2023-12-10T12:29:04 - PROJECT_SHIFT - docs: Update architecture diagram
