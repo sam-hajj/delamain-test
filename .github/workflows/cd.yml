@@ -224,3 +224,4 @@
 2023-12-08T13:12:41 - PROJECT_SHIFT - refactor: Modularize messaging queue in cd.yml
 2023-12-08T13:48:50 - PROJECT_SHIFT - test: Add integration tests for A/B testing framework
 2023-12-09T10:51:07 - PROJECT_SHIFT - refactor: Adapt order for new requirements in cd.yml
+2023-12-11T12:58:24 - PROJECT_SHIFT - chore: Experiment with vue in cd.yml
