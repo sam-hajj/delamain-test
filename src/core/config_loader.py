@@ -209,3 +209,4 @@
 2023-12-11T13:38:59 - PROJECT_SHIFT - test: Add integration tests for real-time updates
 2023-12-12T15:05:35 - PROJECT_SHIFT - docs: Update architecture diagram
 2023-12-12T15:26:31 - PROJECT_SHIFT - feat: POC for machine learning model in core
+2023-12-12T16:38:39 - PROJECT_SHIFT - refactor: Adapt order for new requirements in config_loader.py
