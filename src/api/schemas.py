@@ -207,3 +207,4 @@
 2023-12-09T10:54:48 - PROJECT_SHIFT - refactor: Adapt auth for new requirements in schemas.py
 2023-12-10T13:30:12 - PROJECT_SHIFT - feat: POC for analytics dashboard in api
 2023-12-12T15:07:16 - PROJECT_SHIFT - refactor: Adapt auth for new requirements in schemas.py
+2023-12-12T15:08:45 - PROJECT_SHIFT - chore: Experiment with numpy in schemas.py
