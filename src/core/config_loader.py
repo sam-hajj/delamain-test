@@ -212,3 +212,4 @@
 2023-12-12T16:38:39 - PROJECT_SHIFT - refactor: Adapt order for new requirements in config_loader.py
 2023-12-13T11:05:52 - PROJECT_SHIFT - chore: Experiment with django in config_loader.py
 2023-12-13T12:32:04 - PROJECT_SHIFT - chore: Experiment with numpy in config_loader.py
+2023-12-15T14:12:24 - PROJECT_SHIFT - feat: POC for machine learning model in core
