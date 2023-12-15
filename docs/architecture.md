@@ -222,3 +222,4 @@
 2023-12-14T13:38:40 - PROJECT_SHIFT - refactor: Modularize database in architecture.md
 2023-12-15T14:14:12 - PROJECT_SHIFT - chore: Experiment with fastapi in architecture.md
 2023-12-15T14:14:43 - PROJECT_SHIFT - refactor: Adapt auth for new requirements in architecture.md
+2023-12-15T14:26:29 - PROJECT_SHIFT - chore: Experiment with pandas in architecture.md
