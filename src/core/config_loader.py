@@ -217,3 +217,4 @@
 2023-12-15T14:36:15 - PROJECT_SHIFT - docs: Update architecture diagram
 2023-12-16T11:37:30 - PROJECT_SHIFT - feat: POC for machine learning model in core
 2023-12-16T13:32:56 - PROJECT_SHIFT - refactor: Modularize messaging queue in config_loader.py
+2023-12-17T14:03:39 - PROJECT_SHIFT - refactor: Adapt user for new requirements in config_loader.py
