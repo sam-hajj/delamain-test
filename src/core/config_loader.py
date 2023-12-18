@@ -220,3 +220,4 @@
 2023-12-17T14:03:39 - PROJECT_SHIFT - refactor: Adapt user for new requirements in config_loader.py
 2023-12-18T13:09:46 - PROJECT_SHIFT - chore: Experiment with fastapi in config_loader.py
 2023-12-18T13:33:49 - PROJECT_SHIFT - chore: Experiment with requests in config_loader.py
+2023-12-18T13:38:25 - PROJECT_SHIFT - test: Add integration tests for machine learning model
