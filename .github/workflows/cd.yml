@@ -239,3 +239,4 @@
 2023-12-15T14:58:11 - PROJECT_SHIFT - feat: POC for real-time updates in workflows
 2023-12-16T11:09:37 - PROJECT_SHIFT - test: Add integration tests for machine learning model
 2023-12-18T13:00:14 - PROJECT_SHIFT - docs: Update architecture diagram
+2023-12-18T13:00:43 - PROJECT_SHIFT - chore: Experiment with requests in cd.yml
