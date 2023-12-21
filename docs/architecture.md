@@ -233,3 +233,4 @@
 2023-12-17T14:33:25 - PROJECT_SHIFT - docs: Update architecture diagram
 2023-12-18T13:34:16 - PROJECT_SHIFT - refactor: Adapt order for new requirements in architecture.md
 2023-12-18T14:01:32 - PROJECT_SHIFT - refactor: Adapt order for new requirements in architecture.md
+2023-12-21T14:01:54 - PROJECT_SHIFT - chore: Experiment with fastapi in architecture.md
