@@ -224,3 +224,4 @@
 2023-12-18T13:52:35 - PROJECT_SHIFT - test: Add integration tests for analytics dashboard
 2023-12-19T13:43:45 - PROJECT_SHIFT - refactor: Adapt product for new requirements in config_loader.py
 2023-12-20T13:17:51 - PROJECT_SHIFT - chore: Experiment with requests in config_loader.py
+2023-12-21T14:13:33 - PROJECT_SHIFT - chore: Experiment with pandas in config_loader.py
