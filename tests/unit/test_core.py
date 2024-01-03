@@ -144,3 +144,4 @@
 2023-05-07T13:30:16 - RAMPING_UP - refactor: Improve auth structure in unit
 2023-05-07T13:32:10 - RAMPING_UP - feat: Implement basic notifications in test_core.py
 2024-01-03T13:09:53 - RAMPING_UP - feat: Implement basic notifications in test_core.py
+2024-01-03T13:15:47 - RAMPING_UP - chore: Update requirements.txt
