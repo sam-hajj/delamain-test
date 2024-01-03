@@ -145,3 +145,4 @@
 2023-05-07T13:32:10 - RAMPING_UP - feat: Implement basic notifications in test_core.py
 2024-01-03T13:09:53 - RAMPING_UP - feat: Implement basic notifications in test_core.py
 2024-01-03T13:15:47 - RAMPING_UP - chore: Update requirements.txt
+2024-01-03T13:56:18 - RAMPING_UP - feat: Add core logic for login service in test_core.py
