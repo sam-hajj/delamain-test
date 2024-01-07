@@ -397,3 +397,4 @@
 2023-05-21T11:48:27 - SUSTAINED_PEAK - fix: Resolve bug #361 in models.py
 2023-12-28T10:23:29 - RAMPING_UP - feat: Add core logic for search service in models.py
 2024-01-02T13:40:35 - RAMPING_UP - feat: Add core logic for payments service in models.py
+2024-01-07T11:17:52 - RAMPING_UP - docs: Detail setup instructions
