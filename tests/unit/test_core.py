@@ -149,3 +149,4 @@
 2024-01-04T11:43:31 - RAMPING_UP - feat: Implement basic notifications in test_core.py
 2024-01-07T11:45:59 - RAMPING_UP - docs: Detail setup instructions
 2024-01-08T13:30:04 - RAMPING_UP - feat: Add core logic for profile service in test_core.py
+2024-01-08T14:52:49 - RAMPING_UP - docs: Detail setup instructions
