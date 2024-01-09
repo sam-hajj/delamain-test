@@ -152,3 +152,4 @@
 2023-05-06T10:24:20 - RAMPING_UP - docs: Detail setup instructions
 2023-12-29T10:18:46 - RAMPING_UP - chore: Update requirements.txt
 2024-01-03T13:54:20 - RAMPING_UP - refactor: Improve auth structure in api
+2024-01-09T13:34:23 - RAMPING_UP - feat: Implement basic caching in server.py
