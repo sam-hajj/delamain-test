@@ -154,3 +154,4 @@
 2024-01-11T12:12:40 - RAMPING_UP - chore: Update requirements.txt
 2024-01-11T12:43:10 - RAMPING_UP - chore: Update requirements.txt
 2024-01-12T12:40:14 - RAMPING_UP - test: Add initial unit tests for test_core.py
+2024-01-12T12:45:29 - RAMPING_UP - refactor: Improve user structure in unit
