@@ -402,3 +402,4 @@
 2024-01-09T13:52:35 - RAMPING_UP - refactor: Improve inventory structure in core
 2024-01-15T10:34:11 - RAMPING_UP - feat: Implement basic login in models.py
 2024-01-22T14:10:02 - RAMPING_UP - chore: Update requirements.txt
+2024-01-22T15:37:25 - RAMPING_UP - test: Add initial unit tests for models.py
