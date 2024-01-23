@@ -162,3 +162,4 @@
 2024-01-12T14:52:48 - RAMPING_UP - refactor: Improve inventory structure in docs
 2024-01-20T11:11:08 - RAMPING_UP - feat: Implement basic caching in CONTRIBUTING.md
 2024-01-22T15:05:26 - RAMPING_UP - refactor: Improve order structure in docs
+2024-01-23T14:34:49 - RAMPING_UP - feat: Implement basic profile in CONTRIBUTING.md
