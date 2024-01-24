@@ -158,3 +158,4 @@
 2024-01-16T15:08:08 - RAMPING_UP - chore: Update requirements.txt
 2024-01-16T15:14:44 - RAMPING_UP - chore: Update requirements.txt
 2024-01-21T12:18:11 - RAMPING_UP - chore: Update requirements.txt
+2024-01-24T13:14:37 - RAMPING_UP - feat: Add core logic for search service in server.py
