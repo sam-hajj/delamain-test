@@ -224,3 +224,4 @@
 2024-01-12T13:07:05 - RAMPING_UP - test: Add initial unit tests for utils.py
 2024-01-21T12:45:41 - RAMPING_UP - chore: Update requirements.txt
 2024-01-24T12:55:59 - RAMPING_UP - feat: Implement basic search in utils.py
+2024-01-25T13:06:35 - RAMPING_UP - docs: Detail setup instructions
