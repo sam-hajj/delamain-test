@@ -161,3 +161,4 @@
 2024-01-20T11:45:17 - RAMPING_UP - docs: Detail setup instructions
 2024-01-22T14:04:08 - RAMPING_UP - feat: Implement basic data processing in test_core.py
 2024-01-27T12:54:29 - RAMPING_UP - refactor: Improve user structure in unit
+2024-01-29T15:28:33 - RAMPING_UP - chore: Update requirements.txt
