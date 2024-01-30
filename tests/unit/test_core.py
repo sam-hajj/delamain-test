@@ -163,3 +163,4 @@
 2024-01-27T12:54:29 - RAMPING_UP - refactor: Improve user structure in unit
 2024-01-29T15:28:33 - RAMPING_UP - chore: Update requirements.txt
 2024-01-29T15:41:05 - RAMPING_UP - chore: Update requirements.txt
+2024-01-30T15:55:03 - RAMPING_UP - feat: Add core logic for notifications service in test_core.py
