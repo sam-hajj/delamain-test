@@ -228,3 +228,4 @@
 2024-01-25T13:07:02 - RAMPING_UP - test: Add initial unit tests for utils.py
 2024-01-25T13:14:53 - RAMPING_UP - feat: Add core logic for search service in utils.py
 2024-01-30T16:44:11 - RAMPING_UP - chore: Update requirements.txt
+2024-01-31T11:03:03 - RAMPING_UP - refactor: Improve reporting structure in core
