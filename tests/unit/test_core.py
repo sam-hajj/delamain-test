@@ -166,3 +166,4 @@
 2024-01-30T15:55:03 - RAMPING_UP - feat: Add core logic for notifications service in test_core.py
 2024-01-30T16:30:06 - RAMPING_UP - docs: Detail setup instructions
 2024-01-31T10:33:16 - RAMPING_UP - chore: Update requirements.txt
+2024-01-31T11:22:58 - RAMPING_UP - chore: Update requirements.txt
