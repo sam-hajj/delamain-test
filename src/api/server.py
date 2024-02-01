@@ -164,3 +164,4 @@
 2024-01-30T16:02:08 - RAMPING_UP - chore: Update requirements.txt
 2024-02-01T11:22:34 - RAMPING_UP - refactor: Improve auth structure in api
 2024-02-01T11:46:21 - RAMPING_UP - chore: Update requirements.txt
+2024-02-01T11:58:39 - RAMPING_UP - docs: Detail setup instructions
