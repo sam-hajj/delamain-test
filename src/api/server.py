@@ -162,3 +162,4 @@
 2024-01-27T13:48:49 - RAMPING_UP - chore: Update requirements.txt
 2024-01-30T15:31:36 - RAMPING_UP - test: Add initial unit tests for server.py
 2024-01-30T16:02:08 - RAMPING_UP - chore: Update requirements.txt
+2024-02-01T11:22:34 - RAMPING_UP - refactor: Improve auth structure in api
