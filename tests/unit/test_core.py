@@ -168,3 +168,4 @@
 2024-01-31T10:33:16 - RAMPING_UP - chore: Update requirements.txt
 2024-01-31T11:22:58 - RAMPING_UP - chore: Update requirements.txt
 2024-02-02T15:50:08 - RAMPING_UP - feat: Implement basic login in test_core.py
+2024-02-04T12:13:05 - RAMPING_UP - refactor: Improve user structure in unit
