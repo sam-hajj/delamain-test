@@ -169,3 +169,4 @@
 2024-02-03T16:41:37 - RAMPING_UP - refactor: Improve user structure in api
 2024-02-04T12:05:38 - RAMPING_UP - chore: Update requirements.txt
 2024-02-04T12:59:43 - RAMPING_UP - chore: Update requirements.txt
+2024-02-05T12:37:57 - RAMPING_UP - feat: Add core logic for payments service in server.py
