@@ -240,3 +240,4 @@
 2024-02-12T12:16:10 - PROJECT_SHIFT - refactor: Adapt reporting for new requirements in architecture.md
 2024-02-12T12:50:53 - PROJECT_SHIFT - refactor: Modularize UI in architecture.md
 2024-02-12T12:52:18 - PROJECT_SHIFT - docs: Update architecture diagram
+2024-02-13T13:08:10 - PROJECT_SHIFT - refactor: Adapt user for new requirements in architecture.md
