@@ -226,3 +226,4 @@
 2023-12-20T13:17:51 - PROJECT_SHIFT - chore: Experiment with requests in config_loader.py
 2023-12-21T14:13:33 - PROJECT_SHIFT - chore: Experiment with pandas in config_loader.py
 2024-02-12T13:20:07 - PROJECT_SHIFT - feat: POC for analytics dashboard in core
+2024-02-13T13:04:38 - PROJECT_SHIFT - docs: Update architecture diagram
