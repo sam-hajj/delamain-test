@@ -215,3 +215,4 @@
 2023-12-19T13:22:35 - PROJECT_SHIFT - test: Add integration tests for A/B testing framework
 2024-02-16T11:17:00 - PROJECT_SHIFT - chore: Experiment with react in schemas.py
 2024-02-16T11:19:29 - PROJECT_SHIFT - feat: POC for machine learning model in api
+2024-02-19T13:17:28 - PROJECT_SHIFT - refactor: Adapt inventory for new requirements in schemas.py
