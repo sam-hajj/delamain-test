@@ -229,3 +229,4 @@
 2024-02-13T13:04:38 - PROJECT_SHIFT - docs: Update architecture diagram
 2024-02-16T11:53:22 - PROJECT_SHIFT - refactor: Modularize database in config_loader.py
 2024-02-19T14:27:15 - PROJECT_SHIFT - feat: POC for machine learning model in core
+2024-02-20T10:14:41 - PROJECT_SHIFT - refactor: Modularize backend in config_loader.py
