@@ -249,3 +249,4 @@
 2024-02-18T13:16:47 - PROJECT_SHIFT - feat: POC for A/B testing framework in docs
 2024-02-18T13:23:04 - PROJECT_SHIFT - refactor: Adapt auth for new requirements in architecture.md
 2024-02-20T12:00:28 - PROJECT_SHIFT - docs: Update architecture diagram
+2024-02-20T12:14:17 - PROJECT_SHIFT - feat: POC for A/B testing framework in docs
