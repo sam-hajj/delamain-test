@@ -218,3 +218,4 @@
 2024-02-19T13:17:28 - PROJECT_SHIFT - refactor: Adapt inventory for new requirements in schemas.py
 2024-02-20T12:30:52 - PROJECT_SHIFT - docs: Update architecture diagram
 2024-02-20T12:49:06 - PROJECT_SHIFT - test: Add integration tests for A/B testing framework
+2024-02-20T14:48:58 - PROJECT_SHIFT - docs: Update architecture diagram
