@@ -252,3 +252,4 @@
 2024-02-20T12:14:17 - PROJECT_SHIFT - feat: POC for A/B testing framework in docs
 2024-02-21T16:37:45 - PROJECT_SHIFT - refactor: Modularize API gateway in architecture.md
 2024-02-21T16:43:45 - PROJECT_SHIFT - docs: Update architecture diagram
+2024-02-22T13:02:46 - PROJECT_SHIFT - refactor: Modularize backend in architecture.md
