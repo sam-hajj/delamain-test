@@ -233,3 +233,4 @@
 2024-02-20T11:44:55 - PROJECT_SHIFT - refactor: Modularize messaging queue in config_loader.py
 2024-02-22T13:11:00 - PROJECT_SHIFT - feat: POC for analytics dashboard in core
 2024-02-26T12:10:36 - PROJECT_SHIFT - feat: POC for machine learning model in core
+2024-02-26T12:23:04 - PROJECT_SHIFT - refactor: Adapt auth for new requirements in config_loader.py
