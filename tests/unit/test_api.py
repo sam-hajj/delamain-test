@@ -219,3 +219,4 @@
 2024-02-13T13:50:48 - PROJECT_SHIFT - docs: Update architecture diagram
 2024-02-16T11:49:42 - PROJECT_SHIFT - docs: Update architecture diagram
 2024-02-22T14:46:48 - PROJECT_SHIFT - chore: Experiment with numpy in test_api.py
+2024-02-26T12:22:12 - PROJECT_SHIFT - refactor: Adapt order for new requirements in test_api.py
