@@ -255,3 +255,4 @@
 2024-02-22T14:47:04 - PROJECT_SHIFT - test: Add integration tests for A/B testing framework
 2024-02-24T15:53:27 - PROJECT_SHIFT - docs: Update architecture diagram
 2024-02-24T15:59:31 - PROJECT_SHIFT - feat: POC for analytics dashboard in workflows
+2024-02-26T10:27:33 - PROJECT_SHIFT - refactor: Modularize messaging queue in cd.yml
