@@ -232,3 +232,4 @@
 2024-02-20T10:14:41 - PROJECT_SHIFT - refactor: Modularize backend in config_loader.py
 2024-02-20T11:44:55 - PROJECT_SHIFT - refactor: Modularize messaging queue in config_loader.py
 2024-02-22T13:11:00 - PROJECT_SHIFT - feat: POC for analytics dashboard in core
+2024-02-26T12:10:36 - PROJECT_SHIFT - feat: POC for machine learning model in core
