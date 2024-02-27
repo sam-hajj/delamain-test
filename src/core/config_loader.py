@@ -235,3 +235,4 @@
 2024-02-26T12:10:36 - PROJECT_SHIFT - feat: POC for machine learning model in core
 2024-02-26T12:23:04 - PROJECT_SHIFT - refactor: Adapt auth for new requirements in config_loader.py
 2024-02-26T12:39:09 - PROJECT_SHIFT - refactor: Modularize API gateway in config_loader.py
+2024-02-27T12:37:09 - PROJECT_SHIFT - docs: Update architecture diagram
