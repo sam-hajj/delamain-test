@@ -225,3 +225,4 @@
 2024-02-28T13:49:56 - PROJECT_SHIFT - test: Add integration tests for analytics dashboard
 2024-02-28T15:47:45 - PROJECT_SHIFT - refactor: Modularize UI in test_api.py
 2024-03-01T16:57:43 - PROJECT_SHIFT - refactor: Adapt user for new requirements in test_api.py
+2024-03-04T10:37:24 - PROJECT_SHIFT - chore: Experiment with pandas in test_api.py
