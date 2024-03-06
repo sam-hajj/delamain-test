@@ -261,3 +261,4 @@
 2024-02-27T16:26:03 - PROJECT_SHIFT - chore: Experiment with vue in architecture.md
 2024-02-28T13:20:52 - PROJECT_SHIFT - refactor: Adapt user for new requirements in architecture.md
 2024-02-29T11:31:46 - PROJECT_SHIFT - refactor: Modularize backend in architecture.md
+2024-03-06T13:45:53 - PROJECT_SHIFT - chore: Experiment with django in architecture.md
