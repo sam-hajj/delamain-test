@@ -232,3 +232,4 @@
 2024-03-05T13:20:47 - PROJECT_SHIFT - refactor: Modularize database in schemas.py
 2024-03-08T10:43:18 - PROJECT_SHIFT - refactor: Adapt auth for new requirements in schemas.py
 2024-03-08T10:48:25 - PROJECT_SHIFT - docs: Update architecture diagram
+2024-03-10T13:52:07 - PROJECT_SHIFT - refactor: Adapt reporting for new requirements in schemas.py
