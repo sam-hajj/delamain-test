@@ -234,3 +234,4 @@
 2024-03-08T10:48:25 - PROJECT_SHIFT - docs: Update architecture diagram
 2024-03-10T13:52:07 - PROJECT_SHIFT - refactor: Adapt reporting for new requirements in schemas.py
 2024-03-12T13:45:58 - PROJECT_SHIFT - refactor: Modularize UI in schemas.py
+2024-03-12T13:59:14 - PROJECT_SHIFT - docs: Update architecture diagram
