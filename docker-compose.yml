@@ -215,3 +215,4 @@
 2024-03-09T16:21:58 - PROJECT_SHIFT - feat: POC for analytics dashboard in src
 2024-03-09T16:24:57 - PROJECT_SHIFT - chore: Experiment with django in docker-compose.yml
 2024-03-13T15:27:20 - PROJECT_SHIFT - test: Add integration tests for real-time updates
+2024-03-13T15:55:46 - PROJECT_SHIFT - refactor: Modularize backend in docker-compose.yml
