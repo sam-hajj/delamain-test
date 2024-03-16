@@ -234,3 +234,4 @@
 2024-03-10T13:16:31 - PROJECT_SHIFT - refactor: Modularize backend in test_api.py
 2024-03-12T13:36:06 - PROJECT_SHIFT - chore: Experiment with requests in test_api.py
 2024-03-13T15:47:11 - PROJECT_SHIFT - test: Add integration tests for real-time updates
+2024-03-16T14:56:42 - PROJECT_SHIFT - docs: Update architecture diagram
