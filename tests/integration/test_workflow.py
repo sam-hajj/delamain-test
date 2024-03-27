@@ -479,3 +479,4 @@
 2023-10-15T12:41:26 - MAINTENANCE_LOW - style: Formatting adjustments in test_workflow.py
 2023-10-16T12:17:29 - MAINTENANCE_LOW - style: Formatting adjustments in test_workflow.py
 2023-10-16T12:57:20 - MAINTENANCE_LOW - chore: Rotate logs or cleanup artifacts
+2024-03-27T13:32:41 - MAINTENANCE_LOW - ci: Tweak workflow triggers in test_workflow.py
