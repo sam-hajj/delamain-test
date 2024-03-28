@@ -503,3 +503,4 @@
 2023-10-16T12:39:07 - MAINTENANCE_LOW - ci: Tweak workflow triggers in LICENSE
 2024-03-27T13:10:26 - MAINTENANCE_LOW - style: Formatting adjustments in LICENSE
 2024-03-27T13:52:24 - MAINTENANCE_LOW - chore: Update dependencies (maven)
+2024-03-28T10:13:40 - MAINTENANCE_LOW - docs: Minor clarification in LICENSE
