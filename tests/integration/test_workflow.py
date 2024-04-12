@@ -489,3 +489,4 @@
 2024-04-04T11:16:01 - MAINTENANCE_LOW - ci: Tweak workflow triggers in test_workflow.py
 2024-04-12T11:14:06 - MAINTENANCE_LOW - style: Formatting adjustments in test_workflow.py
 2024-04-12T12:11:49 - MAINTENANCE_LOW - chore: Update dependencies (pip)
+2024-04-12T13:58:02 - MAINTENANCE_LOW - ci: Tweak workflow triggers in test_workflow.py
