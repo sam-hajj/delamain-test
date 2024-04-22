@@ -500,3 +500,4 @@
 2024-04-21T12:21:14 - MAINTENANCE_LOW - fix: Small bugfix in test_workflow.py
 2024-04-22T15:04:51 - MAINTENANCE_LOW - ci: Tweak workflow triggers in test_workflow.py
 2024-04-22T15:16:40 - MAINTENANCE_LOW - ci: Tweak workflow triggers in test_workflow.py
+2024-04-22T15:34:34 - MAINTENANCE_LOW - ci: Tweak workflow triggers in test_workflow.py
