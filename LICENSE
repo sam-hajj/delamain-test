@@ -517,3 +517,4 @@
 2024-04-22T15:03:02 - MAINTENANCE_LOW - fix: Small bugfix in LICENSE
 2024-04-23T15:05:47 - MAINTENANCE_LOW - fix: Small bugfix in LICENSE
 2024-04-23T15:55:49 - MAINTENANCE_LOW - style: Formatting adjustments in LICENSE
+2024-04-24T11:19:31 - MAINTENANCE_LOW - ci: Tweak workflow triggers in LICENSE
