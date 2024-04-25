@@ -664,3 +664,4 @@
 2024-04-25T10:29:07 - MAINTENANCE_LOW - chore: Rotate logs or cleanup artifacts
 2024-04-25T10:45:18 - MAINTENANCE_LOW - ci: Tweak workflow triggers in requirements.txt
 2024-04-25T10:45:38 - MAINTENANCE_LOW - fix: Small bugfix in requirements.txt
+2024-04-25T10:49:04 - MAINTENANCE_LOW - docs: Minor clarification in requirements.txt
