@@ -522,3 +522,4 @@
 2024-04-25T10:05:34 - MAINTENANCE_LOW - style: Formatting adjustments in LICENSE
 2024-04-25T10:50:56 - MAINTENANCE_LOW - style: Formatting adjustments in LICENSE
 2024-04-26T15:04:20 - MAINTENANCE_LOW - docs: Minor clarification in LICENSE
+2024-04-26T15:21:25 - MAINTENANCE_LOW - ci: Tweak workflow triggers in LICENSE
