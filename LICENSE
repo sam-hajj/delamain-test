@@ -575,3 +575,4 @@
 2024-06-12T10:28:12 - MAINTENANCE_LOW - chore: Update dependencies (pip)
 2024-06-12T10:54:28 - MAINTENANCE_LOW - style: Formatting adjustments in LICENSE
 2024-06-13T11:04:28 - MAINTENANCE_LOW - style: Formatting adjustments in LICENSE
+2024-06-13T11:39:45 - MAINTENANCE_LOW - ci: Tweak workflow triggers in LICENSE
