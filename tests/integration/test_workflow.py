@@ -555,3 +555,4 @@
 2024-06-13T11:25:28 - MAINTENANCE_LOW - chore: Update dependencies (pip)
 2024-06-14T13:13:32 - MAINTENANCE_LOW - fix: Small bugfix in test_workflow.py
 2024-06-14T13:25:10 - MAINTENANCE_LOW - ci: Tweak workflow triggers in test_workflow.py
+2024-06-20T11:09:54 - MAINTENANCE_LOW - chore: Update dependencies (maven)
