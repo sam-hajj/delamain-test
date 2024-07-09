@@ -732,3 +732,4 @@
 2024-06-30T12:56:41 - MAINTENANCE_LOW - ci: Tweak workflow triggers in requirements.txt
 2024-07-03T12:31:03 - MAINTENANCE_LOW - style: Formatting adjustments in requirements.txt
 2024-07-08T14:06:16 - MAINTENANCE_LOW - fix: Small bugfix in requirements.txt
+2024-07-09T12:09:12 - MAINTENANCE_LOW - ci: Tweak workflow triggers in requirements.txt
