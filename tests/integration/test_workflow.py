@@ -582,3 +582,4 @@
 2024-07-26T10:46:46 - MAINTENANCE_LOW - chore: Rotate logs or cleanup artifacts
 2024-07-28T11:55:43 - MAINTENANCE_LOW - fix: Small bugfix in test_workflow.py
 2024-07-28T12:04:38 - MAINTENANCE_LOW - style: Formatting adjustments in test_workflow.py
+2024-07-28T12:10:41 - MAINTENANCE_LOW - ci: Tweak workflow triggers in test_workflow.py
