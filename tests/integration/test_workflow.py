@@ -584,3 +584,4 @@
 2024-07-28T12:04:38 - MAINTENANCE_LOW - style: Formatting adjustments in test_workflow.py
 2024-07-28T12:10:41 - MAINTENANCE_LOW - ci: Tweak workflow triggers in test_workflow.py
 2024-07-29T15:20:47 - MAINTENANCE_LOW - chore: Update dependencies (yarn)
+2024-07-31T12:13:36 - MAINTENANCE_LOW - ci: Tweak workflow triggers in test_workflow.py
