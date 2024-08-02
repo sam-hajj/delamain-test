@@ -750,3 +750,4 @@
 2024-07-29T15:40:18 - MAINTENANCE_LOW - fix: Small bugfix in requirements.txt
 2024-08-01T12:32:59 - MAINTENANCE_LOW - fix: Small bugfix in requirements.txt
 2024-08-01T13:01:34 - MAINTENANCE_LOW - ci: Tweak workflow triggers in requirements.txt
+2024-08-02T13:22:46 - MAINTENANCE_LOW - chore: Update dependencies (yarn)
