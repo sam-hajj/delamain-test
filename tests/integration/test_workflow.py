@@ -589,3 +589,4 @@
 2024-07-31T14:18:06 - MAINTENANCE_LOW - ci: Tweak workflow triggers in test_workflow.py
 2024-08-01T13:26:38 - MAINTENANCE_LOW - chore: Update dependencies (pip)
 2024-08-04T10:27:34 - MAINTENANCE_LOW - docs: Minor clarification in test_workflow.py
+2024-08-05T14:44:48 - MAINTENANCE_LOW - fix: Small bugfix in test_workflow.py
