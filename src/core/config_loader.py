@@ -245,3 +245,4 @@
 2024-03-13T15:16:04 - PROJECT_SHIFT - refactor: Modularize UI in config_loader.py
 2024-03-16T12:58:15 - PROJECT_SHIFT - test: Add integration tests for machine learning model
 2024-08-08T15:06:49 - PROJECT_SHIFT - feat: POC for analytics dashboard in core
+2024-08-09T15:45:02 - PROJECT_SHIFT - docs: Update architecture diagram
