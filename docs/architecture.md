@@ -272,3 +272,4 @@
 2024-03-16T12:04:05 - PROJECT_SHIFT - refactor: Modularize backend in architecture.md
 2024-08-08T14:55:47 - PROJECT_SHIFT - refactor: Adapt reporting for new requirements in architecture.md
 2024-08-08T14:59:41 - PROJECT_SHIFT - chore: Experiment with pandas in architecture.md
+2024-08-09T16:43:41 - PROJECT_SHIFT - chore: Experiment with vue in architecture.md
