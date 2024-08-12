@@ -248,3 +248,4 @@
 2024-08-09T15:45:02 - PROJECT_SHIFT - docs: Update architecture diagram
 2024-08-09T16:10:29 - PROJECT_SHIFT - chore: Experiment with react in config_loader.py
 2024-08-11T12:24:56 - PROJECT_SHIFT - feat: POC for real-time updates in core
+2024-08-12T11:30:47 - PROJECT_SHIFT - refactor: Adapt inventory for new requirements in config_loader.py
