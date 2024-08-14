@@ -250,3 +250,4 @@
 2024-08-11T12:24:56 - PROJECT_SHIFT - feat: POC for real-time updates in core
 2024-08-12T11:30:47 - PROJECT_SHIFT - refactor: Adapt inventory for new requirements in config_loader.py
 2024-08-12T11:59:30 - PROJECT_SHIFT - docs: Update architecture diagram
+2024-08-14T14:57:45 - PROJECT_SHIFT - feat: POC for A/B testing framework in core
