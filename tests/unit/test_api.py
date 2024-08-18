@@ -237,3 +237,4 @@
 2024-03-16T14:56:42 - PROJECT_SHIFT - docs: Update architecture diagram
 2024-08-09T16:22:40 - PROJECT_SHIFT - feat: POC for real-time updates in unit
 2024-08-14T14:58:43 - PROJECT_SHIFT - chore: Experiment with pandas in test_api.py
+2024-08-18T14:27:40 - PROJECT_SHIFT - test: Add integration tests for A/B testing framework
