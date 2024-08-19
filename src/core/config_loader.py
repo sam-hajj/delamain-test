@@ -254,3 +254,4 @@
 2024-08-14T16:02:22 - PROJECT_SHIFT - docs: Update architecture diagram
 2024-08-16T12:32:02 - PROJECT_SHIFT - chore: Experiment with numpy in config_loader.py
 2024-08-19T11:59:28 - PROJECT_SHIFT - docs: Update architecture diagram
+2024-08-19T12:21:43 - PROJECT_SHIFT - refactor: Adapt order for new requirements in config_loader.py
