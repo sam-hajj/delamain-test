@@ -256,3 +256,4 @@
 2024-08-19T11:59:28 - PROJECT_SHIFT - docs: Update architecture diagram
 2024-08-19T12:21:43 - PROJECT_SHIFT - refactor: Adapt order for new requirements in config_loader.py
 2024-08-19T12:44:59 - PROJECT_SHIFT - chore: Experiment with pandas in config_loader.py
+2024-08-19T13:35:31 - PROJECT_SHIFT - test: Add integration tests for A/B testing framework
