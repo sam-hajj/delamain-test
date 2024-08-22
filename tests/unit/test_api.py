@@ -241,3 +241,4 @@
 2024-08-18T15:08:54 - PROJECT_SHIFT - refactor: Modularize backend in test_api.py
 2024-08-20T13:44:25 - PROJECT_SHIFT - docs: Update architecture diagram
 2024-08-20T14:47:07 - PROJECT_SHIFT - refactor: Adapt auth for new requirements in test_api.py
+2024-08-22T16:55:55 - PROJECT_SHIFT - refactor: Adapt product for new requirements in test_api.py
