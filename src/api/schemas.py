@@ -247,3 +247,4 @@
 2024-08-22T16:52:11 - PROJECT_SHIFT - feat: POC for machine learning model in api
 2024-08-23T14:40:33 - PROJECT_SHIFT - refactor: Adapt reporting for new requirements in schemas.py
 2024-08-23T15:25:19 - PROJECT_SHIFT - docs: Update architecture diagram
+2024-08-25T14:03:13 - PROJECT_SHIFT - docs: Update architecture diagram
