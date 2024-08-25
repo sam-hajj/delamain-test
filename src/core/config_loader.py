@@ -259,3 +259,4 @@
 2024-08-19T13:35:31 - PROJECT_SHIFT - test: Add integration tests for A/B testing framework
 2024-08-20T14:29:48 - PROJECT_SHIFT - feat: POC for real-time updates in core
 2024-08-20T16:48:24 - PROJECT_SHIFT - test: Add integration tests for machine learning model
+2024-08-25T14:26:27 - PROJECT_SHIFT - refactor: Adapt auth for new requirements in config_loader.py
