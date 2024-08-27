@@ -261,3 +261,4 @@
 2024-08-20T16:48:24 - PROJECT_SHIFT - test: Add integration tests for machine learning model
 2024-08-25T14:26:27 - PROJECT_SHIFT - refactor: Adapt auth for new requirements in config_loader.py
 2024-08-26T12:50:19 - PROJECT_SHIFT - refactor: Adapt user for new requirements in config_loader.py
+2024-08-27T12:59:44 - PROJECT_SHIFT - refactor: Modularize UI in config_loader.py
