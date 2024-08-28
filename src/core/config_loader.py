@@ -262,3 +262,4 @@
 2024-08-25T14:26:27 - PROJECT_SHIFT - refactor: Adapt auth for new requirements in config_loader.py
 2024-08-26T12:50:19 - PROJECT_SHIFT - refactor: Adapt user for new requirements in config_loader.py
 2024-08-27T12:59:44 - PROJECT_SHIFT - refactor: Modularize UI in config_loader.py
+2024-08-28T13:29:20 - PROJECT_SHIFT - chore: Experiment with requests in config_loader.py
