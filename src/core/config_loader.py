@@ -265,3 +265,4 @@
 2024-08-28T13:29:20 - PROJECT_SHIFT - chore: Experiment with requests in config_loader.py
 2024-08-28T14:23:15 - PROJECT_SHIFT - refactor: Adapt user for new requirements in config_loader.py
 2024-08-28T14:46:56 - PROJECT_SHIFT - feat: POC for A/B testing framework in core
+2024-08-29T13:33:12 - PROJECT_SHIFT - chore: Experiment with django in config_loader.py
