@@ -234,3 +234,4 @@
 2024-08-28T14:58:02 - PROJECT_SHIFT - docs: Update architecture diagram
 2024-08-29T15:06:27 - PROJECT_SHIFT - feat: POC for machine learning model in src
 2024-09-01T11:13:50 - PROJECT_SHIFT - refactor: Modularize messaging queue in docker-compose.yml
+2024-09-01T12:41:10 - PROJECT_SHIFT - feat: POC for A/B testing framework in src
