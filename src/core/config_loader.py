@@ -267,3 +267,4 @@
 2024-08-28T14:46:56 - PROJECT_SHIFT - feat: POC for A/B testing framework in core
 2024-08-29T13:33:12 - PROJECT_SHIFT - chore: Experiment with django in config_loader.py
 2024-09-01T12:59:47 - PROJECT_SHIFT - refactor: Adapt order for new requirements in config_loader.py
+2024-09-02T14:50:24 - PROJECT_SHIFT - docs: Update architecture diagram
