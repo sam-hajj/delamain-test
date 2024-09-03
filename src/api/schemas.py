@@ -250,3 +250,4 @@
 2024-08-25T14:03:13 - PROJECT_SHIFT - docs: Update architecture diagram
 2024-08-26T14:53:34 - PROJECT_SHIFT - refactor: Adapt auth for new requirements in schemas.py
 2024-09-01T12:02:36 - PROJECT_SHIFT - refactor: Adapt auth for new requirements in schemas.py
+2024-09-03T13:31:18 - PROJECT_SHIFT - chore: Experiment with fastapi in schemas.py
