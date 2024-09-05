@@ -251,3 +251,4 @@
 2024-08-26T14:53:34 - PROJECT_SHIFT - refactor: Adapt auth for new requirements in schemas.py
 2024-09-01T12:02:36 - PROJECT_SHIFT - refactor: Adapt auth for new requirements in schemas.py
 2024-09-03T13:31:18 - PROJECT_SHIFT - chore: Experiment with fastapi in schemas.py
+2024-09-05T11:10:49 - PROJECT_SHIFT - chore: Experiment with numpy in schemas.py
