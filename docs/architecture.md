@@ -289,3 +289,4 @@
 2024-09-05T11:59:21 - PROJECT_SHIFT - refactor: Adapt user for new requirements in architecture.md
 2024-09-08T14:39:54 - PROJECT_SHIFT - refactor: Modularize database in architecture.md
 2024-09-08T14:41:30 - PROJECT_SHIFT - refactor: Adapt order for new requirements in architecture.md
+2024-09-11T13:51:00 - PROJECT_SHIFT - refactor: Modularize UI in architecture.md
