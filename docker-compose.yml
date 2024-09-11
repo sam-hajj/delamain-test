@@ -239,3 +239,4 @@
 2024-09-03T13:13:15 - PROJECT_SHIFT - test: Add integration tests for machine learning model
 2024-09-04T13:37:03 - PROJECT_SHIFT - docs: Update architecture diagram
 2024-09-04T13:41:09 - PROJECT_SHIFT - test: Add integration tests for machine learning model
+2024-09-11T14:17:22 - PROJECT_SHIFT - chore: Experiment with fastapi in docker-compose.yml
