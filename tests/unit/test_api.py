@@ -258,3 +258,4 @@
 2024-09-13T13:35:48 - PROJECT_SHIFT - refactor: Modularize UI in test_api.py
 2024-09-13T14:08:32 - PROJECT_SHIFT - chore: Experiment with react in test_api.py
 2024-09-13T14:19:48 - PROJECT_SHIFT - chore: Experiment with react in test_api.py
+2024-09-13T14:27:51 - PROJECT_SHIFT - docs: Update architecture diagram
