@@ -292,3 +292,4 @@
 2024-09-10T14:12:09 - PROJECT_SHIFT - docs: Update architecture diagram
 2024-09-10T14:37:10 - PROJECT_SHIFT - docs: Update architecture diagram
 2024-09-11T13:53:42 - PROJECT_SHIFT - feat: POC for A/B testing framework in workflows
+2024-09-13T14:11:18 - PROJECT_SHIFT - refactor: Modularize messaging queue in cd.yml
