@@ -291,3 +291,4 @@
 2024-09-08T14:41:30 - PROJECT_SHIFT - refactor: Adapt order for new requirements in architecture.md
 2024-09-11T13:51:00 - PROJECT_SHIFT - refactor: Modularize UI in architecture.md
 2024-09-17T07:20:55 - PROJECT_SHIFT - refactor: Adapt reporting for new requirements in architecture.md
+2024-09-17T09:25:57 - PROJECT_SHIFT - feat: POC for A/B testing framework in docs
