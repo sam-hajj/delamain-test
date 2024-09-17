@@ -294,3 +294,4 @@
 2024-09-11T13:53:42 - PROJECT_SHIFT - feat: POC for A/B testing framework in workflows
 2024-09-13T14:11:18 - PROJECT_SHIFT - refactor: Modularize messaging queue in cd.yml
 2024-09-17T09:20:42 - PROJECT_SHIFT - feat: POC for A/B testing framework in workflows
+2024-09-17T09:32:22 - PROJECT_SHIFT - test: Add integration tests for A/B testing framework
