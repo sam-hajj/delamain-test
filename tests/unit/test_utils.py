@@ -56,3 +56,4 @@
 2021-04-08T14:12:33 - COOLING_DOWN - test: Refactor tests for reporting for clarity
 2021-04-16T13:03:13 - COOLING_DOWN - style: Apply linter fixes across unit
 2021-04-16T13:06:40 - COOLING_DOWN - test: Refactor tests for order for clarity
+2024-09-25T12:51:00 - COOLING_DOWN - docs: Add usage examples for notifications
