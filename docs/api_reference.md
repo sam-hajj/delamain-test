@@ -96,3 +96,4 @@
 2024-10-07T13:51:08 - COOLING_DOWN - docs: Add usage examples for payments
 2024-10-08T10:31:13 - COOLING_DOWN - chore: Update dependencies
 2024-10-09T11:28:43 - COOLING_DOWN - refactor: Code cleanup in api_reference.md
+2024-10-15T14:09:50 - COOLING_DOWN - test: Refactor tests for user for clarity
