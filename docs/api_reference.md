@@ -102,3 +102,4 @@
 2024-10-16T12:19:16 - COOLING_DOWN - style: Apply linter fixes across docs
 2024-10-17T10:22:52 - COOLING_DOWN - style: Apply linter fixes across docs
 2024-10-17T10:37:28 - COOLING_DOWN - chore: Update dependencies
+2024-10-17T10:48:59 - COOLING_DOWN - docs: Add usage examples for caching
