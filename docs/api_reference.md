@@ -110,3 +110,4 @@
 2024-10-21T11:23:16 - COOLING_DOWN - docs: Add usage examples for login
 2024-10-21T11:47:04 - COOLING_DOWN - fix: Address minor issues from backlog (related to api_reference.md)
 2024-10-23T10:00:33 - COOLING_DOWN - docs: Add usage examples for profile
+2024-10-25T14:04:49 - COOLING_DOWN - docs: Add usage examples for notifications
