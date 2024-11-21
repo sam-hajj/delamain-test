@@ -761,3 +761,4 @@
 2024-11-15T14:53:29 - MAINTENANCE_LOW - docs: Minor clarification in requirements.txt
 2024-11-17T11:28:16 - MAINTENANCE_LOW - style: Formatting adjustments in requirements.txt
 2024-11-20T09:49:50 - MAINTENANCE_LOW - docs: Minor clarification in requirements.txt
+2024-11-21T15:11:07 - MAINTENANCE_LOW - ci: Tweak workflow triggers in requirements.txt
