@@ -776,3 +776,4 @@
 2024-11-29T13:44:13 - MAINTENANCE_LOW - chore: Update dependencies (pip)
 2024-11-30T08:47:58 - MAINTENANCE_LOW - chore: Update dependencies (npm)
 2024-11-30T10:01:35 - MAINTENANCE_LOW - docs: Minor clarification in requirements.txt
+2024-12-03T09:20:51 - MAINTENANCE_LOW - ci: Tweak workflow triggers in requirements.txt
