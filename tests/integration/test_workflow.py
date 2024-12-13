@@ -617,3 +617,4 @@
 2024-12-11T12:14:34 - MAINTENANCE_LOW - fix: Small bugfix in test_workflow.py
 2024-12-12T10:37:41 - MAINTENANCE_LOW - style: Formatting adjustments in test_workflow.py
 2024-12-13T15:15:01 - MAINTENANCE_LOW - chore: Update dependencies (maven)
+2024-12-13T15:19:10 - MAINTENANCE_LOW - fix: Small bugfix in test_workflow.py
