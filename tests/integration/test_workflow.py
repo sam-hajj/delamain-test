@@ -627,3 +627,4 @@
 2024-12-19T13:40:15 - MAINTENANCE_LOW - ci: Tweak workflow triggers in test_workflow.py
 2024-12-19T14:39:45 - MAINTENANCE_LOW - chore: Update dependencies (maven)
 2024-12-27T10:00:10 - MAINTENANCE_LOW - fix: Small bugfix in test_workflow.py
+2024-12-27T11:47:04 - MAINTENANCE_LOW - chore: Update dependencies (gradle)
