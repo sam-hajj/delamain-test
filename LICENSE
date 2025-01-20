@@ -659,3 +659,4 @@
 2025-01-16T13:49:24 - MAINTENANCE_LOW - fix: Small bugfix in LICENSE
 2025-01-17T12:15:14 - MAINTENANCE_LOW - docs: Minor clarification in LICENSE
 2025-01-20T12:03:56 - MAINTENANCE_LOW - docs: Minor clarification in LICENSE
+2025-01-20T12:26:59 - MAINTENANCE_LOW - ci: Tweak workflow triggers in LICENSE
