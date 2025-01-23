@@ -666,3 +666,4 @@
 2025-01-22T15:05:49 - MAINTENANCE_LOW - chore: Update dependencies (yarn)
 2025-01-22T15:13:54 - MAINTENANCE_LOW - style: Formatting adjustments in LICENSE
 2025-01-22T15:19:54 - MAINTENANCE_LOW - style: Formatting adjustments in LICENSE
+2025-01-23T13:32:12 - MAINTENANCE_LOW - ci: Tweak workflow triggers in LICENSE
