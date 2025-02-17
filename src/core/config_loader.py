@@ -275,3 +275,4 @@
 2024-09-17T09:20:12 - PROJECT_SHIFT - refactor: Adapt product for new requirements in config_loader.py
 2024-09-21T13:39:40 - PROJECT_SHIFT - feat: POC for real-time updates in core
 2024-09-22T10:44:35 - PROJECT_SHIFT - feat: POC for machine learning model in core
+2025-02-17T10:11:08 - PROJECT_SHIFT - chore: Experiment with vue in config_loader.py
