@@ -298,3 +298,4 @@
 2024-09-17T09:34:06 - PROJECT_SHIFT - feat: POC for machine learning model in workflows
 2024-09-21T13:20:05 - PROJECT_SHIFT - feat: POC for machine learning model in workflows
 2024-09-22T10:13:39 - PROJECT_SHIFT - refactor: Modularize backend in cd.yml
+2025-02-17T12:00:28 - PROJECT_SHIFT - test: Add integration tests for A/B testing framework
