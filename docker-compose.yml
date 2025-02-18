@@ -245,3 +245,4 @@
 2025-02-18T13:25:25 - PROJECT_SHIFT - feat: POC for machine learning model in src
 2025-02-18T13:42:25 - PROJECT_SHIFT - docs: Update architecture diagram
 2025-02-18T13:52:16 - PROJECT_SHIFT - refactor: Adapt reporting for new requirements in docker-compose.yml
+2025-02-18T13:58:56 - PROJECT_SHIFT - refactor: Adapt auth for new requirements in docker-compose.yml
