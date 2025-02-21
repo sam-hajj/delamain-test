@@ -262,3 +262,4 @@
 2025-02-20T13:02:02 - PROJECT_SHIFT - refactor: Adapt order for new requirements in schemas.py
 2025-02-20T13:08:03 - PROJECT_SHIFT - feat: POC for analytics dashboard in api
 2025-02-21T12:15:34 - PROJECT_SHIFT - test: Add integration tests for A/B testing framework
+2025-02-21T14:00:37 - PROJECT_SHIFT - feat: POC for A/B testing framework in api
