@@ -293,3 +293,4 @@
 2024-09-17T07:20:55 - PROJECT_SHIFT - refactor: Adapt reporting for new requirements in architecture.md
 2024-09-17T09:25:57 - PROJECT_SHIFT - feat: POC for A/B testing framework in docs
 2024-09-22T10:36:26 - PROJECT_SHIFT - refactor: Modularize API gateway in architecture.md
+2025-02-21T12:28:28 - PROJECT_SHIFT - docs: Update architecture diagram
