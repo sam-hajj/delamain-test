@@ -277,3 +277,4 @@
 2024-09-22T10:44:35 - PROJECT_SHIFT - feat: POC for machine learning model in core
 2025-02-17T10:11:08 - PROJECT_SHIFT - chore: Experiment with vue in config_loader.py
 2025-02-18T13:30:53 - PROJECT_SHIFT - refactor: Adapt product for new requirements in config_loader.py
+2025-02-22T12:30:24 - PROJECT_SHIFT - docs: Update architecture diagram
