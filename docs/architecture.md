@@ -295,3 +295,4 @@
 2024-09-22T10:36:26 - PROJECT_SHIFT - refactor: Modularize API gateway in architecture.md
 2025-02-21T12:28:28 - PROJECT_SHIFT - docs: Update architecture diagram
 2025-02-24T10:13:05 - PROJECT_SHIFT - test: Add integration tests for A/B testing framework
+2025-02-24T10:48:48 - PROJECT_SHIFT - refactor: Adapt inventory for new requirements in architecture.md
