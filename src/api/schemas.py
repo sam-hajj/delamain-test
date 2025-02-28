@@ -268,3 +268,4 @@
 2025-02-24T11:38:49 - PROJECT_SHIFT - chore: Experiment with pandas in schemas.py
 2025-02-26T12:00:11 - PROJECT_SHIFT - refactor: Modularize messaging queue in schemas.py
 2025-02-27T15:00:55 - PROJECT_SHIFT - feat: POC for A/B testing framework in api
+2025-02-28T13:42:43 - PROJECT_SHIFT - test: Add integration tests for A/B testing framework
