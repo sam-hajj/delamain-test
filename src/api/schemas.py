@@ -270,3 +270,4 @@
 2025-02-27T15:00:55 - PROJECT_SHIFT - feat: POC for A/B testing framework in api
 2025-02-28T13:42:43 - PROJECT_SHIFT - test: Add integration tests for A/B testing framework
 2025-03-03T11:37:05 - PROJECT_SHIFT - chore: Experiment with requests in schemas.py
+2025-03-05T13:49:58 - PROJECT_SHIFT - refactor: Adapt user for new requirements in schemas.py
