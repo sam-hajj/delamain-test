@@ -259,3 +259,4 @@
 2025-02-27T17:05:05 - PROJECT_SHIFT - feat: POC for machine learning model in src
 2025-02-28T14:09:16 - PROJECT_SHIFT - refactor: Adapt user for new requirements in docker-compose.yml
 2025-03-04T10:28:20 - PROJECT_SHIFT - feat: POC for real-time updates in src
+2025-03-06T15:16:11 - PROJECT_SHIFT - refactor: Modularize API gateway in docker-compose.yml
