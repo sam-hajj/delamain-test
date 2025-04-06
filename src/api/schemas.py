@@ -277,3 +277,4 @@
 2025-03-19T12:33:39 - PROJECT_SHIFT - docs: Update architecture diagram
 2025-04-03T13:27:12 - PROJECT_SHIFT - docs: Update architecture diagram
 2025-04-04T12:44:16 - PROJECT_SHIFT - docs: Update architecture diagram
+2025-04-06T11:07:13 - PROJECT_SHIFT - refactor: Adapt inventory for new requirements in schemas.py
